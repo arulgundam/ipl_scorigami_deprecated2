@@ -20,7 +20,7 @@ fetch('/data')
                 opacity: 0.8
             },
             type: 'scatter',
-            text: data.map(d => `<i>${d.description}</i><br><span>${d.name} | <b>${d.result}</b></span>`), // Updated hover text format
+            text: data.map(d => `<i>${d.description}</i><br><span>${d.name} | <b>${d.result}</b> | 1st: ${d.first_innings_score}, 2nd: ${d.second_innings_score}<span>`), // Updated hover text format
             hoverinfo: 'text',
             hoverlabel: { bgcolor: 'white', bordercolor: 'black', font: { size: 12, color: 'black' }, namelength: 0 }, // Set namelength to 0 to remove "Trace 0" label
             hovertemplate: '%{text}' // Display hover text
