@@ -1,0 +1,1107 @@
+season,id,name,description,home_team,away_team,1st_inning_score,2nd_inning_score,result
+2024,1422119,Chennai Super Kings v Royal Challengers Bengaluru,"1st Match (N), Indian Premier League at Chennai, Mar 22 2024",CSK,RCB,173/6,176/4,CSK won by 6 wickets (with 8 balls remaining)
+2024,1422120,Punjab Kings v Delhi Capitals,"2nd Match (D/N), Indian Premier League at Mohali, Mar 23 2024",PBKS,DC,174/9,177/6,PBKS won by 4 wickets (with 4 balls remaining)
+2024,1422121,Kolkata Knight Riders v Sunrisers Hyderabad,"3rd Match (N), Indian Premier League at Kolkata, Mar 23 2024",KKR,SRH,208/7,204/7,KKR won by 4 runs
+2024,1422122,Rajasthan Royals v Lucknow Super Giants,"4th Match (D/N), Indian Premier League at Jaipur, Mar 24 2024",RR,LSG,193/4,173/6,RR won by 20 runs
+2024,1422123,Gujarat Titans v Mumbai Indians,"5th Match (N), Indian Premier League at Ahmedabad, Mar 24 2024",GT,MI,168/6,162/9,GT won by 6 runs
+2024,1422124,Royal Challengers Bengaluru v Punjab Kings,"6th Match (N), Indian Premier League at Bengaluru, Mar 25 2024",RCB,PBKS,176/6,178/6,RCB won by 4 wickets (with 4 balls remaining)
+2024,1422125,Chennai Super Kings v Gujarat Titans,"7th Match (N), Indian Premier League at Chennai, Mar 26 2024",CSK,GT,206/6,143/8,CSK won by 63 runs
+2024,1422126,Sunrisers Hyderabad v Mumbai Indians,"8th Match (N), Indian Premier League at Hyderabad, Mar 27 2024",SRH,MI,277/3,246/5,SRH won by 31 runs
+2024,1422127,Rajasthan Royals v Delhi Capitals,"9th Match (N), Indian Premier League at Jaipur, Mar 28 2024",RR,DC,185/5,173/5,RR won by 12 runs
+2024,1422128,Royal Challengers Bengaluru v Kolkata Knight Riders,"10th Match (N), Indian Premier League at Bengaluru, Mar 29 2024",RCB,KKR,182/6,186/3,KKR won by 7 wickets (with 19 balls remaining)
+2024,1422129,Lucknow Super Giants v Punjab Kings,"11th Match (N), Indian Premier League at Lucknow, Mar 30 2024",LSG,PBKS,199/8,178/5,LSG won by 21 runs
+2024,1422130,Gujarat Titans v Sunrisers Hyderabad,"12th Match (D/N), Indian Premier League at Ahmedabad, Mar 31 2024",GT,SRH,162/8,168/3,GT won by 7 wickets (with 5 balls remaining)
+2024,1422131,Delhi Capitals v Chennai Super Kings,"13th Match (N), Indian Premier League at Visakhapatnam, Mar 31 2024",DC,CSK,191/5,171/6,DC won by 20 runs
+2024,1422132,Mumbai Indians v Rajasthan Royals,"14th Match (N), Indian Premier League at Mumbai, Apr 1 2024",MI,RR,125/9,127/4,RR won by 6 wickets (with 27 balls remaining)
+2024,1422133,Royal Challengers Bengaluru v Lucknow Super Giants,"15th Match (N), Indian Premier League at Bengaluru, Apr 2 2024",RCB,LSG,181/5,153,LSG won by 28 runs
+2024,1422134,Delhi Capitals v Kolkata Knight Riders,"16th Match (N), Indian Premier League at Visakhapatnam, Apr 3 2024",DC,KKR,272/7,166,KKR won by 106 runs
+2024,1422135,Gujarat Titans v Punjab Kings,"17th Match (N), Indian Premier League at Ahmedabad, Apr 4 2024",GT,PBKS,199/4,200/7,PBKS won by 3 wickets (with 1 ball remaining)
+2024,1422136,Sunrisers Hyderabad v Chennai Super Kings,"18th Match (N), Indian Premier League at Hyderabad, Apr 5 2024",SRH,CSK,165/5,166/4,SRH won by 6 wickets (with 11 balls remaining)
+2024,1422137,Rajasthan Royals v Royal Challengers Bengaluru,"19th Match (N), Indian Premier League at Jaipur, Apr 6 2024",RR,RCB,183/3,189/4,RR won by 6 wickets (with 5 balls remaining)
+2024,1422138,Mumbai Indians v Delhi Capitals,"20th Match (D/N), Indian Premier League at Mumbai, Apr 7 2024",MI,DC,234/5,205/8,MI won by 29 runs
+2024,1422139,Lucknow Super Giants v Gujarat Titans,"21st Match (N), Indian Premier League at Lucknow, Apr 7 2024",LSG,GT,163/5,130,LSG won by 33 runs
+2024,1426260,Chennai Super Kings v Kolkata Knight Riders,"22nd Match (N), Indian Premier League at Chennai, Apr 8 2024",CSK,KKR,137/9,141/3,CSK won by 7 wickets (with 14 balls remaining)
+2024,1426261,Punjab Kings v Sunrisers Hyderabad,"23rd Match (N), Indian Premier League at Mohali, Apr 9 2024",PBKS,SRH,182/9,180/6,SRH won by 2 runs
+2024,1426262,Rajasthan Royals v Gujarat Titans,"24th Match (N), Indian Premier League at Jaipur, Apr 10 2024",RR,GT,196/3,199/7,GT won by 3 wickets (with 0 balls remaining)
+2024,1426263,Mumbai Indians v Royal Challengers Bengaluru,"25th Match (N), Indian Premier League at Mumbai, Apr 11 2024",MI,RCB,196/8,199/3,MI won by 7 wickets (with 27 balls remaining)
+2024,1426264,Lucknow Super Giants v Delhi Capitals,"26th Match (N), Indian Premier League at Lucknow, Apr 12 2024",LSG,DC,167/7,170/4,DC won by 6 wickets (with 11 balls remaining)
+2024,1426265,Punjab Kings v Rajasthan Royals,"27th Match (N), Indian Premier League at Mohali, Apr 13 2024",PBKS,RR,147/8,152/7,RR won by 3 wickets (with 1 ball remaining)
+2024,1426266,Kolkata Knight Riders v Lucknow Super Giants,"28th Match (D/N), Indian Premier League at Kolkata, Apr 14 2024",KKR,LSG,161/7,162/2,KKR won by 8 wickets (with 26 balls remaining)
+2024,1426267,Mumbai Indians v Chennai Super Kings,"29th Match (N), Indian Premier League at Mumbai, Apr 14 2024",MI,CSK,206/4,186/6,CSK won by 20 runs
+2024,1426268,Royal Challengers Bengaluru v Sunrisers Hyderabad,"30th Match (N), Indian Premier League at Bengaluru, Apr 15 2024",RCB,SRH,287/3,262/7,SRH won by 25 runs
+2024,1426269,Kolkata Knight Riders v Rajasthan Royals,"31st Match (N), Indian Premier League at Kolkata, Apr 16 2024",KKR,RR,223/6,224/8,RR won by 2 wickets (with 0 balls remaining)
+2024,1426270,Gujarat Titans v Delhi Capitals,"32nd Match (N), Indian Premier League at Ahmedabad, Apr 17 2024",GT,DC,89,92/4,DC won by 6 wickets (with 67 balls remaining)
+2024,1426271,Punjab Kings v Mumbai Indians,"33rd Match (N), Indian Premier League at Mohali, Apr 18 2024",PBKS,MI,192/7,183,MI won by 9 runs
+2024,1426272,Lucknow Super Giants v Chennai Super Kings,"34th Match (N), Indian Premier League at Lucknow, Apr 19 2024",LSG,CSK,176/6,180/2,LSG won by 8 wickets (with 6 balls remaining)
+2024,1426273,Delhi Capitals v Sunrisers Hyderabad,"35th Match (N), Indian Premier League at Delhi, Apr 20 2024",DC,SRH,266/7,199,SRH won by 67 runs
+2024,1426274,Kolkata Knight Riders v Royal Challengers Bengaluru,"36th Match (D/N), Indian Premier League at Kolkata, Apr 21 2024",KKR,RCB,222/6,221,KKR won by 1 run
+2024,1426275,Punjab Kings v Gujarat Titans,"37th Match (N), Indian Premier League at Mohali, Apr 21 2024",PBKS,GT,142,146/7,GT won by 3 wickets (with 5 balls remaining)
+2024,1426276,Rajasthan Royals v Mumbai Indians,"38th Match (N), Indian Premier League at Jaipur, Apr 22 2024",RR,MI,179/9,183/1,RR won by 9 wickets (with 8 balls remaining)
+2024,1426277,Chennai Super Kings v Lucknow Super Giants,"39th Match (N), Indian Premier League at Chennai, Apr 23 2024",CSK,LSG,210/4,213/4,LSG won by 6 wickets (with 3 balls remaining)
+2024,1426278,Delhi Capitals v Gujarat Titans,"40th Match (N), Indian Premier League at Delhi, Apr 24 2024",DC,GT,224/4,220/8,DC won by 4 runs
+2024,1426279,Sunrisers Hyderabad v Royal Challengers Bengaluru,"41st Match (N), Indian Premier League at Hyderabad, Apr 25 2024",SRH,RCB,206/7,171/8,RCB won by 35 runs
+2024,1426280,Kolkata Knight Riders v Punjab Kings,"42nd Match (N), Indian Premier League at Kolkata, Apr 26 2024",KKR,PBKS,261/6,262/2,PBKS won by 8 wickets (with 8 balls remaining)
+2024,1426281,Delhi Capitals v Mumbai Indians,"43rd Match (D/N), Indian Premier League at Delhi, Apr 27 2024",DC,MI,257/4,247/9,DC won by 10 runs
+2024,1426282,Lucknow Super Giants v Rajasthan Royals,"44th Match (N), Indian Premier League at Lucknow, Apr 27 2024",LSG,RR,196/5,199/3,RR won by 7 wickets (with 6 balls remaining)
+2024,1426283,Gujarat Titans v Royal Challengers Bengaluru,"45th Match (D/N), Indian Premier League at Ahmedabad, Apr 28 2024",GT,RCB,200/3,206/1,RCB won by 9 wickets (with 24 balls remaining)
+2024,1426284,Chennai Super Kings v Sunrisers Hyderabad,"46th Match (N), Indian Premier League at Chennai, Apr 28 2024",CSK,SRH,212/3,134,CSK won by 78 runs
+2024,1426285,Kolkata Knight Riders v Delhi Capitals,"47th Match (N), Indian Premier League at Kolkata, Apr 29 2024",KKR,DC,153/9,157/3,KKR won by 7 wickets (with 21 balls remaining)
+2024,1426286,Lucknow Super Giants v Mumbai Indians,"48th Match (N), Indian Premier League at Lucknow, Apr 30 2024",LSG,MI,144/7,145/6,LSG won by 4 wickets (with 4 balls remaining)
+2024,1426287,Chennai Super Kings v Punjab Kings,"49th Match (N), Indian Premier League at Chennai, May 1 2024",CSK,PBKS,162/7,163/3,PBKS won by 7 wickets (with 13 balls remaining)
+2024,1426288,Sunrisers Hyderabad v Rajasthan Royals,"50th Match (N), Indian Premier League at Hyderabad, May 2 2024",SRH,RR,201/3,200/7,SRH won by 1 run
+2024,1426289,Mumbai Indians v Kolkata Knight Riders,"51st Match (N), Indian Premier League at Mumbai, May 3 2024",MI,KKR,169,145,KKR won by 24 runs
+2024,1426290,Royal Challengers Bengaluru v Gujarat Titans,"52nd Match (N), Indian Premier League at Bengaluru, May 4 2024",RCB,GT,147,152/6,RCB won by 4 wickets (with 38 balls remaining)
+2024,1426291,Punjab Kings v Chennai Super Kings,"53rd Match (D/N), Indian Premier League at Dharamsala, May 5 2024",PBKS,CSK,167/9,139/9,CSK won by 28 runs
+2024,1426292,Lucknow Super Giants v Kolkata Knight Riders,"54th Match (N), Indian Premier League at Lucknow, May 5 2024",LSG,KKR,235/6,137,KKR won by 98 runs
+2024,1426293,Mumbai Indians v Sunrisers Hyderabad,"55th Match (N), Indian Premier League at Mumbai, May 6 2024",MI,SRH,173/8,174/3,MI won by 7 wickets (with 16 balls remaining)
+2024,1426294,Delhi Capitals v Rajasthan Royals,"56th Match (N), Indian Premier League at Delhi, May 7 2024",DC,RR,221/8,201/8,DC won by 20 runs
+2024,1426295,Sunrisers Hyderabad v Lucknow Super Giants,"57th Match (N), Indian Premier League at Hyderabad, May 8 2024",SRH,LSG,165/4,167/0,SRH won by 10 wickets (with 62 balls remaining)
+2024,1426296,Punjab Kings v Royal Challengers Bengaluru,"58th Match (N), Indian Premier League at Dharamsala, May 9 2024",PBKS,RCB,241/7,181,RCB won by 60 runs
+2024,1426297,Gujarat Titans v Chennai Super Kings,"59th Match (N), Indian Premier League at Ahmedabad, May 10 2024",GT,CSK,231/3,196/8,GT won by 35 runs
+2024,1426298,Kolkata Knight Riders v Mumbai Indians,"60th Match (N), Indian Premier League at Kolkata, May 11 2024",KKR,MI,157/7,139/8,KKR won by 18 runs
+2024,1426299,Chennai Super Kings v Rajasthan Royals,"61st Match (D/N), Indian Premier League at Chennai, May 12 2024",CSK,RR,141/5,145/5,CSK won by 5 wickets (with 10 balls remaining)
+2024,1426300,Royal Challengers Bengaluru v Delhi Capitals,"62nd Match (N), Indian Premier League at Bengaluru, May 12 2024",RCB,DC,187/9,140,RCB won by 47 runs
+,,,,,,,,
+2024,1426302,Delhi Capitals v Lucknow Super Giants,"64th Match (N), Indian Premier League at Delhi, May 14 2024",DC,LSG,208/4,189/9,DC won by 19 runs
+2024,1426303,Rajasthan Royals v Punjab Kings,"65th Match (N), Indian Premier League at Guwahati, May 15 2024",RR,PBKS,144/9,145/5,PBKS won by 5 wickets (with 7 balls remaining)
+,,,,,,,,
+2024,1426305,Mumbai Indians v Lucknow Super Giants,"67th Match (N), Indian Premier League at Mumbai, May 17 2024",MI,LSG,214/6,196/6,LSG won by 18 runs
+2024,1426306,Royal Challengers Bengaluru v Chennai Super Kings,"68th Match (N), Indian Premier League at Bengaluru, May 18 2024",RCB,CSK,218/5,191/7,RCB won by 27 runs
+2024,1426307,Sunrisers Hyderabad v Punjab Kings,"69th Match (D/N), Indian Premier League at Hyderabad, May 19 2024",SRH,PBKS,214/5,215/6,SRH won by 4 wickets (with 5 balls remaining)
+,,,,,,,,
+2024,1426309,Kolkata Knight Riders v Sunrisers Hyderabad,"Qualifier 1 (N), Indian Premier League at Ahmedabad, May 21 2024",KKR,SRH,159,164/2,KKR won by 8 wickets (with 38 balls remaining)
+2024,1426310,Rajasthan Royals v Royal Challengers Bengaluru,"Eliminator (N), Indian Premier League at Ahmedabad, May 22 2024",RR,RCB,172/8,174/6,RR won by 4 wickets (with 6 balls remaining)
+2024,1426311,Sunrisers Hyderabad v Rajasthan Royals,"Qualifier 2 (N), Indian Premier League at Chennai, May 24 2024",SRH,RR,175/9,139/7,SRH won by 36 runs
+2024,1426312,Kolkata Knight Riders v Sunrisers Hyderabad,"Final (N), Indian Premier League at Chennai, May 26 2024",KKR,SRH,113,114/2,KKR won by 8 wickets (with 57 balls remaining)
+2023,1359475,Gujarat Titans v Chennai Super Kings,"1st Match (N), Indian Premier League at Ahmedabad, Mar 31 2023",GT,CSK,178/7,182/5,Titans won by 5 wkts (4b rem)
+2023,1359476,Punjab Kings v Kolkata Knight Riders,"2nd Match (D/N), Indian Premier League at Chandigarh, Apr 1 2023",PBKS,KKR,191/5,146/7,Punjab Kings won by 7 runs (DLS)
+2023,1359477,Lucknow Super Giants v Delhi Capitals,"3rd Match (N), Indian Premier League at Lucknow, Apr 1 2023",LSG,DC,193/6,143/9,Super Giants won by 50 runs
+2023,1359478,Sunrisers Hyderabad v Rajasthan Royals,"4th Match (D/N), Indian Premier League at Hyderabad, Apr 2 2023",SRH,RR,203/5,131/8,Royals won by 72 runs
+2023,1359479,Royal Challengers Bangalore v Mumbai Indians,"5th Match (N), Indian Premier League at Bengaluru, Apr 2 2023",RCB,MI,171/7,172/2,RCB won by 8 wkts (22b rem)
+2023,1359480,Chennai Super Kings v Lucknow Super Giants,"6th Match (N), Indian Premier League at Chennai, Apr 3 2023",CSK,LSG,217/7,205/7,Super Kings won by 12 runs
+2023,1359481,Delhi Capitals v Gujarat Titans,"7th Match (N), Indian Premier League at Delhi, Apr 4 2023",DC,GT,162/8,163/4,Titans won by 6 wkts (11b rem)
+2023,1359482,Rajasthan Royals v Punjab Kings,"8th Match (N), Indian Premier League at Guwahati, Apr 5 2023",RR,PBKS,197/4,192/7,Punjab Kings won by 5 runs
+2023,1359483,Kolkata Knight Riders v Royal Challengers Bangalore,"9th Match (N), Indian Premier League at Kolkata, Apr 6 2023",KKR,RCB,204/7,123,KKR won by 81 runs
+2023,1359484,Lucknow Super Giants v Sunrisers Hyderabad,"10th Match (N), Indian Premier League at Lucknow, Apr 7 2023",LSG,SRH,121/8,127/5,Super Giants won by 5 wkts (24b rem)
+2023,1359485,Rajasthan Royals v Delhi Capitals,"11th Match (D/N), Indian Premier League at Guwahati, Apr 8 2023",RR,DC,199/4,142/9,Royals won by 57 runs
+2023,1359486,Mumbai Indians v Chennai Super Kings,"12th Match (N), Indian Premier League at Mumbai, Apr 8 2023",MI,CSK,157/8,159/3,Super Kings won by 7 wkts (11b rem)
+2023,1359487,Gujarat Titans v Kolkata Knight Riders,"13th Match (D/N), Indian Premier League at Ahmedabad, Apr 9 2023",GT,KKR,204/4,207/7,KKR won by 3 wkts (0b rem)
+2023,1359488,Sunrisers Hyderabad v Punjab Kings,"14th Match (N), Indian Premier League at Hyderabad, Apr 9 2023",SRH,PBKS,143/9,145/2,Sunrisers won by 8 wkts (17b rem)
+2023,1359489,Royal Challengers Bangalore v Lucknow Super Giants,"15th Match (N), Indian Premier League at Bengaluru, Apr 10 2023",RCB,LSG,212/2,213/9,Super Giants won by 1 wkt (0b rem)
+2023,1359490,Delhi Capitals v Mumbai Indians,"16th Match (N), Indian Premier League at Delhi, Apr 11 2023",DC,MI,172,173/4,Mumbai won by 6 wkts (0b rem)
+2023,1359491,Chennai Super Kings v Rajasthan Royals,"17th Match (N), Indian Premier League at Chennai, Apr 12 2023",CSK,RR,175/8,172/6,Royals won by 3 runs
+2023,1359492,Punjab Kings v Gujarat Titans,"18th Match (N), Indian Premier League at Chandigarh, Apr 13 2023",PBKS,GT,153/8,154/4,Titans won by 6 wkts (1b rem)
+2023,1359493,Kolkata Knight Riders v Sunrisers Hyderabad,"19th Match (N), Indian Premier League at Kolkata, Apr 14 2023",KKR,SRH,228/4,205/7,Sunrisers won by 23 runs
+2023,1359494,Royal Challengers Bangalore v Delhi Capitals,"20th Match (D/N), Indian Premier League at Bengaluru, Apr 15 2023",RCB,DC,174/6,151/9,RCB won by 23 runs
+2023,1359495,Lucknow Super Giants v Punjab Kings,"21st Match (N), Indian Premier League at Lucknow, Apr 15 2023",LSG,PBKS,159/8,161/8,Punjab Kings won by 2 wkts (3b rem)
+2023,1359496,Mumbai Indians v Kolkata Knight Riders,"22nd Match (D/N), Indian Premier League at Mumbai, Apr 16 2023",KKR,MI,,,Mumbai won by 5 wkts (14b rem)
+2023,1359497,Gujarat Titans v Rajasthan Royals,"23rd Match (N), Indian Premier League at Ahmedabad, Apr 16 2023",GT,RR,177/7,179/7,Royals won by 3 wkts (4b rem)
+2023,1359498,Royal Challengers Bangalore v Chennai Super Kings,"24th Match (N), Indian Premier League at Bengaluru, Apr 17 2023",RCB,CSK,226/6,218/8,Super Kings won by 8 runs
+2023,1359499,Sunrisers Hyderabad v Mumbai Indians,"25th Match (N), Indian Premier League at Hyderabad, Apr 18 2023",SRH,MI,192/5,178,Mumbai won by 14 runs
+2023,1359500,Rajasthan Royals v Lucknow Super Giants,"26th Match (N), Indian Premier League at Jaipur, Apr 19 2023",RR,LSG,154/7,144/6,Super Giants won by 10 runs
+2023,1359501,Punjab Kings v Royal Challengers Bangalore,"27th Match (D/N), Indian Premier League at Chandigarh, Apr 20 2023",PBKS,RCB,174/4,150,RCB won by 24 runs
+2023,1359502,Delhi Capitals v Kolkata Knight Riders,"28th Match (N), Indian Premier League at Delhi, Apr 20 2023",DC,KKR,127,128/6,Capitals won by 4 wkts (4b rem)
+2023,1359503,Chennai Super Kings v Sunrisers Hyderabad,"29th Match (N), Indian Premier League at Chennai, Apr 21 2023",CSK,SRH,134/7,138/3,Super Kings won by 7 wkts (8b rem)
+2023,1359504,Lucknow Super Giants v Gujarat Titans,"30th Match (D/N), Indian Premier League at Lucknow, Apr 22 2023",LSG,GT,135/6,128/7,Titans won by 7 runs
+2023,1359505,Mumbai Indians v Punjab Kings,"31st Match (N), Indian Premier League at Mumbai, Apr 22 2023",MI,PBKS,214/8,201/6,Punjab Kings won by 13 runs
+2023,1359506,Royal Challengers Bangalore v Rajasthan Royals,"32nd Match (D/N), Indian Premier League at Bengaluru, Apr 23 2023",RCB,RR,189/9,182/6,RCB won by 7 runs
+2023,1359507,Kolkata Knight Riders v Chennai Super Kings,"33rd Match (N), Indian Premier League at Kolkata, Apr 23 2023",KKR,CSK,235/4,186/8,Super Kings won by 49 runs
+2023,1359508,Sunrisers Hyderabad v Delhi Capitals,"34th Match (N), Indian Premier League at Hyderabad, Apr 24 2023",SRH,DC,144/9,137/6,Capitals won by 7 runs
+2023,1359509,Gujarat Titans v Mumbai Indians,"35th Match (N), Indian Premier League at Ahmedabad, Apr 25 2023",GT,MI,207/6,152/9,Titans won by 55 runs
+2023,1359510,Royal Challengers Bangalore v Kolkata Knight Riders,"36th Match (N), Indian Premier League at Bengaluru, Apr 26 2023",RCB,KKR,200/5,179/8,KKR won by 21 runs
+2023,1359511,Rajasthan Royals v Chennai Super Kings,"37th Match (N), Indian Premier League at Jaipur, Apr 27 2023",RR,CSK,202/5,170/6,Royals won by 32 runs
+2023,1359512,Punjab Kings v Lucknow Super Giants,"38th Match (N), Indian Premier League at Chandigarh, Apr 28 2023",PBKS,LSG,257/5,201,Super Giants won by 56 runs
+2023,1359513,Kolkata Knight Riders v Gujarat Titans,"39th Match (D/N), Indian Premier League at Kolkata, Apr 29 2023",KKR,GT,179/7,180/3,Titans won by 7 wkts (13b rem)
+2023,1359514,Delhi Capitals v Sunrisers Hyderabad,"40th Match (N), Indian Premier League at Delhi, Apr 29 2023",DC,SRH,197/6,188/6,Sunrisers won by 9 runs
+2023,1359515,Chennai Super Kings v Punjab Kings,"41st Match (D/N), Indian Premier League at Chennai, Apr 30 2023",CSK,PBKS,200/4,201/6,Punjab Kings won by 4 wkts (0b rem)
+2023,1359516,Mumbai Indians v Rajasthan Royals,"42nd Match (N), Indian Premier League at Mumbai, Apr 30 2023",MI,RR,212/7,214/4,Mumbai won by 6 wkts (3b rem)
+2023,1359517,Lucknow Super Giants v Royal Challengers Bangalore,"43rd Match (N), Indian Premier League at Lucknow, May 1 2023",LSG,RCB,126/9,108,RCB won by 18 runs
+2023,1359518,Gujarat Titans v Delhi Capitals,"44th Match (N), Indian Premier League at Ahmedabad, May 2 2023",GT,DC,130/8,125/6,Capitals won by 5 runs
+,,,,,,,,
+2023,1359520,Punjab Kings v Mumbai Indians,"46th Match (N), Indian Premier League at Chandigarh, May 3 2023",PBKS,MI,214/3,216/4,Mumbai won by 6 wkts (7b rem)
+2023,1359521,Sunrisers Hyderabad v Kolkata Knight Riders,"47th Match (N), Indian Premier League at Hyderabad, May 4 2023",SRH,KKR,171/9,166/8,KKR won by 5 runs
+2023,1359522,Rajasthan Royals v Gujarat Titans,"48th Match (N), Indian Premier League at Jaipur, May 5 2023",RR,GT,118,119/1,Titans won by 9 wkts (37b rem)
+2023,1359523,Chennai Super Kings v Mumbai Indians,"49th Match (D/N), Indian Premier League at Chennai, May 6 2023",CSK,MI,139/8,140/4,Super Kings won by 6 wkts (14b rem)
+2023,1359524,Delhi Capitals v Royal Challengers Bangalore,"50th Match (N), Indian Premier League at Delhi, May 6 2023",DC,RCB,181/4,187/3,Capitals won by 7 wkts (20b rem)
+2023,1359525,Gujarat Titans v Lucknow Super Giants,"51st Match (D/N), Indian Premier League at Ahmedabad, May 7 2023",GT,LSG,227/2,171/7,Titans won by 56 runs
+2023,1359526,Rajasthan Royals v Sunrisers Hyderabad,"52nd Match (N), Indian Premier League at Jaipur, May 7 2023",RR,SRH,214/2,217/6,Sunrisers won by 4 wkts (0b rem)
+2023,1359527,Kolkata Knight Riders v Punjab Kings,"53rd Match (N), Indian Premier League at Kolkata, May 8 2023",KKR,PBKS,179/7,182/5,KKR won by 5 wkts (0b rem)
+2023,1359528,Mumbai Indians v Royal Challengers Bangalore,"54th Match (N), Indian Premier League at Mumbai, May 9 2023",MI,RCB,199/6,200/4,Mumbai won by 6 wkts (21b rem)
+2023,1359529,Chennai Super Kings v Delhi Capitals,"55th Match (N), Indian Premier League at Chennai, May 10 2023",CSK,DC,167/8,140/8,Super Kings won by 27 runs
+2023,1359530,Kolkata Knight Riders v Rajasthan Royals,"56th Match (N), Indian Premier League at Kolkata, May 11 2023",KKR,RR,149/8,151/1,Royals won by 9 wkts (41b rem)
+2023,1359531,Mumbai Indians v Gujarat Titans,"57th Match (N), Indian Premier League at Mumbai, May 12 2023",MI,GT,218/5,191/8,Mumbai won by 27 runs
+2023,1359532,Sunrisers Hyderabad v Lucknow Super Giants,"58th Match (D/N), Indian Premier League at Hyderabad, May 13 2023",SRH,LSG,182/6,185/3,Super Giants won by 7 wkts (4b rem)
+2023,1359533,Delhi Capitals v Punjab Kings,"59th Match (N), Indian Premier League at Delhi, May 13 2023",DC,PBKS,167/7,136/8,Punjab Kings won by 31 runs
+2023,1359534,Rajasthan Royals v Royal Challengers Bangalore,"60th Match (D/N), Indian Premier League at Jaipur, May 14 2023",RR,RCB,171/5,59,RCB won by 112 runs
+2023,1359535,Chennai Super Kings v Kolkata Knight Riders,"61st Match (N), Indian Premier League at Chennai, May 14 2023",CSK,KKR,144/6,147/4,KKR won by 6 wkts (9b rem)
+2023,1359536,Gujarat Titans v Sunrisers Hyderabad,"62nd Match (N), Indian Premier League at Ahmedabad, May 15 2023",GT,SRH,188/9,154/9,Titans won by 34 runs
+2023,1359537,Lucknow Super Giants v Mumbai Indians,"63rd Match (N), Indian Premier League at Lucknow, May 16 2023",LSG,MI,177/3,172/5,Super Giants won by 5 runs
+2023,1359538,Punjab Kings v Delhi Capitals,"64th Match (N), Indian Premier League at Dharamsala, May 17 2023",DC,PBKS,,,Capitals won by 15 runs
+2023,1359539,Sunrisers Hyderabad v Royal Challengers Bangalore,"65th Match (N), Indian Premier League at Hyderabad, May 18 2023",SRH,RCB,186/5,187/2,RCB won by 8 wkts (4b rem)
+2023,1359540,Punjab Kings v Rajasthan Royals,"66th Match (N), Indian Premier League at Dharamsala, May 19 2023",PBKS,RR,187/5,189/6,Royals won by 4 wkts (2b rem)
+2023,1359541,Delhi Capitals v Chennai Super Kings,"67th Match (D/N), Indian Premier League at Delhi, May 20 2023",DC,CSK,223/3,146/9,Super Kings won by 77 runs
+2023,1359542,Kolkata Knight Riders v Lucknow Super Giants,"68th Match (N), Indian Premier League at Kolkata, May 20 2023",KKR,LSG,176/8,175/7,Super Giants won by 1 run
+2023,1359543,Mumbai Indians v Sunrisers Hyderabad,"69th Match (D/N), Indian Premier League at Mumbai, May 21 2023",MI,SRH,200/5,201/2,Mumbai won by 8 wkts (12b rem)
+2023,1359544,Royal Challengers Bangalore v Gujarat Titans,"70th Match (N), Indian Premier League at Bengaluru, May 21 2023",RCB,GT,197/5,198/4,Titans won by 6 wkts (5b rem)
+2023,1370350,Chennai Super Kings v Gujarat Titans,"Qualifier 1 (N), Indian Premier League at Chennai, May 23 2023",CSK,GT,172/7,157,Super Kings won by 15 runs
+2023,1370351,Lucknow Super Giants v Mumbai Indians,"Eliminator (N), Indian Premier League at Chennai, May 24 2023",LSG,MI,182/8,101,Mumbai won by 81 runs
+2023,1370352,Gujarat Titans v Mumbai Indians,"Qualifier 2 (N), Indian Premier League at Ahmedabad, May 26 2023",GT,MI,233/3,171,Titans won by 62 runs
+2023,1370353,Gujarat Titans v Chennai Super Kings,"Final (N), Indian Premier League at Ahmedabad, May 28-29 2023",GT,CSK,214/4,171/5,Super Kings won by 5 wkts (0b rem) (DLS)
+2022,1304047,Chennai Super Kings v Kolkata Knight Riders,"1st Match (N), Indian Premier League at Mumbai, Mar 26 2022",CSK,KKR,131/5,133/4,KKR won by 6 wkts (9b rem)
+2022,1304048,Delhi Capitals v Mumbai Indians,"2nd Match (D/N), Indian Premier League at Mumbai, Mar 27 2022",DC,MI,177/5,179/6,Capitals won by 4 wkts (10b rem)
+2022,1304049,Punjab Kings v Royal Challengers Bangalore,"3rd Match (N), Indian Premier League at Navi Mumbai, Mar 27 2022",PBKS,RCB,205/2,208/5,Punjab Kings won by 5 wkts (6b rem)
+2022,1304050,Gujarat Titans v Lucknow Super Giants,"4th Match (N), Indian Premier League at Mumbai, Mar 28 2022",GT,LSG,158/6,161/5,Titans won by 5 wkts (2b rem)
+2022,1304051,Sunrisers Hyderabad v Rajasthan Royals,"5th Match (N), Indian Premier League at Pune, Mar 29 2022",SRH,RR,210/6,149/7,Royals won by 61 runs
+2022,1304052,Royal Challengers Bangalore v Kolkata Knight Riders,"6th Match (N), Indian Premier League at Navi Mumbai, Mar 30 2022",RCB,KKR,128,132/7,RCB won by 3 wkts (4b rem)
+2022,1304053,Lucknow Super Giants v Chennai Super Kings,"7th Match (N), Indian Premier League at Mumbai, Mar 31 2022",LSG,CSK,210/7,211/4,Super Giants won by 6 wkts (3b rem)
+2022,1304054,Kolkata Knight Riders v Punjab Kings,"8th Match (N), Indian Premier League at Mumbai, Apr 1 2022",KKR,PBKS,137,141/4,KKR won by 6 wkts (33b rem)
+2022,1304055,Mumbai Indians v Rajasthan Royals,"9th Match (D/N), Indian Premier League at Navi Mumbai, Apr 2 2022",MI,RR,193/8,170/8,Royals won by 23 runs
+2022,1304056,Gujarat Titans v Delhi Capitals,"10th Match (N), Indian Premier League at Pune, Apr 2 2022",GT,DC,171/6,157/9,Titans won by 14 runs
+2022,1304057,Chennai Super Kings v Punjab Kings,"11th Match (N), Indian Premier League at Mumbai, Apr 3 2022",CSK,PBKS,180/8,126,Punjab Kings won by 54 runs
+2022,1304058,Sunrisers Hyderabad v Lucknow Super Giants,"12th Match (N), Indian Premier League at Navi Mumbai, Apr 4 2022",SRH,LSG,169/7,157/9,Super Giants won by 12 runs
+2022,1304059,Rajasthan Royals v Royal Challengers Bangalore,"13th Match (N), Indian Premier League at Mumbai, Apr 5 2022",RR,RCB,169/3,173/6,RCB won by 4 wkts (5b rem)
+2022,1304060,Kolkata Knight Riders v Mumbai Indians,"14th Match (N), Indian Premier League at Pune, Apr 6 2022",KKR,MI,161/4,162/5,KKR won by 5 wkts (24b rem)
+2022,1304061,Lucknow Super Giants v Delhi Capitals,"15th Match (N), Indian Premier League at Navi Mumbai, Apr 7 2022",LSG,DC,149/3,155/4,Super Giants won by 6 wkts (2b rem)
+2022,1304062,Punjab Kings v Gujarat Titans,"16th Match (N), Indian Premier League at Mumbai, Apr 8 2022",PBKS,GT,189/9,190/4,Titans won by 6 wkts (0b rem)
+2022,1304063,Chennai Super Kings v Sunrisers Hyderabad,"17th Match (D/N), Indian Premier League at Navi Mumbai, Apr 9 2022",CSK,SRH,154/7,155/2,Sunrisers won by 8 wkts (14b rem)
+2022,1304064,Royal Challengers Bangalore v Mumbai Indians,"18th Match (N), Indian Premier League at Pune, Apr 9 2022",RCB,MI,151/6,152/3,RCB won by 7 wkts (9b rem)
+2022,1304065,Kolkata Knight Riders v Delhi Capitals,"19th Match (D/N), Indian Premier League at Mumbai, Apr 10 2022",KKR,DC,215/5,171,Capitals won by 44 runs
+2022,1304066,Rajasthan Royals v Lucknow Super Giants,"20th Match (N), Indian Premier League at Mumbai, Apr 10 2022",RR,LSG,165/6,162/8,Royals won by 3 runs
+2022,1304067,Sunrisers Hyderabad v Gujarat Titans,"21st Match (N), Indian Premier League at Navi Mumbai, Apr 11 2022",SRH,GT,162/7,168/2,Sunrisers won by 8 wkts (5b rem)
+2022,1304068,Chennai Super Kings v Royal Challengers Bangalore,"22nd Match (N), Indian Premier League at Navi Mumbai, Apr 12 2022",CSK,RCB,216/4,193/9,Super Kings won by 23 runs
+2022,1304069,Mumbai Indians v Punjab Kings,"23rd Match (N), Indian Premier League at Pune, Apr 13 2022",MI,PBKS,198/5,186/9,Punjab Kings won by 12 runs
+2022,1304070,Rajasthan Royals v Gujarat Titans,"24th Match (N), Indian Premier League at Navi Mumbai, Apr 14 2022",RR,GT,192/4,155/9,Titans won by 37 runs
+2022,1304071,Sunrisers Hyderabad v Kolkata Knight Riders,"25th Match (N), Indian Premier League at Mumbai, Apr 15 2022",SRH,KKR,175/8,176/3,Sunrisers won by 7 wkts (13b rem)
+2022,1304072,Mumbai Indians v Lucknow Super Giants,"26th Match (D/N), Indian Premier League at Mumbai, Apr 16 2022",MI,LSG,199/4,181/9,Super Giants won by 18 runs
+2022,1304073,Delhi Capitals v Royal Challengers Bangalore,"27th Match (N), Indian Premier League at Mumbai, Apr 16 2022",DC,RCB,189/5,173/7,RCB won by 16 runs
+2022,1304074,Punjab Kings v Sunrisers Hyderabad,"28th Match (D/N), Indian Premier League at Navi Mumbai, Apr 17 2022",PBKS,SRH,151,152/3,Sunrisers won by 7 wkts (7b rem)
+2022,1304075,Gujarat Titans v Chennai Super Kings,"29th Match (N), Indian Premier League at Pune, Apr 17 2022",GT,CSK,169/5,170/7,Titans won by 3 wkts (1b rem)
+2022,1304076,Rajasthan Royals v Kolkata Knight Riders,"30th Match (N), Indian Premier League at Mumbai, Apr 18 2022",RR,KKR,217/5,210,Royals won by 7 runs
+2022,1304077,Lucknow Super Giants v Royal Challengers Bangalore,"31st Match (N), Indian Premier League at Navi Mumbai, Apr 19 2022",LSG,RCB,181/6,163/8,RCB won by 18 runs
+2022,1304078,Delhi Capitals v Punjab Kings,"32nd Match (N), Indian Premier League at Mumbai, Apr 20 2022",DC,PBKS,115,119/1,Capitals won by 9 wkts (57b rem)
+2022,1304079,Mumbai Indians v Chennai Super Kings,"33rd Match (N), Indian Premier League at Navi Mumbai, Apr 21 2022",MI,CSK,155/7,156/7,Super Kings won by 3 wkts (0b rem)
+2022,1304080,Delhi Capitals v Rajasthan Royals,"34th Match (N), Indian Premier League at Mumbai, Apr 22 2022",DC,RR,222/2,207/8,Royals won by 15 runs
+2022,1304081,Kolkata Knight Riders v Gujarat Titans,"35th Match (D/N), Indian Premier League at Navi Mumbai, Apr 23 2022",KKR,GT,156/9,148/8,Titans won by 8 runs
+2022,1304082,Royal Challengers Bangalore v Sunrisers Hyderabad,"36th Match (N), Indian Premier League at Mumbai, Apr 23 2022",RCB,SRH,68,72/1,Sunrisers won by 9 wkts (72b rem)
+2022,1304083,Lucknow Super Giants v Mumbai Indians,"37th Match (N), Indian Premier League at Mumbai, Apr 24 2022",LSG,MI,168/6,132/8,Super Giants won by 36 runs
+2022,1304084,Punjab Kings v Chennai Super Kings,"38th Match (N), Indian Premier League at Mumbai, Apr 25 2022",PBKS,CSK,187/4,176/6,Punjab Kings won by 11 runs
+2022,1304085,Royal Challengers Bangalore v Rajasthan Royals,"39th Match (N), Indian Premier League at Pune, Apr 26 2022",RCB,RR,144/8,115,Royals won by 29 runs
+2022,1304086,Gujarat Titans v Sunrisers Hyderabad,"40th Match (N), Indian Premier League at Mumbai, Apr 27 2022",GT,SRH,195/6,199/5,Titans won by 5 wkts (0b rem)
+2022,1304087,Delhi Capitals v Kolkata Knight Riders,"41st Match (N), Indian Premier League at Mumbai, Apr 28 2022",DC,KKR,146/9,150/6,Capitals won by 4 wkts (6b rem)
+2022,1304088,Punjab Kings v Lucknow Super Giants,"42nd Match (N), Indian Premier League at Pune, Apr 29 2022",PBKS,LSG,153/8,133/8,Super Giants won by 20 runs
+2022,1304089,Gujarat Titans v Royal Challengers Bangalore,"43rd Match (D/N), Indian Premier League at Mumbai, Apr 30 2022",GT,RCB,170/6,174/4,Titans won by 6 wkts (3b rem)
+2022,1304090,Rajasthan Royals v Mumbai Indians,"44th Match (N), Indian Premier League at Navi Mumbai, Apr 30 2022",RR,MI,158/6,161/5,Mumbai won by 5 wkts (4b rem)
+2022,1304091,Delhi Capitals v Lucknow Super Giants,"45th Match (D/N), Indian Premier League at Mumbai, May 1 2022",DC,LSG,195/3,189/7,Super Giants won by 6 runs
+2022,1304092,Sunrisers Hyderabad v Chennai Super Kings,"46th Match (N), Indian Premier League at Pune, May 1 2022",SRH,CSK,202/2,189/6,Super Kings won by 13 runs
+2022,1304093,Kolkata Knight Riders v Rajasthan Royals,"47th Match (N), Indian Premier League at Mumbai, May 2 2022",KKR,RR,152/5,158/3,KKR won by 7 wkts (5b rem)
+2022,1304094,Gujarat Titans v Punjab Kings,"48th Match (N), Indian Premier League at Navi Mumbai, May 3 2022",GT,PBKS,143/8,145/2,Punjab Kings won by 8 wkts (24b rem)
+2022,1304095,Royal Challengers Bangalore v Chennai Super Kings,"49th Match (N), Indian Premier League at Pune, May 4 2022",RCB,CSK,173/8,160/8,RCB won by 13 runs
+2022,1304096,Delhi Capitals v Sunrisers Hyderabad,"50th Match (N), Indian Premier League at Mumbai, May 5 2022",DC,SRH,207/3,186/8,Capitals won by 21 runs
+2022,1304097,Gujarat Titans v Mumbai Indians,"51st Match (N), Indian Premier League at Mumbai, May 6 2022",GT,MI,177/6,172/5,Mumbai won by 5 runs
+2022,1304098,Punjab Kings v Rajasthan Royals,"52nd Match (D/N), Indian Premier League at Mumbai, May 7 2022",PBKS,RR,189/5,190/4,Royals won by 6 wkts (2b rem)
+2022,1304099,Lucknow Super Giants v Kolkata Knight Riders,"53rd Match (N), Indian Premier League at Pune, May 7 2022",LSG,KKR,176/7,101,Super Giants won by 75 runs
+2022,1304100,Sunrisers Hyderabad v Royal Challengers Bangalore,"54th Match (D/N), Indian Premier League at Mumbai, May 8 2022",SRH,RCB,192/3,125,RCB won by 67 runs
+2022,1304101,Chennai Super Kings v Delhi Capitals,"55th Match (N), Indian Premier League at Navi Mumbai, May 8 2022",CSK,DC,208/6,117,Super Kings won by 91 runs
+2022,1304102,Mumbai Indians v Kolkata Knight Riders,"56th Match (N), Indian Premier League at Navi Mumbai, May 9 2022",MI,KKR,165/9,113,KKR won by 52 runs
+2022,1304103,Lucknow Super Giants v Gujarat Titans,"57th Match (N), Indian Premier League at Pune, May 10 2022",LSG,GT,144/4,82,Titans won by 62 runs
+2022,1304104,Rajasthan Royals v Delhi Capitals,"58th Match (N), Indian Premier League at Navi Mumbai, May 11 2022",RR,DC,160/6,161/2,Capitals won by 8 wkts (11b rem)
+2022,1304105,Chennai Super Kings v Mumbai Indians,"59th Match (N), Indian Premier League at Mumbai, May 12 2022",CSK,MI,97,103/5,Mumbai won by 5 wkts (31b rem)
+2022,1304106,Royal Challengers Bangalore v Punjab Kings,"60th Match (N), Indian Premier League at Mumbai, May 13 2022",RCB,PBKS,209/9,155/9,Punjab Kings won by 54 runs
+2022,1304107,Kolkata Knight Riders v Sunrisers Hyderabad,"61st Match (N), Indian Premier League at Pune, May 14 2022",KKR,SRH,177/6,123/8,KKR won by 54 runs
+2022,1304108,Chennai Super Kings v Gujarat Titans,"62nd Match (D/N), Indian Premier League at Mumbai, May 15 2022",CSK,GT,133/5,137/3,Titans won by 7 wkts (5b rem)
+2022,1304109,Lucknow Super Giants v Rajasthan Royals,"63rd Match (N), Indian Premier League at Mumbai, May 15 2022",LSG,RR,178/6,154/8,Royals won by 24 runs
+2022,1304110,Punjab Kings v Delhi Capitals,"64th Match (N), Indian Premier League at Navi Mumbai, May 16 2022",PBKS,DC,159/7,142/9,Capitals won by 17 runs
+2022,1304111,Mumbai Indians v Sunrisers Hyderabad,"65th Match (N), Indian Premier League at Mumbai, May 17 2022",MI,SRH,193/6,190/7,Sunrisers won by 3 runs
+2022,1304112,Kolkata Knight Riders v Lucknow Super Giants,"66th Match (N), Indian Premier League at Navi Mumbai, May 18 2022",KKR,LSG,210/0,208/8,Super Giants won by 2 runs
+2022,1304113,Royal Challengers Bangalore v Gujarat Titans,"67th Match (N), Indian Premier League at Mumbai, May 19 2022",RCB,GT,168/5,170/2,RCB won by 8 wkts (8b rem)
+2022,1304114,Rajasthan Royals v Chennai Super Kings,"68th Match (N), Indian Premier League at Mumbai, May 20 2022",RR,CSK,150/6,151/5,Royals won by 5 wkts (2b rem)
+2022,1304115,Mumbai Indians v Delhi Capitals,"69th Match (N), Indian Premier League at Mumbai, May 21 2022",MI,DC,159/7,160/5,Mumbai won by 5 wkts (5b rem)
+2022,1304116,Sunrisers Hyderabad v Punjab Kings,"70th Match (N), Indian Premier League at Mumbai, May 22 2022",SRH,PBKS,157/8,160/5,Punjab Kings won by 5 wkts (29b rem)
+2022,1312197,Gujarat Titans v Rajasthan Royals,"Qualifier 1 (N), Indian Premier League at Kolkata, May 24 2022",GT,RR,188/6,191/3,Titans won by 7 wkts (3b rem)
+2022,1312198,Lucknow Super Giants v Royal Challengers Bangalore,"Eliminator (N), Indian Premier League at Kolkata, May 25 2022",LSG,RCB,207/4,193/6,RCB won by 14 runs
+2022,1312199,Rajasthan Royals v Royal Challengers Bangalore,"Qualifier 2 (N), Indian Premier League at Ahmedabad, May 27 2022",RR,RCB,157/8,161/3,Royals won by 7 wkts (11b rem)
+2022,1312200,Gujarat Titans v Rajasthan Royals,"Final (N), Indian Premier League at Ahmedabad, May 29 2022",GT,RR,130/9,133/3,Titans won by 7 wkts (11b rem)
+2021,1254117,Chennai Super Kings v Kolkata Knight Riders,"Final (N), Indian Premier League at Dubai, Oct 15 2021",CSK,KKR,192/3,165/9,Super Kings won by 27 runs
+2021,1254116,Delhi Capitals v Kolkata Knight Riders,"Qualifier 2 (N), Indian Premier League at Sharjah, Oct 13 2021",DC,KKR,135/5,136/7,KKR won by 3 wkts (1b rem)
+2021,1254115,Royal Challengers Bangalore v Kolkata Knight Riders,"Eliminator (N), Indian Premier League at Sharjah, Oct 11 2021",RCB,KKR,138/7,139/6,KKR won by 4 wkts (2b rem)
+2021,1254114,Delhi Capitals v Chennai Super Kings,"Qualifier 1 (N), Indian Premier League at Dubai, Oct 10 2021",DC,CSK,172/5,173/6,Super Kings won by 4 wkts (2b rem)
+2021,1254101,Royal Challengers Bangalore v Delhi Capitals,"56th Match (N), Indian Premier League at Dubai, Oct 8 2021",RCB,DC,164/5,166/3,RCB won by 7 wkts (0b rem)
+2021,1254088,Sunrisers Hyderabad v Mumbai Indians,"55th Match (N), Indian Premier League at Abu Dhabi, Oct 8 2021",SRH,MI,235/9,193/8,Mumbai won by 42 runs
+2021,1254106,Kolkata Knight Riders v Rajasthan Royals,"54th Match (N), Indian Premier League at Sharjah, Oct 7 2021",KKR,RR,171/4,85,KKR won by 86 runs
+2021,1254094,Chennai Super Kings v Punjab Kings,"53rd Match, Indian Premier League at Dubai, Oct 7 2021",CSK,PBKS,134/6,139/4,Punjab Kings won by 6 wkts (42b rem)
+2021,1254095,Royal Challengers Bangalore v Sunrisers Hyderabad,"52nd Match (N), Indian Premier League at Abu Dhabi, Oct 6 2021",RCB,SRH,141/7,137/6,Sunrisers won by 4 runs
+2021,1254093,Rajasthan Royals v Mumbai Indians,"51st Match (N), Indian Premier League at Sharjah, Oct 5 2021",RR,MI,90/9,94/2,Mumbai won by 8 wkts (70b rem)
+2021,1254110,Delhi Capitals v Chennai Super Kings,"50th Match (N), Indian Premier League at Dubai, Oct 4 2021",DC,CSK,136/5,139/7,Capitals won by 3 wkts (2b rem)
+2021,1254109,Kolkata Knight Riders v Sunrisers Hyderabad,"49th Match (N), Indian Premier League at Dubai, Oct 3 2021",KKR,SRH,115/8,119/4,KKR won by 6 wkts (2b rem)
+2021,1254090,Royal Challengers Bangalore v Punjab Kings,"48th Match, Indian Premier League at Sharjah, Oct 3 2021",RCB,PBKS,164/7,158/6,RCB won by 6 runs
+2021,1254089,Rajasthan Royals v Chennai Super Kings,"47th Match (N), Indian Premier League at Abu Dhabi, Oct 2 2021",RR,CSK,189/4,190/3,Royals won by 7 wkts (15b rem)
+2021,1254112,Mumbai Indians v Delhi Capitals,"46th Match, Indian Premier League at Sharjah, Oct 2 2021",MI,DC,129/8,132/6,Capitals won by 4 wkts (5b rem)
+2021,1254102,Kolkata Knight Riders v Punjab Kings,"45th Match (N), Indian Premier League at Dubai, Oct 1 2021",KKR,PBKS,165/7,168/5,Punjab Kings won by 5 wkts (3b rem)
+2021,1254091,Sunrisers Hyderabad v Chennai Super Kings,"44th Match (N), Indian Premier League at Sharjah, Sep 30 2021",SRH,CSK,134/7,139/4,Super Kings won by 6 wkts (2b rem)
+2021,1254103,Rajasthan Royals v Royal Challengers Bangalore,"43rd Match (N), Indian Premier League at Dubai, Sep 29 2021",RR,RCB,149/9,153/3,RCB won by 7 wkts (17b rem)
+2021,1254099,Mumbai Indians v Punjab Kings,"42nd Match (N), Indian Premier League at Abu Dhabi, Sep 28 2021",MI,PBKS,135/6,137/4,Mumbai won by 6 wkts (6b rem)
+2021,1254092,Kolkata Knight Riders v Delhi Capitals,"41st Match, Indian Premier League at Sharjah, Sep 28 2021",KKR,DC,127/9,130/7,KKR won by 3 wkts (10b rem)
+2021,1254100,Sunrisers Hyderabad v Rajasthan Royals,"40th Match (N), Indian Premier League at Dubai, Sep 27 2021",SRH,RR,164/5,167/3,Sunrisers won by 7 wkts (9b rem)
+2021,1254108,Royal Challengers Bangalore v Mumbai Indians,"39th Match (N), Indian Premier League at Dubai, Sep 26 2021",RCB,MI,165/6,111,RCB won by 54 runs
+2021,1254098,Chennai Super Kings v Kolkata Knight Riders,"38th Match, Indian Premier League at Abu Dhabi, Sep 26 2021",CSK,KKR,171/6,172/8,Super Kings won by 2 wkts (0b rem)
+2021,1254107,Sunrisers Hyderabad v Punjab Kings,"37th Match (N), Indian Premier League at Sharjah, Sep 25 2021",SRH,PBKS,125/7,120/7,Punjab Kings won by 5 runs
+2021,1254097,Delhi Capitals v Rajasthan Royals,"36th Match, Indian Premier League at Abu Dhabi, Sep 25 2021",DC,RR,154/6,121/6,Capitals won by 33 runs
+2021,1254113,Royal Challengers Bangalore v Chennai Super Kings,"35th Match (N), Indian Premier League at Sharjah, Sep 24 2021",RCB,CSK,156/6,157/4,Super Kings won by 6 wkts (11b rem)
+2021,1254096,Mumbai Indians v Kolkata Knight Riders,"34th Match (N), Indian Premier League at Abu Dhabi, Sep 23 2021",MI,KKR,155/6,159/3,KKR won by 7 wkts (29b rem)
+2021,1254105,Delhi Capitals v Sunrisers Hyderabad,"33rd Match (N), Indian Premier League at Dubai, Sep 22 2021",DC,SRH,134/9,139/2,Capitals won by 8 wkts (13b rem)
+2021,1254111,Punjab Kings v Rajasthan Royals,"32nd Match (N), Indian Premier League at Dubai, Sep 21 2021",PBKS,RR,185,183/4,Royals won by 2 runs
+2021,1254087,Kolkata Knight Riders v Royal Challengers Bangalore,"31st Match (N), Indian Premier League at Abu Dhabi, Sep 20 2021",KKR,RCB,92,94/1,KKR won by 9 wkts (60b rem)
+2021,1254104,Chennai Super Kings v Mumbai Indians,"30th Match (N), Indian Premier League at Dubai, Sep 19 2021",CSK,MI,156/6,136/8,Super Kings won by 20 runs
+2021,1254086,Punjab Kings v Delhi Capitals,"29th Match (N), Indian Premier League at Ahmedabad, May 2 2021",PBKS,DC,166/6,167/3,Capitals won by 7 wkts (14b rem)
+2021,1254085,Rajasthan Royals v Sunrisers Hyderabad,"28th Match (D/N), Indian Premier League at Delhi, May 2 2021",RR,SRH,220/3,165/8,Royals won by 55 runs
+2021,1254084,Mumbai Indians v Chennai Super Kings,"27th Match (N), Indian Premier League at Delhi, May 1 2021",MI,CSK,218/4,219/6,Mumbai won by 4 wkts (0b rem)
+2021,1254083,Punjab Kings v Royal Challengers Bangalore,"26th Match (N), Indian Premier League at Ahmedabad, Apr 30 2021",PBKS,RCB,179/5,145/8,Punjab Kings won by 34 runs
+2021,1254082,Delhi Capitals v Kolkata Knight Riders,"25th Match (N), Indian Premier League at Ahmedabad, Apr 29 2021",DC,KKR,154/6,156/3,Capitals won by 7 wkts (21b rem)
+2021,1254081,Mumbai Indians v Rajasthan Royals,"24th Match (D/N), Indian Premier League at Delhi, Apr 29 2021",MI,RR,171/4,172/3,Mumbai won by 7 wkts (9b rem)
+2021,1254080,Chennai Super Kings v Sunrisers Hyderabad,"23rd Match (N), Indian Premier League at Delhi, Apr 28 2021",CSK,SRH,171/3,173/3,Super Kings won by 7 wkts (9b rem)
+2021,1254079,Delhi Capitals v Royal Challengers Bangalore,"22nd Match (N), Indian Premier League at Ahmedabad, Apr 27 2021",DC,RCB,171/5,170/4,RCB won by 1 run
+2021,1254078,Punjab Kings v Kolkata Knight Riders,"21st Match (N), Indian Premier League at Ahmedabad, Apr 26 2021",PBKS,KKR,123/9,126/5,KKR won by 5 wkts (20b rem)
+2021,1254077,Sunrisers Hyderabad v Delhi Capitals,"20th Match (N), Indian Premier League at Chennai, Apr 25 2021",SRH,DC,159/4,159/7,Match tied (Capitals won the one-over eliminator)
+2021,1254076,Chennai Super Kings v Royal Challengers Bangalore,"19th Match (D/N), Indian Premier League at Mumbai, Apr 25 2021",CSK,RCB,191/4,122/9,Super Kings won by 69 runs
+2021,1254075,Rajasthan Royals v Kolkata Knight Riders,"18th Match (N), Indian Premier League at Mumbai, Apr 24 2021",RR,KKR,133/9,134/4,Royals won by 6 wkts (7b rem)
+2021,1254074,Punjab Kings v Mumbai Indians,"17th Match (N), Indian Premier League at Chennai, Apr 23 2021",PBKS,MI,131/6,132/1,Punjab Kings won by 9 wkts (14b rem)
+2021,1254073,Royal Challengers Bangalore v Rajasthan Royals,"16th Match (N), Indian Premier League at Mumbai, Apr 22 2021",RCB,RR,177/9,181/0,RCB won by 10 wkts (21b rem)
+2021,1254072,Kolkata Knight Riders v Chennai Super Kings,"15th Match (N), Indian Premier League at Mumbai, Apr 21 2021",KKR,CSK,220/3,202,Super Kings won by 18 runs
+2021,1254071,Punjab Kings v Sunrisers Hyderabad,"14th Match (D/N), Indian Premier League at Chennai, Apr 21 2021",PBKS,SRH,120,121/1,Sunrisers won by 9 wkts (8b rem)
+2021,1254070,Delhi Capitals v Mumbai Indians,"13th Match (N), Indian Premier League at Chennai, Apr 20 2021",DC,MI,137/9,138/4,Capitals won by 6 wkts (5b rem)
+2021,1254069,Chennai Super Kings v Rajasthan Royals,"12th Match (N), Indian Premier League at Mumbai, Apr 19 2021",CSK,RR,188/9,143/9,Super Kings won by 45 runs
+2021,1254068,Delhi Capitals v Punjab Kings,"11th Match (N), Indian Premier League at Mumbai, Apr 18 2021",DC,PBKS,195/4,198/4,Capitals won by 6 wkts (10b rem)
+2021,1254067,Royal Challengers Bangalore v Kolkata Knight Riders,"10th Match (D/N), Indian Premier League at Chennai, Apr 18 2021",RCB,KKR,204/4,166/8,RCB won by 38 runs
+2021,1254066,Mumbai Indians v Sunrisers Hyderabad,"9th Match (N), Indian Premier League at Chennai, Apr 17 2021",MI,SRH,150/5,137,Mumbai won by 13 runs
+2021,1254065,Punjab Kings v Chennai Super Kings,"8th Match (N), Indian Premier League at Mumbai, Apr 16 2021",PBKS,CSK,106/8,107/4,Super Kings won by 6 wkts (26b rem)
+2021,1254064,Rajasthan Royals v Delhi Capitals,"7th Match (N), Indian Premier League at Mumbai, Apr 15 2021",RR,DC,147/8,150/7,Royals won by 3 wkts (2b rem)
+2021,1254063,Sunrisers Hyderabad v Royal Challengers Bangalore,"6th Match (N), Indian Premier League at Chennai, Apr 14 2021",SRH,RCB,149/8,143/9,RCB won by 6 runs
+2021,1254062,Kolkata Knight Riders v Mumbai Indians,"5th Match (N), Indian Premier League at Chennai, Apr 13 2021",KKR,MI,152,142/7,Mumbai won by 10 runs
+2021,1254061,Rajasthan Royals v Punjab Kings,"4th Match (N), Indian Premier League at Mumbai, Apr 12 2021",RR,PBKS,221/6,217/7,Punjab Kings won by 4 runs
+2021,1254060,Sunrisers Hyderabad v Kolkata Knight Riders,"3rd Match (N), Indian Premier League at Chennai, Apr 11 2021",SRH,KKR,187/6,177/5,KKR won by 10 runs
+2021,1254059,Chennai Super Kings v Delhi Capitals,"2nd Match (N), Indian Premier League at Mumbai, Apr 10 2021",CSK,DC,188/7,190/3,Capitals won by 7 wkts (8b rem)
+2021,1254058,Mumbai Indians v Royal Challengers Bangalore,"1st Match (N), Indian Premier League at Chennai, Apr 9 2021",MI,RCB,159/9,160/8,RCB won by 2 wkts (0b rem)
+2020,1216492,Mumbai Indians v Chennai Super Kings,"1st Match (N), Indian Premier League at Abu Dhabi, Sep 19 2020",MI,CSK,162/9,166/5,Super Kings won by 5 wickets
+2020,1216493,Delhi Capitals v Kings XI Punjab,"2nd Match (N), Indian Premier League at Dubai (DSC), Sep 20 2020",DC,KXIP,157/8,157/8,Match tied (Delhi Capitals won the one-over eliminator)
+2020,1216534,Sunrisers Hyderabad v Royal Challengers Bangalore,"3rd Match (N), Indian Premier League at Dubai (DSC), Sep 21 2020",SRH,RCB,163/5,153,RCB won by 10 runs
+2020,1216496,Rajasthan Royals v Chennai Super Kings,"4th Match (N), Indian Premier League at Sharjah, Sep 22 2020",RR,CSK,216/7,200/6,Royals won by 16 runs
+2020,1216508,Kolkata Knight Riders v Mumbai Indians,"5th Match (N), Indian Premier League at Abu Dhabi, Sep 23 2020",KKR,MI,195/5,146/9,Mum Indians won by 49 runs
+2020,1216510,Kings XI Punjab v Royal Challengers Bangalore,"6th Match (N), Indian Premier League at Dubai (DSC), Sep 24 2020",KXIP,RCB,206/3,109,Kings XI won by 97 runs
+2020,1216539,Chennai Super Kings v Delhi Capitals,"7th Match (N), Indian Premier League at Dubai (DSC), Sep 25 2020",CSK,DC,175/3,131/7,Capitals won by 44 runs
+2020,1216545,Kolkata Knight Riders v Sunrisers Hyderabad,"8th Match (N), Indian Premier League at Abu Dhabi, Sep 26 2020",KKR,SRH,142/4,145/3,KKR won by 7 wickets
+2020,1216527,Rajasthan Royals v Kings XI Punjab,"9th Match (N), Indian Premier League at Sharjah, Sep 27 2020",RR,KXIP,223/2,226/6,Royals won by 4 wickets
+2020,1216547,Royal Challengers Bangalore v Mumbai Indians,"10th Match (N), Indian Premier League at Dubai (DSC), Sep 28 2020",RCB,MI,201/3,201/5,Match tied (Royal Challengers Bangalore won the one-over eliminator)
+2020,1216532,Delhi Capitals v Sunrisers Hyderabad,"11th Match (N), Indian Premier League at Abu Dhabi, Sep 29 2020",DC,SRH,162/4,147/7,Sunrisers won by 15 runs
+2020,1216504,Rajasthan Royals v Kolkata Knight Riders,"12th Match (N), Indian Premier League at Dubai (DSC), Sep 30 2020",RR,KKR,174/6,137/9,KKR won by 37 runs
+2020,1216503,Kings XI Punjab v Mumbai Indians,"13th Match (N), Indian Premier League at Abu Dhabi, Oct 1 2020",KXIP,MI,191/4,143/8,Mum Indians won by 48 runs
+2020,1216516,Chennai Super Kings v Sunrisers Hyderabad,"14th Match (N), Indian Premier League at Dubai (DSC), Oct 2 2020",CSK,SRH,164/5,157/5,Sunrisers won by 7 runs
+2020,1216514,Royal Challengers Bangalore v Rajasthan Royals,"15th Match, Indian Premier League at Abu Dhabi, Oct 3 2020",RCB,RR,154/6,158/2,RCB won by 8 wickets
+2020,1216515,Delhi Capitals v Kolkata Knight Riders,"16th Match (N), Indian Premier League at Sharjah, Oct 3 2020",DC,KKR,228/4,210/8,Capitals won by 18 runs
+2020,1216538,Mumbai Indians v Sunrisers Hyderabad,"17th Match, Indian Premier League at Sharjah, Oct 4 2020",MI,SRH,208/5,174/7,Mum Indians won by 34 runs
+2020,1216513,Kings XI Punjab v Chennai Super Kings,"18th Match (N), Indian Premier League at Dubai (DSC), Oct 4 2020",KXIP,CSK,178/4,181/0,Super Kings won by 10 wickets
+2020,1216519,Royal Challengers Bangalore v Delhi Capitals,"19th Match (N), Indian Premier League at Dubai (DSC), Oct 5 2020",RCB,DC,196/4,137/9,Capitals won by 59 runs
+2020,1216511,Mumbai Indians v Rajasthan Royals,"20th Match (N), Indian Premier League at Abu Dhabi, Oct 6 2020",MI,RR,193/4,136,Mum Indians won by 57 runs
+2020,1216501,Kolkata Knight Riders v Chennai Super Kings,"21st Match (N), Indian Premier League at Abu Dhabi, Oct 7 2020",KKR,CSK,167,157/5,KKR won by 10 runs
+2020,1216542,Sunrisers Hyderabad v Kings XI Punjab,"22nd Match (N), Indian Premier League at Dubai (DSC), Oct 8 2020",SRH,KXIP,201/6,132,Sunrisers won by 69 runs
+2020,1216500,Rajasthan Royals v Delhi Capitals,"23rd Match (N), Indian Premier League at Sharjah, Oct 9 2020",RR,DC,184/8,138,Capitals won by 46 runs
+2020,1216523,Kings XI Punjab v Kolkata Knight Riders,"24th Match, Indian Premier League at Abu Dhabi, Oct 10 2020",KXIP,KKR,164/6,162/5,KKR won by 2 runs
+2020,1216525,Chennai Super Kings v Royal Challengers Bangalore,"25th Match (N), Indian Premier League at Dubai (DSC), Oct 10 2020",CSK,RCB,169/4,132/8,RCB won by 37 runs
+2020,1216507,Sunrisers Hyderabad v Rajasthan Royals,"26th Match, Indian Premier League at Dubai (DSC), Oct 11 2020",SRH,RR,158/4,163/5,Royals won by 5 wickets
+2020,1216529,Mumbai Indians v Delhi Capitals,"27th Match (N), Indian Premier League at Abu Dhabi, Oct 11 2020",MI,DC,162/4,166/5,Mum Indians won by 5 wickets
+2020,1216540,Royal Challengers Bangalore v Kolkata Knight Riders,"28th Match (N), Indian Premier League at Sharjah, Oct 12 2020",RCB,KKR,194/2,112/9,RCB won by 82 runs
+2020,1216528,Sunrisers Hyderabad v Chennai Super Kings,"29th Match (N), Indian Premier League at Dubai (DSC), Oct 13 2020",SRH,CSK,167/6,147/8,Super Kings won by 20 runs
+2020,1216543,Delhi Capitals v Rajasthan Royals,"30th Match (N), Indian Premier League at Dubai (DSC), Oct 14 2020",DC,RR,161/7,148/8,Capitals won by 13 runs
+2020,1216531,Royal Challengers Bangalore v Kings XI Punjab,"31st Match (N), Indian Premier League at Sharjah, Oct 15 2020",RCB,KXIP,171/6,177/2,Kings XI won by 8 wickets
+2020,1216526,Mumbai Indians v Kolkata Knight Riders,"32nd Match (N), Indian Premier League at Abu Dhabi, Oct 16 2020",MI,KKR,148/5,149/2,Mum Indians won by 8 wickets
+2020,1216522,Rajasthan Royals v Royal Challengers Bangalore,"33rd Match, Indian Premier League at Dubai (DSC), Oct 17 2020",RR,RCB,177/6,179/3,RCB won by 7 wickets
+2020,1216509,Delhi Capitals v Chennai Super Kings,"34th Match (N), Indian Premier League at Sharjah, Oct 17 2020",DC,CSK,179/4,185/5,Capitals won by 5 wickets
+2020,1216512,Sunrisers Hyderabad v Kolkata Knight Riders,"35th Match, Indian Premier League at Abu Dhabi, Oct 18 2020",SRH,KKR,163/5,163/6,Match tied (Kolkata Knight Riders won the one-over eliminator)
+2020,1216517,Mumbai Indians v Kings XI Punjab,"36th Match (N), Indian Premier League at Dubai (DSC), Oct 18 2020",MI,KXIP,176/6,176/6,Match tied (Kings XI Punjab won the one-over eliminator)
+2020,1216533,Chennai Super Kings v Rajasthan Royals,"37th Match (N), Indian Premier League at Abu Dhabi, Oct 19 2020",CSK,RR,125/5,126/3,Royals won by 7 wickets
+2020,1216546,Kings XI Punjab v Delhi Capitals,"38th Match (N), Indian Premier League at Dubai (DSC), Oct 20 2020",KXIP,DC,164/5,167/5,Kings XI won by 5 wickets
+2020,1216494,Kolkata Knight Riders v Royal Challengers Bangalore,"39th Match (N), Indian Premier League at Abu Dhabi, Oct 21 2020",KKR,RCB,84/8,85/2,RCB won by 8 wickets
+2020,1216518,Rajasthan Royals v Sunrisers Hyderabad,"40th Match (N), Indian Premier League at Dubai (DSC), Oct 22 2020",RR,SRH,154/6,156/2,Sunrisers won by 8 wickets
+2020,1216521,Chennai Super Kings v Mumbai Indians,"41st Match (N), Indian Premier League at Sharjah, Oct 23 2020",CSK,MI,114/9,116/0,Mum Indians won by 10 wickets
+2020,1216497,Kolkata Knight Riders v Delhi Capitals,"42nd Match, Indian Premier League at Abu Dhabi, Oct 24 2020",KKR,DC,194/6,135/9,KKR won by 59 runs
+2020,1216498,Kings XI Punjab v Sunrisers Hyderabad,"43rd Match (N), Indian Premier League at Dubai (DSC), Oct 24 2020",KXIP,SRH,126/7,114,Kings XI won by 12 runs
+2020,1216544,Royal Challengers Bangalore v Chennai Super Kings,"44th Match, Indian Premier League at Dubai (DSC), Oct 25 2020",RCB,CSK,145/6,150/2,Super Kings won by 8 wickets
+2020,1216541,Rajasthan Royals v Mumbai Indians,"45th Match (N), Indian Premier League at Abu Dhabi, Oct 25 2020",RR,MI,195/5,196/2,Royals won by 8 wickets
+2020,1216520,Kolkata Knight Riders v Kings XI Punjab,"46th Match (N), Indian Premier League at Sharjah, Oct 26 2020",KKR,KXIP,149/9,150/2,Kings XI won by 8 wickets
+2020,1216524,Sunrisers Hyderabad v Delhi Capitals,"47th Match (N), Indian Premier League at Dubai (DSC), Oct 27 2020",SRH,DC,219/2,131,Sunrisers won by 88 runs
+2020,1216499,Mumbai Indians v Royal Challengers Bangalore,"48th Match (N), Indian Premier League at Abu Dhabi, Oct 28 2020",MI,RCB,164/6,166/5,Mum Indians won by 5 wickets
+2020,1216536,Chennai Super Kings v Kolkata Knight Riders,"49th Match (N), Indian Premier League at Dubai (DSC), Oct 29 2020",CSK,KKR,172/5,178/4,Super Kings won by 6 wickets
+2020,1216537,Kings XI Punjab v Rajasthan Royals,"50th Match (N), Indian Premier League at Abu Dhabi, Oct 30 2020",KXIP,RR,185/4,186/3,Royals won by 7 wickets
+2020,1216535,Delhi Capitals v Mumbai Indians,"51st Match, Indian Premier League at Dubai (DSC), Oct 31 2020",DC,MI,110/9,111/1,Mum Indians won by 9 wickets
+2020,1216502,Royal Challengers Bangalore v Sunrisers Hyderabad,"52nd Match (N), Indian Premier League at Sharjah, Oct 31 2020",RCB,SRH,120/7,121/5,Sunrisers won by 5 wickets
+2020,1216506,Chennai Super Kings v Kings XI Punjab,"53rd Match, Indian Premier League at Abu Dhabi, Nov 1 2020",CSK,KXIP,153/6,154/1,Super Kings won by 9 wickets
+2020,1216530,Kolkata Knight Riders v Rajasthan Royals,"54th Match (N), Indian Premier League at Dubai (DSC), Nov 1 2020",KKR,RR,191/7,131/9,KKR won by 60 runs
+2020,1216505,Delhi Capitals v Royal Challengers Bangalore,"55th Match (N), Indian Premier League at Abu Dhabi, Nov 2 2020",DC,RCB,152/7,154/4,Capitals won by 6 wickets
+2020,1216495,Sunrisers Hyderabad v Mumbai Indians,"56th Match (N), Indian Premier League at Sharjah, Nov 3 2020",SRH,MI,149/8,151/0,Sunrisers won by 10 wickets
+2020,1237177,Delhi Capitals v Mumbai Indians,"Qualifier 1 (N), Indian Premier League at Dubai (DSC), Nov 5 2020",DC,MI,200/5,143/8,Mum Indians won by 57 runs
+2020,1237178,Royal Challengers Bangalore v Sunrisers Hyderabad,"Eliminator (N), Indian Premier League at Abu Dhabi, Nov 6 2020",RCB,SRH,131/7,132/4,Sunrisers won by 6 wickets
+2020,1237180,Delhi Capitals v Sunrisers Hyderabad,"Qualifier 2 (N), Indian Premier League at Abu Dhabi, Nov 8 2020",DC,SRH,189/3,172/8,Capitals won by 17 runs
+2020,1237181,Delhi Capitals v Mumbai Indians,"Final (N), Indian Premier League at Dubai (DSC), Nov 10 2020",DC,MI,156/7,157/5,Mum Indians won by 5 wickets
+2019,1175356,Chennai Super Kings v Royal Challengers Bangalore,"1st Match (N), Indian Premier League at Chennai, Mar 23 2019",CSK,RCB,70,71/3,Super Kings won by 7 wickets
+2019,1175357,Kolkata Knight Riders v Sunrisers Hyderabad,"2nd Match (D/N), Indian Premier League at Kolkata, Mar 24 2019",KKR,SRH,181/3,183/4,KKR won by 6 wickets
+2019,1175358,Mumbai Indians v Delhi Capitals,"3rd Match (N), Indian Premier League at Mumbai, Mar 24 2019",MI,DC,213/6,176,Capitals won by 37 runs
+2019,1175359,Rajasthan Royals v Kings XI Punjab,"4th Match (N), Indian Premier League at Jaipur, Mar 25 2019",RR,KXIP,184/4,170/9,Kings XI won by 14 runs
+2019,1175360,Delhi Capitals v Chennai Super Kings,"5th Match (N), Indian Premier League at Delhi, Mar 26 2019",DC,CSK,147/6,150/4,Super Kings won by 6 wickets
+2019,1175361,Kolkata Knight Riders v Kings XI Punjab,"6th Match (N), Indian Premier League at Kolkata, Mar 27 2019",KKR,KXIP,218/4,190/4,KKR won by 28 runs
+2019,1175362,Royal Challengers Bangalore v Mumbai Indians,"7th Match (N), Indian Premier League at Bengaluru, Mar 28 2019",RCB,MI,187/8,181/5,Mum Indians won by 6 runs
+2019,1175363,Sunrisers Hyderabad v Rajasthan Royals,"8th Match (N), Indian Premier League at Hyderabad (Deccan), Mar 29 2019",SRH,RR,198/2,201/5,Sunrisers won by 5 wickets
+2019,1175364,Kings XI Punjab v Mumbai Indians,"9th Match (D/N), Indian Premier League at Mohali, Mar 30 2019",KXIP,MI,176/7,177/2,Kings XI won by 8 wickets
+2019,1175365,Delhi Capitals v Kolkata Knight Riders,"10th Match (N), Indian Premier League at Delhi, Mar 30 2019",DC,KKR,185/8,185/6,Match tied (Delhi Capitals won the one-over eliminator)
+2019,1175366,Sunrisers Hyderabad v Royal Challengers Bangalore,"11th Match (D/N), Indian Premier League at Hyderabad (Deccan), Mar 31 2019",SRH,RCB,231/2,113,Sunrisers won by 118 runs
+2019,1175367,Chennai Super Kings v Rajasthan Royals,"12th Match (N), Indian Premier League at Chennai, Mar 31 2019",CSK,RR,175/5,167/8,Super Kings won by 8 runs
+2019,1175368,Kings XI Punjab v Delhi Capitals,"13th Match (N), Indian Premier League at Mohali, Apr 1 2019",KXIP,DC,166/9,152,Kings XI won by 14 runs
+2019,1175369,Rajasthan Royals v Royal Challengers Bangalore,"14th Match (N), Indian Premier League at Jaipur, Apr 2 2019",RR,RCB,158/4,164/3,Royals won by 7 wickets
+2019,1175370,Mumbai Indians v Chennai Super Kings,"15th Match (N), Indian Premier League at Mumbai, Apr 3 2019",MI,CSK,170/5,133/8,Mum Indians won by 37 runs
+2019,1175371,Delhi Capitals v Sunrisers Hyderabad,"16th Match (N), Indian Premier League at Delhi, Apr 4 2019",DC,SRH,129/8,131/5,Sunrisers won by 5 wickets
+2019,1175372,Royal Challengers Bangalore v Kolkata Knight Riders,"17th Match (N), Indian Premier League at Bengaluru, Apr 5 2019",RCB,KKR,205/3,206/5,KKR won by 5 wickets
+2019,1178393,Chennai Super Kings v Kings XI Punjab,"18th Match (D/N), Indian Premier League at Chennai, Apr 6 2019",CSK,KXIP,160/3,138/5,Super Kings won by 22 runs
+2019,1178394,Sunrisers Hyderabad v Mumbai Indians,"19th Match (N), Indian Premier League at Hyderabad (Deccan), Apr 6 2019",SRH,MI,136/7,96,Mum Indians won by 40 runs
+2019,1178395,Royal Challengers Bangalore v Delhi Capitals,"20th Match (D/N), Indian Premier League at Bengaluru, Apr 7 2019",RCB,DC,149/8,152/6,Capitals won by 4 wickets
+2019,1178396,Rajasthan Royals v Kolkata Knight Riders,"21st Match (N), Indian Premier League at Jaipur, Apr 7 2019",RR,KKR,139/3,140/2,KKR won by 8 wickets
+2019,1178397,Kings XI Punjab v Sunrisers Hyderabad,"22nd Match (N), Indian Premier League at Mohali, Apr 8 2019",KXIP,SRH,150/4,151/4,Kings XI won by 6 wickets
+2019,1178398,Chennai Super Kings v Kolkata Knight Riders,"23rd Match (N), Indian Premier League at Chennai, Apr 9 2019",CSK,KKR,108/9,111/3,Super Kings won by 7 wickets
+2019,1178399,Mumbai Indians v Kings XI Punjab,"24th Match (N), Indian Premier League at Mumbai, Apr 10 2019",MI,KXIP,197/4,198/7,Mum Indians won by 3 wickets
+2019,1178400,Rajasthan Royals v Chennai Super Kings,"25th Match (N), Indian Premier League at Jaipur, Apr 11 2019",RR,CSK,151/7,155/6,Super Kings won by 4 wickets
+2019,1178401,Kolkata Knight Riders v Delhi Capitals,"26th Match (N), Indian Premier League at Kolkata, Apr 12 2019",KKR,DC,178/7,180/3,Capitals won by 7 wickets
+2019,1178402,Mumbai Indians v Rajasthan Royals,"27th Match (D/N), Indian Premier League at Mumbai, Apr 13 2019",MI,RR,187/5,188/6,Royals won by 4 wickets
+2019,1178403,Kings XI Punjab v Royal Challengers Bangalore,"28th Match (N), Indian Premier League at Mohali, Apr 13 2019",KXIP,RCB,173/4,174/2,RCB won by 8 wickets
+2019,1178404,Kolkata Knight Riders v Chennai Super Kings,"29th Match (D/N), Indian Premier League at Kolkata, Apr 14 2019",KKR,CSK,161/8,162/5,Super Kings won by 5 wickets
+2019,1178405,Sunrisers Hyderabad v Delhi Capitals,"30th Match (N), Indian Premier League at Hyderabad (Deccan), Apr 14 2019",SRH,DC,155/7,116,Capitals won by 39 runs
+2019,1178406,Mumbai Indians v Royal Challengers Bangalore,"31st Match (N), Indian Premier League at Mumbai, Apr 15 2019",MI,RCB,171/7,172/5,Mum Indians won by 5 wickets
+2019,1178407,Kings XI Punjab v Rajasthan Royals,"32nd Match (N), Indian Premier League at Mohali, Apr 16 2019",KXIP,RR,182/6,170/7,Kings XI won by 12 runs
+2019,1178408,Sunrisers Hyderabad v Chennai Super Kings,"33rd Match (N), Indian Premier League at Hyderabad (Deccan), Apr 17 2019",SRH,CSK,132/5,137/4,Sunrisers won by 6 wickets
+2019,1178409,Delhi Capitals v Mumbai Indians,"34th Match (N), Indian Premier League at Delhi, Apr 18 2019",DC,MI,168/5,128/9,Mum Indians won by 40 runs
+2019,1178410,Kolkata Knight Riders v Royal Challengers Bangalore,"35th Match (N), Indian Premier League at Kolkata, Apr 19 2019",KKR,RCB,213/4,203/5,RCB won by 10 runs
+2019,1178411,Rajasthan Royals v Mumbai Indians,"36th Match (D/N), Indian Premier League at Jaipur, Apr 20 2019",RR,MI,161/5,162/5,Royals won by 5 wickets
+2019,1178412,Delhi Capitals v Kings XI Punjab,"37th Match (N), Indian Premier League at Delhi, Apr 20 2019",DC,KXIP,163/7,166/5,Capitals won by 5 wickets
+2019,1178413,Sunrisers Hyderabad v Kolkata Knight Riders,"38th Match (D/N), Indian Premier League at Hyderabad (Deccan), Apr 21 2019",SRH,KKR,159/8,161/1,Sunrisers won by 9 wickets
+2019,1178414,Royal Challengers Bangalore v Chennai Super Kings,"39th Match (N), Indian Premier League at Bengaluru, Apr 21 2019",RCB,CSK,161/7,160/8,RCB won by 1 run
+2019,1178415,Rajasthan Royals v Delhi Capitals,"40th Match (N), Indian Premier League at Jaipur, Apr 22 2019",RR,DC,191/6,193/4,Capitals won by 6 wickets
+2019,1178416,Chennai Super Kings v Sunrisers Hyderabad,"41st Match (N), Indian Premier League at Chennai, Apr 23 2019",CSK,SRH,175/3,176/4,Super Kings won by 6 wickets
+2019,1178417,Royal Challengers Bangalore v Kings XI Punjab,"42nd Match (N), Indian Premier League at Bengaluru, Apr 24 2019",RCB,KXIP,202/4,185/7,RCB won by 17 runs
+2019,1178418,Kolkata Knight Riders v Rajasthan Royals,"43rd Match (N), Indian Premier League at Kolkata, Apr 25 2019",KKR,RR,175/6,177/7,Royals won by 3 wickets
+2019,1178419,Chennai Super Kings v Mumbai Indians,"44th Match (N), Indian Premier League at Chennai, Apr 26 2019",CSK,MI,155/4,109,Mum Indians won by 46 runs
+2019,1178420,Rajasthan Royals v Sunrisers Hyderabad,"45th Match (N), Indian Premier League at Jaipur, Apr 27 2019",RR,SRH,160/8,161/3,Royals won by 7 wickets
+2019,1178421,Delhi Capitals v Royal Challengers Bangalore,"46th Match (D/N), Indian Premier League at Delhi, Apr 28 2019",DC,RCB,187/5,171/7,Capitals won by 16 runs
+2019,1178422,Kolkata Knight Riders v Mumbai Indians,"47th Match (N), Indian Premier League at Kolkata, Apr 28 2019",KKR,MI,232/2,198/7,KKR won by 34 runs
+2019,1178423,Sunrisers Hyderabad v Kings XI Punjab,"48th Match (N), Indian Premier League at Hyderabad (Deccan), Apr 29 2019",SRH,KXIP,212/6,167/8,Sunrisers won by 45 runs
+,,,,,,,,
+2019,1178425,Chennai Super Kings v Delhi Capitals,"50th Match (N), Indian Premier League at Chennai, May 1 2019",CSK,DC,179/4,99,Super Kings won by 80 runs
+2019,1178426,Mumbai Indians v Sunrisers Hyderabad,"51st Match (N), Indian Premier League at Mumbai, May 2 2019",MI,SRH,162/5,162/6,Match tied (Mumbai Indians won the one-over eliminator)
+2019,1178427,Kings XI Punjab v Kolkata Knight Riders,"52nd Match (N), Indian Premier League at Mohali, May 3 2019",KXIP,KKR,183/6,185/3,KKR won by 7 wickets
+2019,1178428,Delhi Capitals v Rajasthan Royals,"53rd Match (D/N), Indian Premier League at Delhi, May 4 2019",DC,RR,115/9,121/5,Capitals won by 5 wickets
+2019,1178429,Royal Challengers Bangalore v Sunrisers Hyderabad,"54th Match (N), Indian Premier League at Bengaluru, May 4 2019",RCB,SRH,175/7,178/6,RCB won by 4 wickets
+2019,1178430,Kings XI Punjab v Chennai Super Kings,"55th Match (D/N), Indian Premier League at Mohali, May 5 2019",KXIP,CSK,170/5,173/4,Kings XI won by 6 wickets
+2019,1178431,Mumbai Indians v Kolkata Knight Riders,"56th Match (N), Indian Premier League at Mumbai, May 5 2019",MI,KKR,133/7,134/1,Mum Indians won by 9 wickets
+2019,1181764,Mumbai Indians v Chennai Super Kings,"Qualifier 1 (N), Indian Premier League at Chennai, May 7 2019",MI,CSK,131/4,132/4,Mum Indians won by 6 wickets
+2019,1181766,Delhi Capitals v Sunrisers Hyderabad,"Eliminator (N), Indian Premier League at Visakhapatnam, May 8 2019",DC,SRH,162/8,165/8,Capitals won by 2 wickets
+2019,1181767,Chennai Super Kings v Delhi Capitals,"Qualifier 2 (N), Indian Premier League at Visakhapatnam, May 10 2019",CSK,DC,147/9,151/4,Super Kings won by 6 wickets
+2019,1181768,Mumbai Indians v Chennai Super Kings,"Final (N), Indian Premier League at Hyderabad (Deccan), May 12 2019",MI,CSK,149/8,148/7,Mum Indians won by 1 run
+2018,1136561,Mumbai Indians v Chennai Super Kings,"1st match (N), Indian Premier League at Mumbai, Apr 7 2018",MI,CSK,165/4,169/9,Super Kings won by 1 wicket
+2018,1136562,Kings XI Punjab v Delhi Daredevils,"2nd match (D/N), Indian Premier League at Mohali, Apr 8 2018",KXIP,DC,166/7,167/4,Kings XI won by 6 wickets
+2018,1136563,Kolkata Knight Riders v Royal Challengers Bangalore,"3rd match (N), Indian Premier League at Kolkata, Apr 8 2018",KKR,RCB,176/7,177/6,KKR won by 4 wickets
+2018,1136564,Sunrisers Hyderabad v Rajasthan Royals,"4th match (N), Indian Premier League at Hyderabad (Deccan), Apr 9 2018",SRH,RR,125/9,127/1,Sunrisers won by 9 wickets
+2018,1136565,Chennai Super Kings v Kolkata Knight Riders,"5th match (N), Indian Premier League at Chennai, Apr 10 2018",CSK,KKR,202/6,205/5,Super Kings won by 5 wickets
+2018,1136566,Rajasthan Royals v Delhi Daredevils,"6th match (N), Indian Premier League at Jaipur, Apr 11 2018",RR,DC,153/5,60/4,Royals won by 10 runs (D/L)
+2018,1136567,Sunrisers Hyderabad v Mumbai Indians,"7th match (N), Indian Premier League at Hyderabad (Deccan), Apr 12 2018",SRH,MI,147/8,151/9,Sunrisers won by 1 wicket
+2018,1136568,Royal Challengers Bangalore v Kings XI Punjab,"8th match (N), Indian Premier League at Bengaluru, Apr 13 2018",RCB,KXIP,155,159/6,RCB won by 4 wickets
+2018,1136569,Mumbai Indians v Delhi Daredevils,"9th match (D/N), Indian Premier League at Mumbai, Apr 14 2018",MI,DC,194/7,195/3,Daredevils won by 7 wickets
+2018,1136570,Kolkata Knight Riders v Sunrisers Hyderabad,"10th match (N), Indian Premier League at Kolkata, Apr 14 2018",KKR,SRH,138/8,139/5,Sunrisers won by 5 wickets (with 6 balls remaining)
+2018,1136571,Royal Challengers Bangalore v Rajasthan Royals,"11th match (D/N), Indian Premier League at Bengaluru, Apr 15 2018",RCB,RR,217/4,198/6,Royals won by 19 runs
+2018,1136572,Kings XI Punjab v Chennai Super Kings,"12th match (N), Indian Premier League at Mohali, Apr 15 2018",KXIP,CSK,197/7,193/5,Kings XI won by 4 runs
+2018,1136573,Kolkata Knight Riders v Delhi Daredevils,"13th match (N), Indian Premier League at Kolkata, Apr 16 2018",KKR,DC,200/9,129,KKR won by 71 runs
+2018,1136574,Mumbai Indians v Royal Challengers Bangalore,"14th match (N), Indian Premier League at Mumbai, Apr 17 2018",MI,RCB,213/6,167/8,Mum Indians won by 46 runs
+2018,1136575,Rajasthan Royals v Kolkata Knight Riders,"15th match (N), Indian Premier League at Jaipur, Apr 18 2018",RR,KKR,160/8,163/3,KKR won by 7 wickets (with 7 balls remaining)
+2018,1136576,Kings XI Punjab v Sunrisers Hyderabad,"16th match (N), Indian Premier League at Mohali, Apr 19 2018",KXIP,SRH,193/3,178/4,Kings XI won by 15 runs
+2018,1136577,Chennai Super Kings v Rajasthan Royals,"17th match (N), Indian Premier League at Pune, Apr 20 2018",CSK,RR,204/5,140,Super Kings won by 64 runs
+2018,1136578,Kolkata Knight Riders v Kings XI Punjab,"18th match (D/N), Indian Premier League at Kolkata, Apr 21 2018",KKR,KXIP,191/7,126/1,Kings XI won by 9 wickets (with 11 balls remaining) (D/L method)
+2018,1136579,Royal Challengers Bangalore v Delhi Daredevils,"19th match (N), Indian Premier League at Bengaluru, Apr 21 2018",RCB,DC,174/5,176/4,RCB won by 6 wickets (with 12 balls remaining)
+2018,1136580,Sunrisers Hyderabad v Chennai Super Kings,"20th match (D/N), Indian Premier League at Hyderabad (Deccan), Apr 22 2018",SRH,CSK,182/3,178/6,Super Kings won by 4 runs
+2018,1136581,Rajasthan Royals v Mumbai Indians,"21st match (N), Indian Premier League at Jaipur, Apr 22 2018",RR,MI,167/7,168/7,Royals won by 3 wickets (with 2 balls remaining)
+2018,1136582,Delhi Daredevils v Kings XI Punjab,"22nd match (N), Indian Premier League at Delhi, Apr 23 2018",DC,KXIP,143/8,139/8,Kings XI won by 4 runs
+2018,1136583,Mumbai Indians v Sunrisers Hyderabad,"23rd match (N), Indian Premier League at Mumbai, Apr 24 2018",MI,SRH,118,87,Sunrisers won by 31 runs
+2018,1136584,Royal Challengers Bangalore v Chennai Super Kings,"24th match (N), Indian Premier League at Bengaluru, Apr 25 2018",RCB,CSK,205/8,207/5,Super Kings won by 5 wickets (with 2 balls remaining)
+2018,1136585,Sunrisers Hyderabad v Kings XI Punjab,"25th match (N), Indian Premier League at Hyderabad (Deccan), Apr 26 2018",SRH,KXIP,132/6,119,Sunrisers won by 13 runs
+2018,1136586,Delhi Daredevils v Kolkata Knight Riders,"26th match (N), Indian Premier League at Delhi, Apr 27 2018",DC,KKR,219/4,164/9,Daredevils won by 55 runs
+2018,1136587,Chennai Super Kings v Mumbai Indians,"27th match (N), Indian Premier League at Pune, Apr 28 2018",CSK,MI,169/5,170/2,Mum Indians won by 8 wickets (with 2 balls remaining)
+2018,1136588,Rajasthan Royals v Sunrisers Hyderabad,"28th match (D/N), Indian Premier League at Jaipur, Apr 29 2018",RR,SRH,151/7,140/6,Sunrisers won by 11 runs
+2018,1136589,Royal Challengers Bangalore v Kolkata Knight Riders,"29th match (N), Indian Premier League at Bengaluru, Apr 29 2018",RCB,KKR,175/4,176/4,KKR won by 6 wickets (with 5 balls remaining)
+2018,1136590,Chennai Super Kings v Delhi Daredevils,"30th match (N), Indian Premier League at Pune, Apr 30 2018",CSK,DC,211/4,198/5,Super Kings won by 13 runs
+2018,1136591,Royal Challengers Bangalore v Mumbai Indians,"31st match (N), Indian Premier League at Bengaluru, May 1 2018",RCB,MI,167/7,153/7,RCB won by 14 runs
+2018,1136592,Delhi Daredevils v Rajasthan Royals,"32nd match (N), Indian Premier League at Delhi, May 2 2018",DC,RR,196/6,146/5,Daredevils won by 4 runs (D/L method)
+2018,1136593,Kolkata Knight Riders v Chennai Super Kings,"33rd match (N), Indian Premier League at Kolkata, May 3 2018",KKR,CSK,177/5,180/4,KKR won by 6 wickets (with 14 balls remaining)
+2018,1136594,Kings XI Punjab v Mumbai Indians,"34th match (N), Indian Premier League at Indore, May 4 2018",KXIP,MI,174/6,176/4,Mum Indians won by 6 wickets (with 6 balls remaining)
+2018,1136595,Chennai Super Kings v Royal Challengers Bangalore,"35th match (D/N), Indian Premier League at Pune, May 5 2018",CSK,RCB,127/9,128/4,Super Kings won by 6 wickets (with 12 balls remaining)
+2018,1136596,Sunrisers Hyderabad v Delhi Daredevils,"36th match (N), Indian Premier League at Hyderabad (Deccan), May 5 2018",SRH,DC,163/5,164/3,Sunrisers won by 7 wickets (with 1 ball remaining)
+2018,1136597,Mumbai Indians v Kolkata Knight Riders,"37th match (D/N), Indian Premier League at Mumbai, May 6 2018",MI,KKR,181/4,168/6,Mum Indians won by 13 runs
+2018,1136598,Kings XI Punjab v Rajasthan Royals,"38th match (N), Indian Premier League at Indore, May 6 2018",KXIP,RR,152/9,155/4,Kings XI won by 6 wickets (with 8 balls remaining)
+2018,1136599,Sunrisers Hyderabad v Royal Challengers Bangalore,"39th match (N), Indian Premier League at Hyderabad (Deccan), May 7 2018",SRH,RCB,146,141/6,Sunrisers won by 5 runs
+2018,1136600,Rajasthan Royals v Kings XI Punjab,"40th match (N), Indian Premier League at Jaipur, May 8 2018",RR,KXIP,158/8,143/7,Royals won by 15 runs
+2018,1136601,Kolkata Knight Riders v Mumbai Indians,"41st match (N), Indian Premier League at Kolkata, May 9 2018",KKR,MI,210/6,108,Mum Indians won by 102 runs
+2018,1136602,Delhi Daredevils v Sunrisers Hyderabad,"42nd match (N), Indian Premier League at Delhi, May 10 2018",DC,SRH,187/5,191/1,Sunrisers won by 9 wickets (with 7 balls remaining)
+2018,1136603,Rajasthan Royals v Chennai Super Kings,"43rd match (N), Indian Premier League at Jaipur, May 11 2018",RR,CSK,176/4,177/6,Royals won by 4 wickets (with 1 ball remaining)
+2018,1136604,Kings XI Punjab v Kolkata Knight Riders,"44th match (D/N), Indian Premier League at Indore, May 12 2018",KXIP,KKR,245/6,214/8,KKR won by 31 runs
+2018,1136605,Delhi Daredevils v Royal Challengers Bangalore,"45th match (N), Indian Premier League at Delhi, May 12 2018",DC,RCB,181/4,187/5,RCB won by 5 wickets (with 6 balls remaining)
+2018,1136606,Chennai Super Kings v Sunrisers Hyderabad,"46th match (D/N), Indian Premier League at Pune, May 13 2018",CSK,SRH,179/4,180/2,Super Kings won by 8 wickets (with 6 balls remaining)
+2018,1136607,Mumbai Indians v Rajasthan Royals,"47th match (N), Indian Premier League at Mumbai, May 13 2018",MI,RR,168/6,171/3,Royals won by 7 wickets
+2018,1136608,Kings XI Punjab v Royal Challengers Bangalore,"48th match (N), Indian Premier League at Indore, May 14 2018",KXIP,RCB,88,92/0,RCB won by 10 wickets (with 71 balls remaining)
+2018,1136609,Kolkata Knight Riders v Rajasthan Royals,"49th match (N), Indian Premier League at Kolkata, May 15 2018",KKR,RR,142,145/4,KKR won by 6 wickets (with 12 balls remaining)
+2018,1136610,Mumbai Indians v Kings XI Punjab,"50th match (N), Indian Premier League at Mumbai, May 16 2018",MI,KXIP,186/8,183/5,Mum Indians won by 3 runs
+2018,1136611,Royal Challengers Bangalore v Sunrisers Hyderabad,"51st match (N), Indian Premier League at Bengaluru, May 17 2018",RCB,SRH,218/6,204/3,RCB won by 14 runs
+2018,1136612,Delhi Daredevils v Chennai Super Kings,"52nd match (N), Indian Premier League at Delhi, May 18 2018",DC,CSK,162/5,128/6,Daredevils won by 34 runs
+2018,1136613,Rajasthan Royals v Royal Challengers Bangalore,"53rd match (D/N), Indian Premier League at Jaipur, May 19 2018",RR,RCB,164/5,134,Royals won by 30 runs
+2018,1136614,Sunrisers Hyderabad v Kolkata Knight Riders,"54th match (N), Indian Premier League at Hyderabad (Deccan), May 19 2018",SRH,KKR,172/9,173/5,KKR won by 5 wickets (with 2 balls remaining)
+2018,1136615,Delhi Daredevils v Mumbai Indians,"55th match (D/N), Indian Premier League at Delhi, May 20 2018",DC,MI,174/4,163,Daredevils won by 11 runs
+2018,1136616,Chennai Super Kings v Kings XI Punjab,"56th match (N), Indian Premier League at Pune, May 20 2018",CSK,KXIP,153,159/5,Super Kings won by 5 wickets (with 5 balls remaining)
+2018,1136617,Sunrisers Hyderabad v Chennai Super Kings,"Qualifier 1 (N), Indian Premier League at Mumbai, May 22 2018",SRH,CSK,139/7,140/8,Super Kings won by 2 wickets (with 5 balls remaining)
+2018,1136618,Kolkata Knight Riders v Rajasthan Royals,"Eliminator (N), Indian Premier League at Kolkata, May 23 2018",KKR,RR,169/7,144/4,KKR won by 25 runs
+2018,1136619,Kolkata Knight Riders v Sunrisers Hyderabad,"Qualifier 2 (N), Indian Premier League at Kolkata, May 25 2018",KKR,SRH,174/7,160/9,Sunrisers won by 14 runs
+2018,1136620,Chennai Super Kings v Sunrisers Hyderabad,"Final (N), Indian Premier League at Mumbai, May 27 2018",CSK,SRH,178/6,181/2,Super Kings won by 8 wickets (with 9 balls remaining)
+2017,1082591,Sunrisers Hyderabad v Royal Challengers Bangalore,"1st match (N), Indian Premier League at Hyderabad (Deccan), Apr 5 2017",SRH,RCB,207/4,172,Sunrisers won by 35 runs
+2017,1082592,Rising Pune Supergiant v Mumbai Indians,"2nd match (N), Indian Premier League at Pune, Apr 6 2017",RPS,MI,184/8,187/3,Supergiant won by 7 wickets (with 1 ball remaining)
+2017,1082593,Gujarat Lions v Kolkata Knight Riders,"3rd match (N), Indian Premier League at Rajkot, Apr 7 2017",GL,KKR,183/4,184/0,KKR won by 10 wickets (with 31 balls remaining)
+2017,1082594,Kings XI Punjab v Rising Pune Supergiant,"4th match (D/N), Indian Premier League at Indore, Apr 8 2017",KXIP,RPS,163/6,164/4,Kings XI won by 6 wickets (with 6 balls remaining)
+2017,1082595,Royal Challengers Bangalore v Delhi Daredevils,"5th match (N), Indian Premier League at Bengaluru, Apr 8 2017",RCB,DC,157/8,142/9,RCB won by 15 runs
+2017,1082596,Sunrisers Hyderabad v Gujarat Lions,"6th match (D/N), Indian Premier League at Hyderabad (Deccan), Apr 9 2017",SRH,GL,135/7,140/1,Sunrisers won by 9 wickets (with 27 balls remaining)
+2017,1082597,Mumbai Indians v Kolkata Knight Riders,"7th match (N), Indian Premier League at Mumbai, Apr 9 2017",MI,KKR,178/7,180/6,Mum Indians won by 4 wickets (with 1 ball remaining)
+2017,1082598,Kings XI Punjab v Royal Challengers Bangalore,"8th match (N), Indian Premier League at Indore, Apr 10 2017",KXIP,RCB,148/4,150/2,Kings XI won by 8 wickets (with 33 balls remaining)
+2017,1082599,Rising Pune Supergiant v Delhi Daredevils,"9th match (N), Indian Premier League at Pune, Apr 11 2017",RPS,DC,205/4,108,Daredevils won by 97 runs
+2017,1082600,Mumbai Indians v Sunrisers Hyderabad,"10th match (N), Indian Premier League at Mumbai, Apr 12 2017",MI,SRH,158/8,159/6,Mum Indians won by 4 wickets (with 8 balls remaining)
+2017,1082601,Kolkata Knight Riders v Kings XI Punjab,"11th match (N), Indian Premier League at Kolkata, Apr 13 2017",KKR,KXIP,170/9,171/2,KKR won by 8 wickets (with 21 balls remaining)
+2017,1082602,Royal Challengers Bangalore v Mumbai Indians,"12th match (D/N), Indian Premier League at Bengaluru, Apr 14 2017",RCB,MI,142/5,145/6,Mum Indians won by 4 wickets (with 7 balls remaining)
+2017,1082603,Gujarat Lions v Rising Pune Supergiant,"13th match (N), Indian Premier League at Rajkot, Apr 14 2017",GL,RPS,171/8,172/3,Guj Lions won by 7 wickets (with 12 balls remaining)
+2017,1082604,Kolkata Knight Riders v Sunrisers Hyderabad,"14th match (D/N), Indian Premier League at Kolkata, Apr 15 2017",KKR,SRH,172/6,155/6,KKR won by 17 runs
+2017,1082605,Delhi Daredevils v Kings XI Punjab,"15th match (N), Indian Premier League at Delhi, Apr 15 2017",DC,KXIP,188/6,137/9,Daredevils won by 51 runs
+2017,1082606,Mumbai Indians v Gujarat Lions,"16th match (D/N), Indian Premier League at Mumbai, Apr 16 2017",MI,GL,176/4,177/4,Mum Indians won by 6 wickets (with 3 balls remaining)
+2017,1082607,Royal Challengers Bangalore v Rising Pune Supergiant,"17th match (N), Indian Premier League at Bengaluru, Apr 16 2017",RCB,RPS,161/8,134/9,Supergiant won by 27 runs
+2017,1082608,Delhi Daredevils v Kolkata Knight Riders,"18th match (D/N), Indian Premier League at Delhi, Apr 17 2017",DC,KKR,168/7,169/6,KKR won by 4 wickets (with 1 ball remaining)
+2017,1082609,Sunrisers Hyderabad v Kings XI Punjab,"19th match (N), Indian Premier League at Hyderabad (Deccan), Apr 17 2017",SRH,KXIP,159/6,154,Sunrisers won by 5 runs
+2017,1082610,Gujarat Lions v Royal Challengers Bangalore,"20th match (N), Indian Premier League at Rajkot, Apr 18 2017",GL,RCB,213/2,192/7,RCB won by 21 runs
+2017,1082611,Sunrisers Hyderabad v Delhi Daredevils,"21st match (N), Indian Premier League at Hyderabad (Deccan), Apr 19 2017",SRH,DC,191/4,176/5,Sunrisers won by 15 runs
+2017,1082612,Kings XI Punjab v Mumbai Indians,"22nd match (N), Indian Premier League at Indore, Apr 20 2017",KXIP,MI,198/4,199/2,Mum Indians won by 8 wickets (with 27 balls remaining)
+2017,1082613,Kolkata Knight Riders v Gujarat Lions,"23rd match (N), Indian Premier League at Kolkata, Apr 21 2017",KKR,GL,187/5,188/6,Guj Lions won by 4 wickets (with 10 balls remaining)
+2017,1082615,Rising Pune Supergiant v Sunrisers Hyderabad,"24th match (D/N), Indian Premier League at Pune, Apr 22 2017",RPS,SRH,176/3,179/4,Supergiant won by 6 wickets (with 0 balls remaining)
+2017,1082614,Mumbai Indians v Delhi Daredevils,"25th match (N), Indian Premier League at Mumbai, Apr 22 2017",MI,DC,142/8,128/7,Mum Indians won by 14 runs
+2017,1082616,Gujarat Lions v Kings XI Punjab,"26th match (D/N), Indian Premier League at Rajkot, Apr 23 2017",GL,KXIP,188/7,162/7,Kings XI won by 26 runs
+2017,1082617,Kolkata Knight Riders v Royal Challengers Bangalore,"27th match (N), Indian Premier League at Kolkata, Apr 23 2017",KKR,RCB,131,49,KKR won by 82 runs
+2017,1082618,Mumbai Indians v Rising Pune Supergiant,"28th match (N), Indian Premier League at Mumbai, Apr 24 2017",MI,RPS,160/6,157/8,Supergiant won by 3 runs
+,,,,,,,,
+2017,1082620,Rising Pune Supergiant v Kolkata Knight Riders,"30th match (N), Indian Premier League at Pune, Apr 26 2017",RPS,KKR,182/5,184/3,KKR won by 7 wickets (with 11 balls remaining)
+2017,1082621,Royal Challengers Bangalore v Gujarat Lions,"31st match (N), Indian Premier League at Bengaluru, Apr 27 2017",RCB,GL,134,135/3,Guj Lions won by 7 wickets (with 37 balls remaining)
+2017,1082622,Kolkata Knight Riders v Delhi Daredevils,"32nd match (D/N), Indian Premier League at Kolkata, Apr 28 2017",KKR,DC,160/6,161/3,KKR won by 7 wickets (with 22 balls remaining)
+2017,1082623,Kings XI Punjab v Sunrisers Hyderabad,"33rd match (N), Indian Premier League at Mohali, Apr 28 2017",KXIP,SRH,207/3,181/9,Sunrisers won by 26 runs
+2017,1082624,Rising Pune Supergiant v Royal Challengers Bangalore,"34th match (D/N), Indian Premier League at Pune, Apr 29 2017",RPS,RCB,157/3,96/9,Supergiant won by 61 runs
+2017,1082625,Gujarat Lions v Mumbai Indians,"35th match (N), Indian Premier League at Rajkot, Apr 29 2017",GL,MI,153/9,153,Match tied (Mumbai Indians won the one-over eliminator)
+2017,1082626,Kings XI Punjab v Delhi Daredevils,"36th match (D/N), Indian Premier League at Mohali, Apr 30 2017",KXIP,DC,67,68/0,Kings XI won by 10 wickets (with 73 balls remaining)
+2017,1082627,Sunrisers Hyderabad v Kolkata Knight Riders,"37th match (N), Indian Premier League at Hyderabad (Deccan), Apr 30 2017",SRH,KKR,209/3,161/7,Sunrisers won by 48 runs
+2017,1082628,Mumbai Indians v Royal Challengers Bangalore,"38th match (D/N), Indian Premier League at Mumbai, May 1 2017",MI,RCB,162/8,165/5,Mum Indians won by 5 wickets (with 1 ball remaining)
+2017,1082629,Rising Pune Supergiant v Gujarat Lions,"39th match (N), Indian Premier League at Pune, May 1 2017",RPS,GL,161,167/5,Supergiant won by 5 wickets (with 1 ball remaining)
+2017,1082630,Delhi Daredevils v Sunrisers Hyderabad,"40th match (N), Indian Premier League at Delhi, May 2 2017",DC,SRH,185/3,189/4,Daredevils won by 6 wickets (with 5 balls remaining)
+2017,1082631,Kolkata Knight Riders v Rising Pune Supergiant,"41st match (N), Indian Premier League at Kolkata, May 3 2017",KKR,RPS,155/8,158/6,Supergiant won by 4 wickets (with 4 balls remaining)
+2017,1082632,Delhi Daredevils v Gujarat Lions,"42nd match (N), Indian Premier League at Delhi, May 4 2017",DC,GL,208/7,214/3,Daredevils won by 7 wickets (with 15 balls remaining)
+2017,1082633,Royal Challengers Bangalore v Kings XI Punjab,"43rd match (N), Indian Premier League at Bengaluru, May 5 2017",RCB,KXIP,138/7,119,Kings XI won by 19 runs
+2017,1082634,Sunrisers Hyderabad v Rising Pune Supergiant,"44th match (D/N), Indian Premier League at Hyderabad (Deccan), May 6 2017",SRH,RPS,148/8,136/9,Supergiant won by 12 runs
+2017,1082635,Delhi Daredevils v Mumbai Indians,"45th match (N), Indian Premier League at Delhi, May 6 2017",DC,MI,212/3,66,Mum Indians won by 146 runs
+2017,1082636,Royal Challengers Bangalore v Kolkata Knight Riders,"46th match (D/N), Indian Premier League at Bengaluru, May 7 2017",RCB,KKR,158/6,159/4,KKR won by 6 wickets (with 29 balls remaining)
+2017,1082637,Kings XI Punjab v Gujarat Lions,"47th match (N), Indian Premier League at Mohali, May 7 2017",KXIP,GL,189/3,192/4,Guj Lions won by 6 wickets (with 2 balls remaining)
+2017,1082638,Sunrisers Hyderabad v Mumbai Indians,"48th match (N), Indian Premier League at Hyderabad (Deccan), May 8 2017",SRH,MI,138/7,140/3,Sunrisers won by 7 wickets (with 10 balls remaining)
+2017,1082639,Kings XI Punjab v Kolkata Knight Riders,"49th match (N), Indian Premier League at Mohali, May 9 2017",KXIP,KKR,167/6,153/6,Kings XI won by 14 runs
+2017,1082640,Gujarat Lions v Delhi Daredevils,"50th match (N), Indian Premier League at Kanpur, May 10 2017",GL,DC,195/5,197/8,Daredevils won by 2 wickets (with 2 balls remaining)
+2017,1082641,Mumbai Indians v Kings XI Punjab,"51st match (N), Indian Premier League at Mumbai, May 11 2017",MI,KXIP,230/3,223/6,Kings XI won by 7 runs
+2017,1082642,Delhi Daredevils v Rising Pune Supergiant,"52nd match (N), Indian Premier League at Delhi, May 12 2017",DC,RPS,168/8,161/7,Daredevils won by 7 runs
+2017,1082643,Gujarat Lions v Sunrisers Hyderabad,"53rd match (D/N), Indian Premier League at Kanpur, May 13 2017",GL,SRH,154,158/2,Sunrisers won by 8 wickets (with 11 balls remaining)
+2017,1082644,Kolkata Knight Riders v Mumbai Indians,"54th match (N), Indian Premier League at Kolkata, May 13 2017",KKR,MI,173/5,164/8,Mum Indians won by 9 runs
+2017,1082645,Rising Pune Supergiant v Kings XI Punjab,"55th match (D/N), Indian Premier League at Pune, May 14 2017",RPS,KXIP,73,78/1,Supergiant won by 9 wickets (with 48 balls remaining)
+2017,1082646,Delhi Daredevils v Royal Challengers Bangalore,"56th match (N), Indian Premier League at Delhi, May 14 2017",DC,RCB,161/6,151,RCB won by 10 runs
+2017,1082647,Mumbai Indians v Rising Pune Supergiant,"Qualifier 1 (N), Indian Premier League at Mumbai, May 16 2017",MI,RPS,162/4,142/9,Supergiant won by 20 runs
+2017,1082648,Sunrisers Hyderabad v Kolkata Knight Riders,"Eliminator (N), Indian Premier League at Bengaluru, May 17 2017",SRH,KKR,128/7,48/3,KKR won by 7 wickets (with 4 balls remaining) (D/L method)
+2017,1082649,Mumbai Indians v Kolkata Knight Riders,"Qualifier 2 (N), Indian Premier League at Bengaluru, May 19 2017",MI,KKR,107,111/4,Mum Indians won by 6 wickets (with 33 balls remaining)
+2017,1082650,Mumbai Indians v Rising Pune Supergiant,"Final (N), Indian Premier League at Hyderabad (Deccan), May 21 2017",MI,RPS,129/8,128/6,Mum Indians won by 1 run
+2016,980901,Mumbai Indians v Rising Pune Supergiants,"1st match (N), Indian Premier League at Mumbai, Apr 9 2016",MI,RPS,121/8,126/1,Supergiants won by 9 wickets (with 32 balls remaining)
+2016,980903,Kolkata Knight Riders v Delhi Daredevils,"2nd match (N), Indian Premier League at Kolkata, Apr 10 2016",KKR,DC,98,99/1,KKR won by 9 wickets (with 35 balls remaining)
+2016,980905,Kings XI Punjab v Gujarat Lions,"3rd match (N), Indian Premier League at Mohali, Apr 11 2016",KXIP,GL,161/6,162/5,Guj Lions won by 5 wickets (with 14 balls remaining)
+2016,980907,Royal Challengers Bangalore v Sunrisers Hyderabad,"4th match (N), Indian Premier League at Bengaluru, Apr 12 2016",RCB,SRH,227/4,182/6,RCB won by 45 runs
+2016,980909,Kolkata Knight Riders v Mumbai Indians,"5th match (N), Indian Premier League at Kolkata, Apr 13 2016",KKR,MI,187/5,188/4,Mum Indians won by 6 wickets (with 5 balls remaining)
+2016,980911,Gujarat Lions v Rising Pune Supergiants,"6th match (N), Indian Premier League at Rajkot, Apr 14 2016",GL,RPS,163/5,164/3,Guj Lions won by 7 wickets (with 12 balls remaining)
+2016,980913,Delhi Daredevils v Kings XI Punjab,"7th match (N), Indian Premier League at Delhi, Apr 15 2016",DC,KXIP,111/9,113/2,Daredevils won by 8 wickets (with 39 balls remaining)
+2016,980915,Sunrisers Hyderabad v Kolkata Knight Riders,"8th match (D/N), Indian Premier League at Hyderabad (Deccan), Apr 16 2016",SRH,KKR,142/7,146/2,KKR won by 8 wickets (with 10 balls remaining)
+2016,980917,Mumbai Indians v Gujarat Lions,"9th match (N), Indian Premier League at Mumbai, Apr 16 2016",MI,GL,143/8,147/7,Guj Lions won by 3 wickets (with 0 balls remaining)
+2016,980919,Kings XI Punjab v Rising Pune Supergiants,"10th match (D/N), Indian Premier League at Mohali, Apr 17 2016",KXIP,RPS,152/7,153/4,Kings XI won by 6 wickets (with 8 balls remaining)
+2016,980921,Royal Challengers Bangalore v Delhi Daredevils,"11th match (N), Indian Premier League at Bengaluru, Apr 17 2016",RCB,DC,191/5,192/3,Daredevils won by 7 wickets (with 5 balls remaining)
+2016,980923,Sunrisers Hyderabad v Mumbai Indians,"12th match (N), Indian Premier League at Hyderabad (Deccan), Apr 18 2016",SRH,MI,142/6,145/3,Sunrisers won by 7 wickets (with 15 balls remaining)
+2016,980925,Kings XI Punjab v Kolkata Knight Riders,"13th match (N), Indian Premier League at Mohali, Apr 19 2016",KXIP,KKR,138/8,141/4,KKR won by 6 wickets (with 17 balls remaining)
+2016,980927,Mumbai Indians v Royal Challengers Bangalore,"14th match (N), Indian Premier League at Mumbai, Apr 20 2016",MI,RCB,170/7,171/4,Mum Indians won by 6 wickets (with 12 balls remaining)
+2016,980929,Gujarat Lions v Sunrisers Hyderabad,"15th match (N), Indian Premier League at Rajkot, Apr 21 2016",GL,SRH,135/8,137/0,Sunrisers won by 10 wickets (with 31 balls remaining)
+2016,980931,Rising Pune Supergiants v Royal Challengers Bangalore,"16th match (N), Indian Premier League at Pune, Apr 22 2016",RPS,RCB,185/3,172/8,RCB won by 13 runs
+2016,980933,Delhi Daredevils v Mumbai Indians,"17th match (D/N), Indian Premier League at Delhi, Apr 23 2016",DC,MI,164/4,154/7,Daredevils won by 10 runs
+2016,980935,Sunrisers Hyderabad v Kings XI Punjab,"18th match (N), Indian Premier League at Hyderabad (Deccan), Apr 23 2016",SRH,KXIP,143/6,146/5,Sunrisers won by 5 wickets (with 13 balls remaining)
+2016,980937,Gujarat Lions v Royal Challengers Bangalore,"19th match (D/N), Indian Premier League at Rajkot, Apr 24 2016",GL,RCB,180/2,182/4,Guj Lions won by 6 wickets (with 3 balls remaining)
+2016,980939,Rising Pune Supergiants v Kolkata Knight Riders,"20th match (N), Indian Premier League at Pune, Apr 24 2016",RPS,KKR,160/5,162/8,KKR won by 2 wickets (with 3 balls remaining)
+2016,980941,Kings XI Punjab v Mumbai Indians,"21st match (N), Indian Premier League at Mohali, Apr 25 2016",KXIP,MI,189/6,164/7,Mum Indians won by 25 runs
+2016,980943,Sunrisers Hyderabad v Rising Pune Supergiants,"22nd match (N), Indian Premier League at Hyderabad (Deccan), Apr 26 2016",SRH,RPS,118/8,94/3,Supergiants won by 34 runs (D/L method)
+2016,980945,Delhi Daredevils v Gujarat Lions,"23rd match (N), Indian Premier League at Delhi, Apr 27 2016",DC,GL,172/6,171/5,Guj Lions won by 1 run
+2016,980947,Mumbai Indians v Kolkata Knight Riders,"24th match (N), Indian Premier League at Mumbai, Apr 28 2016",MI,KKR,174/5,178/4,Mum Indians won by 6 wickets (with 12 balls remaining)
+2016,980949,Rising Pune Supergiants v Gujarat Lions,"25th match (N), Indian Premier League at Pune, Apr 29 2016",RPS,GL,195/3,196/7,Guj Lions won by 3 wickets (with 0 balls remaining)
+2016,980951,Delhi Daredevils v Kolkata Knight Riders,"26th match (D/N), Indian Premier League at Delhi, Apr 30 2016",DC,KKR,186/8,159,Daredevils won by 27 runs
+2016,980953,Sunrisers Hyderabad v Royal Challengers Bangalore,"27th match (N), Indian Premier League at Hyderabad (Deccan), Apr 30 2016",SRH,RCB,194/5,179/6,Sunrisers won by 15 runs
+2016,980955,Gujarat Lions v Kings XI Punjab,"28th match (D/N), Indian Premier League at Rajkot, May 1 2016",GL,KXIP,154,131/9,Kings XI won by 23 runs
+2016,980957,Rising Pune Supergiants v Mumbai Indians,"29th match (N), Indian Premier League at Pune, May 1 2016",RPS,MI,159/5,161/2,Mum Indians won by 8 wickets (with 9 balls remaining)
+2016,980959,Royal Challengers Bangalore v Kolkata Knight Riders,"30th match (N), Indian Premier League at Bengaluru, May 2 2016",RCB,KKR,185/7,189/5,KKR won by 5 wickets (with 5 balls remaining)
+2016,980961,Gujarat Lions v Delhi Daredevils,"31st match (N), Indian Premier League at Rajkot, May 3 2016",GL,DC,149/7,150/2,Daredevils won by 8 wickets (with 16 balls remaining)
+2016,980963,Kolkata Knight Riders v Kings XI Punjab,"32nd match (N), Indian Premier League at Kolkata, May 4 2016",KKR,KXIP,164/3,157/9,KKR won by 7 runs
+2016,980965,Delhi Daredevils v Rising Pune Supergiants,"33rd match (N), Indian Premier League at Delhi, May 5 2016",DC,RPS,162/7,166/3,Supergiants won by 7 wickets (with 5 balls remaining)
+2016,980967,Sunrisers Hyderabad v Gujarat Lions,"34th match (N), Indian Premier League at Hyderabad (Deccan), May 6 2016",SRH,GL,126/6,129/5,Sunrisers won by 5 wickets (with 6 balls remaining)
+2016,980969,Royal Challengers Bangalore v Rising Pune Supergiants,"35th match (D/N), Indian Premier League at Bengaluru, May 7 2016",RCB,RPS,191/6,195/3,RCB won by 7 wickets (with 3 balls remaining)
+2016,980971,Kings XI Punjab v Delhi Daredevils,"36th match (N), Indian Premier League at Mohali, May 7 2016",KXIP,DC,181/5,172/5,Kings XI won by 9 runs
+2016,980973,Mumbai Indians v Sunrisers Hyderabad,"37th match (D/N), Indian Premier League at Visakhapatnam, May 8 2016",MI,SRH,177/3,92,Sunrisers won by 85 runs
+2016,980975,Kolkata Knight Riders v Gujarat Lions,"38th match (N), Indian Premier League at Kolkata, May 8 2016",KKR,GL,158/4,164/5,Guj Lions won by 5 wickets (with 12 balls remaining)
+2016,980977,Kings XI Punjab v Royal Challengers Bangalore,"39th match (N), Indian Premier League at Mohali, May 9 2016",KXIP,RCB,175/6,174/4,RCB won by 1 run
+2016,980979,Rising Pune Supergiants v Sunrisers Hyderabad,"40th match (N), Indian Premier League at Visakhapatnam, May 10 2016",RPS,SRH,137/8,133/8,Sunrisers won by 4 runs
+2016,980981,Royal Challengers Bangalore v Mumbai Indians,"41st match (N), Indian Premier League at Bengaluru, May 11 2016",RCB,MI,151/4,153/4,Mum Indians won by 6 wickets (with 8 balls remaining)
+2016,980983,Sunrisers Hyderabad v Delhi Daredevils,"42nd match (N), Indian Premier League at Hyderabad (Deccan), May 12 2016",SRH,DC,146/8,150/3,Daredevils won by 7 wickets (with 11 balls remaining)
+2016,980985,Mumbai Indians v Kings XI Punjab,"43rd match (N), Indian Premier League at Visakhapatnam, May 13 2016",MI,KXIP,124/9,127/3,Kings XI won by 7 wickets (with 18 balls remaining)
+2016,980987,Royal Challengers Bangalore v Gujarat Lions,"44th match (D/N), Indian Premier League at Bengaluru, May 14 2016",RCB,GL,248/3,104,RCB won by 144 runs
+2016,980989,Kolkata Knight Riders v Rising Pune Supergiants,"45th match (N), Indian Premier League at Kolkata, May 14 2016",KKR,RPS,103/6,66/2,KKR won by 8 wickets (with 24 balls remaining) (D/L method)
+2016,980991,Kings XI Punjab v Sunrisers Hyderabad,"46th match (D/N), Indian Premier League at Mohali, May 15 2016",KXIP,SRH,179/4,180/3,Sunrisers won by 7 wickets (with 2 balls remaining)
+2016,980993,Mumbai Indians v Delhi Daredevils,"47th match (N), Indian Premier League at Visakhapatnam, May 15 2016",MI,DC,206/4,126,Mum Indians won by 80 runs
+2016,980995,Kolkata Knight Riders v Royal Challengers Bangalore,"48th match (N), Indian Premier League at Kolkata, May 16 2016",KKR,RCB,183/5,186/1,RCB won by 9 wickets (with 8 balls remaining)
+2016,980997,Rising Pune Supergiants v Delhi Daredevils,"49th match (N), Indian Premier League at Visakhapatnam, May 17 2016",RPS,DC,121/6,76/1,Supergiants won by 19 runs (D/L method)
+2016,980999,Royal Challengers Bangalore v Kings XI Punjab,"50th match (N), Indian Premier League at Bengaluru, May 18 2016",RCB,KXIP,211/3,120/9,RCB won by 82 runs (D/L method)
+2016,981001,Gujarat Lions v Kolkata Knight Riders,"51st match (N), Indian Premier League at Kanpur, May 19 2016",GL,KKR,124/8,125/4,Guj Lions won by 6 wickets (with 39 balls remaining)
+2016,981003,Delhi Daredevils v Sunrisers Hyderabad,"52nd match (N), Indian Premier League at Raipur, May 20 2016",DC,SRH,158/7,161/4,Daredevils won by 6 wickets (with 0 balls remaining)
+2016,981005,Rising Pune Supergiants v Kings XI Punjab,"53rd match (D/N), Indian Premier League at Visakhapatnam, May 21 2016",RPS,KXIP,172/7,173/6,Supergiants won by 4 wickets (with 0 balls remaining)
+2016,981007,Gujarat Lions v Mumbai Indians,"54th match (N), Indian Premier League at Kanpur, May 21 2016",GL,MI,172/8,173/4,Guj Lions won by 6 wickets (with 13 balls remaining)
+2016,981009,Kolkata Knight Riders v Sunrisers Hyderabad,"55th match (D/N), Indian Premier League at Kolkata, May 22 2016",KKR,SRH,171/6,149/8,KKR won by 22 runs
+2016,981011,Delhi Daredevils v Royal Challengers Bangalore,"56th match (N), Indian Premier League at Raipur, May 22 2016",DC,RCB,138/8,139/4,RCB won by 6 wickets (with 11 balls remaining)
+2016,981013,Royal Challengers Bangalore v Gujarat Lions,"Qualifier 1 (N), Indian Premier League at Bengaluru, May 24 2016",RCB,GL,158,159/6,RCB won by 4 wickets
+2016,981015,Kolkata Knight Riders v Sunrisers Hyderabad,"Eliminator (N), Indian Premier League at Delhi, May 25 2016",KKR,SRH,162/8,140/8,Sunrisers won by 22 runs
+2016,981017,Gujarat Lions v Sunrisers Hyderabad,"Qualifier 2 (N), Indian Premier League at Delhi, May 27 2016",GL,SRH,162/7,163/6,Sunrisers won by 4 wickets (with 4 balls remaining)
+2016,981019,Royal Challengers Bangalore v Sunrisers Hyderabad,"Final (N), Indian Premier League at Bengaluru, May 29 2016",RCB,SRH,208/7,200/7,Sunrisers won by 8 runs
+2015,829705,Kolkata Knight Riders v Mumbai Indians,"1st match (N), Pepsi Indian Premier League at Kolkata, Apr 8 2015",KKR,MI,168/3,170/3,KKR won by 7 wickets (with 9 balls remaining)
+2015,829707,Chennai Super Kings v Delhi Daredevils,"2nd match (N), Pepsi Indian Premier League at Chennai, Apr 9 2015",CSK,DC,150/7,149/9,Super Kings won by 1 run
+2015,829709,Kings XI Punjab v Rajasthan Royals,"3rd match (N), Pepsi Indian Premier League at Pune, Apr 10 2015",KXIP,RR,162/7,136/8,Royals won by 26 runs
+2015,829711,Chennai Super Kings v Sunrisers Hyderabad,"4th match (D/N), Pepsi Indian Premier League at Chennai, Apr 11 2015",CSK,SRH,209/4,164/6,Super Kings won by 45 runs
+2015,829713,Kolkata Knight Riders v Royal Challengers Bangalore,"5th match (N), Pepsi Indian Premier League at Kolkata, Apr 11 2015",KKR,RCB,177/6,179/7,RCB won by 3 wickets (with 6 balls remaining)
+2015,829715,Delhi Daredevils v Rajasthan Royals,"6th match (D/N), Pepsi Indian Premier League at Delhi, Apr 12 2015",DC,RR,184/3,186/7,Royals won by 3 wickets (with 0 balls remaining)
+2015,829717,Mumbai Indians v Kings XI Punjab,"7th match (N), Pepsi Indian Premier League at Mumbai, Apr 12 2015",MI,KXIP,177/5,159/7,Kings XI won by 18 runs
+2015,829719,Royal Challengers Bangalore v Sunrisers Hyderabad,"8th match (N), Pepsi Indian Premier League at Bengaluru, Apr 13 2015",RCB,SRH,166,172/2,Sunrisers won by 8 wickets (with 16 balls remaining)
+2015,829721,Rajasthan Royals v Mumbai Indians,"9th match (N), Pepsi Indian Premier League at Ahmedabad, Apr 14 2015",RR,MI,164/5,165/3,Royals won by 7 wickets (with 5 balls remaining)
+2015,829725,Kings XI Punjab v Delhi Daredevils,"10th match (N), Pepsi Indian Premier League at Pune, Apr 15 2015",KXIP,DC,165/7,169/5,Daredevils won by 5 wickets (with 1 ball remaining)
+2015,829727,Sunrisers Hyderabad v Rajasthan Royals,"11th match (N), Pepsi Indian Premier League at Visakhapatnam, Apr 16 2015",SRH,RR,127/5,131/4,Royals won by 6 wickets (with 0 balls remaining)
+2015,829729,Mumbai Indians v Chennai Super Kings,"12th match (N), Pepsi Indian Premier League at Mumbai, Apr 17 2015",MI,CSK,183/7,189/4,Super Kings won by 6 wickets (with 20 balls remaining)
+2015,829731,Sunrisers Hyderabad v Delhi Daredevils,"13th match (D/N), Pepsi Indian Premier League at Visakhapatnam, Apr 18 2015",SRH,DC,167/4,163/8,Daredevils won by 4 runs
+2015,829733,Kings XI Punjab v Kolkata Knight Riders,"14th match (N), Pepsi Indian Premier League at Pune, Apr 18 2015",KXIP,KKR,155/9,159/6,KKR won by 4 wickets (with 13 balls remaining)
+2015,829735,Rajasthan Royals v Chennai Super Kings,"15th match (D/N), Pepsi Indian Premier League at Ahmedabad, Apr 19 2015",RR,CSK,156/4,157/2,Royals won by 8 wickets (with 10 balls remaining)
+2015,829737,Royal Challengers Bangalore v Mumbai Indians,"16th match (N), Pepsi Indian Premier League at Bengaluru, Apr 19 2015",RCB,MI,209/7,191/7,Mum Indians won by 18 runs
+2015,829739,Delhi Daredevils v Kolkata Knight Riders,"17th match (N), Pepsi Indian Premier League at Delhi, Apr 20 2015",DC,KKR,146/8,147/4,KKR won by 6 wickets (with 11 balls remaining)
+2015,829741,Rajasthan Royals v Kings XI Punjab,"18th match (N), Pepsi Indian Premier League at Ahmedabad, Apr 21 2015",RR,KXIP,191/6,191/6,Match tied (Kings XI Punjab won the one-over eliminator)
+2015,829743,Sunrisers Hyderabad v Kolkata Knight Riders,"19th match (D/N), Pepsi Indian Premier League at Visakhapatnam, Apr 22 2015",SRH,KKR,176/4,101/4,Sunrisers won by 16 runs (D/L method)
+2015,829745,Royal Challengers Bangalore v Chennai Super Kings,"20th match (N), Pepsi Indian Premier League at Bengaluru, Apr 22 2015",RCB,CSK,181/8,154/8,Super Kings won by 27 runs
+2015,829747,Delhi Daredevils v Mumbai Indians,"21st match (N), Pepsi Indian Premier League at Delhi, Apr 23 2015",DC,MI,190/4,153/9,Daredevils won by 37 runs
+2015,829749,Rajasthan Royals v Royal Challengers Bangalore,"22nd match (N), Pepsi Indian Premier League at Ahmedabad, Apr 24 2015",RR,RCB,130/9,134/1,RCB won by 9 wickets (with 23 balls remaining)
+2015,829751,Mumbai Indians v Sunrisers Hyderabad,"23rd match (D/N), Pepsi Indian Premier League at Mumbai, Apr 25 2015",MI,SRH,157/8,137/8,Mum Indians won by 20 runs
+2015,829753,Chennai Super Kings v Kings XI Punjab,"24th match (N), Pepsi Indian Premier League at Chennai, Apr 25 2015",CSK,KXIP,192/3,95/9,Super Kings won by 97 runs
+,,,,,,,,
+2015,829757,Delhi Daredevils v Royal Challengers Bangalore,"26th match (N), Pepsi Indian Premier League at Delhi, Apr 26 2015",DC,RCB,95,99/0,RCB won by 10 wickets (with 57 balls remaining)
+2015,829759,Kings XI Punjab v Sunrisers Hyderabad,"27th match (N), Pepsi Indian Premier League at Mohali, Apr 27 2015",KXIP,SRH,150/6,130/9,Sunrisers won by 20 runs
+2015,829765,Chennai Super Kings v Kolkata Knight Riders,"28th match (N), Pepsi Indian Premier League at Chennai, Apr 28 2015",CSK,KKR,134/6,132/9,Super Kings won by 2 runs
+,,,,,,,,
+2015,829723,Kolkata Knight Riders v Chennai Super Kings,"30th match (N), Pepsi Indian Premier League at Kolkata, Apr 30 2015",KKR,CSK,165/9,169/3,KKR won by 7 wickets (with 1 ball remaining)
+2015,829767,Delhi Daredevils v Kings XI Punjab,"31st match (D/N), Pepsi Indian Premier League at Delhi, May 1 2015",DC,KXIP,118/8,119/1,Daredevils won by 9 wickets (with 37 balls remaining)
+2015,829769,Mumbai Indians v Rajasthan Royals,"32nd match (N), Pepsi Indian Premier League at Mumbai, May 1 2015",MI,RR,187/5,179/7,Mum Indians won by 8 runs
+2015,829771,Royal Challengers Bangalore v Kolkata Knight Riders,"33rd match (D/N), Pepsi Indian Premier League at Bengaluru, May 2 2015",RCB,KKR,111/4,115/3,RCB won by 7 wickets (with 2 balls remaining)
+2015,829773,Sunrisers Hyderabad v Chennai Super Kings,"34th match (N), Pepsi Indian Premier League at Hyderabad (Deccan), May 2 2015",SRH,CSK,192/7,170/6,Sunrisers won by 22 runs
+2015,829775,Kings XI Punjab v Mumbai Indians,"35th match (D/N), Pepsi Indian Premier League at Mohali, May 3 2015",KXIP,MI,172/3,149/7,Mum Indians won by 23 runs
+2015,829777,Rajasthan Royals v Delhi Daredevils,"36th match (N), Pepsi Indian Premier League at Mumbai (BS), May 3 2015",RR,DC,189/2,175/7,Royals won by 14 runs
+2015,829779,Chennai Super Kings v Royal Challengers Bangalore,"37th match (D/N), Pepsi Indian Premier League at Chennai, May 4 2015",CSK,RCB,148/9,124,Super Kings won by 24 runs
+2015,829781,Kolkata Knight Riders v Sunrisers Hyderabad,"38th match (N), Pepsi Indian Premier League at Kolkata, May 4 2015",KKR,SRH,167/7,132/9,KKR won by 35 runs
+2015,829783,Mumbai Indians v Delhi Daredevils,"39th match (N), Pepsi Indian Premier League at Mumbai, May 5 2015",MI,DC,152/6,153/5,Mum Indians won by 5 wickets (with 3 balls remaining)
+2015,829785,Royal Challengers Bangalore v Kings XI Punjab,"40th match (N), Pepsi Indian Premier League at Bengaluru, May 6 2015",RCB,KXIP,226/3,88,RCB won by 138 runs
+2015,829787,Rajasthan Royals v Sunrisers Hyderabad,"41st match (D/N), Pepsi Indian Premier League at Mumbai (BS), May 7 2015",RR,SRH,201/4,194/7,Sunrisers won by 7 runs
+2015,829761,Kolkata Knight Riders v Delhi Daredevils,"42nd match (N), Pepsi Indian Premier League at Kolkata, May 7 2015",KKR,DC,171/7,158/6,KKR won by 13 runs
+2015,829789,Chennai Super Kings v Mumbai Indians,"43rd match (N), Pepsi Indian Premier League at Chennai, May 8 2015",CSK,MI,158/5,159/4,Mum Indians won by 6 wickets (with 4 balls remaining)
+2015,829791,Kolkata Knight Riders v Kings XI Punjab,"44th match (D/N), Pepsi Indian Premier League at Kolkata, May 9 2015",KKR,KXIP,183/5,184/9,KKR won by 1 wicket (with 1 ball remaining)
+2015,829793,Delhi Daredevils v Sunrisers Hyderabad,"45th match (N), Pepsi Indian Premier League at Raipur, May 9 2015",DC,SRH,163/4,157/4,Sunrisers won by 6 runs
+2015,829795,Mumbai Indians v Royal Challengers Bangalore,"46th match (D/N), Pepsi Indian Premier League at Mumbai, May 10 2015",MI,RCB,235/1,196/7,RCB won by 39 runs
+2015,829797,Chennai Super Kings v Rajasthan Royals,"47th match (N), Pepsi Indian Premier League at Chennai, May 10 2015",CSK,RR,157/5,145/9,Super Kings won by 12 runs
+2015,829799,Sunrisers Hyderabad v Kings XI Punjab,"48th match (N), Pepsi Indian Premier League at Hyderabad (Deccan), May 11 2015",SRH,KXIP,185/5,180/7,Sunrisers won by 5 runs
+2015,829801,Delhi Daredevils v Chennai Super Kings,"49th match (N), Pepsi Indian Premier League at Raipur, May 12 2015",DC,CSK,119/6,120/4,Daredevils won by 6 wickets (with 20 balls remaining)
+2015,829803,Kings XI Punjab v Royal Challengers Bangalore,"50th match (N), Pepsi Indian Premier League at Mohali, May 13 2015",KXIP,RCB,106/6,84/6,Kings XI won by 22 runs
+2015,829805,Mumbai Indians v Kolkata Knight Riders,"51st match (N), Pepsi Indian Premier League at Mumbai, May 14 2015",MI,KKR,171/4,166/7,Mum Indians won by 5 runs
+2015,829807,Sunrisers Hyderabad v Royal Challengers Bangalore,"52nd match (N), Pepsi Indian Premier League at Hyderabad (Deccan), May 15 2015",SRH,RCB,135/3,83/4,RCB won by 6 wickets (with 1 ball remaining) (D/L method)
+2015,829809,Kings XI Punjab v Chennai Super Kings,"53rd match (D/N), Pepsi Indian Premier League at Mohali, May 16 2015",KXIP,CSK,130/7,134/3,Super Kings won by 7 wickets (with 19 balls remaining)
+2015,829811,Rajasthan Royals v Kolkata Knight Riders,"54th match (N), Pepsi Indian Premier League at Mumbai (BS), May 16 2015",RR,KKR,199/6,190/9,Royals won by 9 runs
+,,,,,,,,
+2015,829815,Sunrisers Hyderabad v Mumbai Indians,"56th match (N), Pepsi Indian Premier League at Hyderabad (Deccan), May 17 2015",SRH,MI,113,114/1,Mum Indians won by 9 wickets (with 37 balls remaining)
+2015,829817,Chennai Super Kings v Mumbai Indians,"Qualifier 1 (N), Pepsi Indian Premier League at Mumbai, May 19 2015",CSK,MI,187/6,162,Mum Indians won by 25 runs
+2015,829819,Rajasthan Royals v Royal Challengers Bangalore,"Eliminator (N), Pepsi Indian Premier League at Pune, May 20 2015",RR,RCB,180/4,109,RCB won by 71 runs
+2015,829821,Chennai Super Kings v Royal Challengers Bangalore,"Qualifier 2 (N), Pepsi Indian Premier League at Ranchi, May 22 2015",CSK,RCB,139/8,140/7,Super Kings won by 3 wickets (with 1 ball remaining)
+2015,829823,Chennai Super Kings v Mumbai Indians,"Final (N), Pepsi Indian Premier League at Kolkata, May 24 2015",CSK,MI,202/5,161/8,Mum Indians won by 41 runs
+2014,729279,Mumbai Indians v Kolkata Knight Riders,"1st match (N), Pepsi Indian Premier League at Abu Dhabi, Apr 16 2014",MI,KKR,163/5,122/7,KKR won by 41 runs
+2014,729281,Delhi Daredevils v Royal Challengers Bangalore,"2nd match (N), Pepsi Indian Premier League at Sharjah, Apr 17 2014",DC,RCB,145/4,146/2,RCB won by 8 wickets (with 20 balls remaining)
+2014,729283,Chennai Super Kings v Kings XI Punjab,"3rd match, Pepsi Indian Premier League at Abu Dhabi, Apr 18 2014",CSK,KXIP,205/4,206/4,Kings XI won by 6 wickets (with 7 balls remaining)
+2014,729285,Sunrisers Hyderabad v Rajasthan Royals,"4th match (N), Pepsi Indian Premier League at Abu Dhabi, Apr 18 2014",SRH,RR,133/6,135/6,Royals won by 4 wickets (with 3 balls remaining)
+2014,729287,Royal Challengers Bangalore v Mumbai Indians,"5th match, Pepsi Indian Premier League at Dubai (DSC), Apr 19 2014",RCB,MI,115/9,116/3,RCB won by 7 wickets (with 15 balls remaining)
+2014,729289,Kolkata Knight Riders v Delhi Daredevils,"6th match (N), Pepsi Indian Premier League at Dubai (DSC), Apr 19 2014",KKR,DC,166/5,167/6,Daredevils won by 4 wickets (with 3 balls remaining)
+2014,729291,Rajasthan Royals v Kings XI Punjab,"7th match (N), Pepsi Indian Premier League at Sharjah, Apr 20 2014",RR,KXIP,191/5,193/3,Kings XI won by 7 wickets (with 8 balls remaining)
+2014,729293,Chennai Super Kings v Delhi Daredevils,"8th match (N), Pepsi Indian Premier League at Abu Dhabi, Apr 21 2014",CSK,DC,177/7,84,Super Kings won by 93 runs
+2014,729295,Kings XI Punjab v Sunrisers Hyderabad,"9th match (N), Pepsi Indian Premier League at Sharjah, Apr 22 2014",KXIP,SRH,193/6,121,Kings XI won by 72 runs
+2014,729297,Rajasthan Royals v Chennai Super Kings,"10th match (N), Pepsi Indian Premier League at Dubai (DSC), Apr 23 2014",RR,CSK,140/6,133,Super Kings won by 7 runs
+2014,729299,Royal Challengers Bangalore v Kolkata Knight Riders,"11th match (N), Pepsi Indian Premier League at Sharjah, Apr 24 2014",RCB,KKR,150/7,148/5,KKR won by 2 runs
+2014,729301,Sunrisers Hyderabad v Delhi Daredevils,"12th match, Pepsi Indian Premier League at Dubai (DSC), Apr 25 2014",SRH,DC,184/1,180/4,Sunrisers won by 4 runs
+2014,729303,Chennai Super Kings v Mumbai Indians,"13th match (N), Pepsi Indian Premier League at Dubai (DSC), Apr 25 2014",CSK,MI,141/7,142/3,Super Kings won by 7 wickets (with 6 balls remaining)
+2014,729305,Rajasthan Royals v Royal Challengers Bangalore,"14th match, Pepsi Indian Premier League at Abu Dhabi, Apr 26 2014",RR,RCB,70,71/4,Royals won by 6 wickets (with 42 balls remaining)
+2014,729307,Kolkata Knight Riders v Kings XI Punjab,"15th match (N), Pepsi Indian Premier League at Abu Dhabi, Apr 26 2014",KKR,KXIP,132/9,109,Kings XI won by 23 runs
+2014,729309,Delhi Daredevils v Mumbai Indians,"16th match, Pepsi Indian Premier League at Sharjah, Apr 27 2014",DC,MI,125/6,126/4,Daredevils won by 6 wickets (with 7 balls remaining)
+2014,729311,Sunrisers Hyderabad v Chennai Super Kings,"17th match (N), Pepsi Indian Premier League at Sharjah, Apr 27 2014",SRH,CSK,145/5,146/5,Super Kings won by 5 wickets (with 3 balls remaining)
+2014,729313,Kings XI Punjab v Royal Challengers Bangalore,"18th match (N), Pepsi Indian Premier League at Dubai (DSC), Apr 28 2014",KXIP,RCB,124/8,127/5,Kings XI won by 5 wickets (with 7 balls remaining)
+2014,729315,Kolkata Knight Riders v Rajasthan Royals,"19th match (N), Pepsi Indian Premier League at Abu Dhabi, Apr 29 2014",KKR,RR,152/5,152/8,Match tied (Rajasthan Royals won the one-over eliminator)
+2014,729317,Mumbai Indians v Sunrisers Hyderabad,"20th match (N), Pepsi Indian Premier League at Dubai (DSC), Apr 30 2014",MI,SRH,172/5,157/7,Sunrisers won by 15 runs
+2014,733971,Chennai Super Kings v Kolkata Knight Riders,"21st match (N), Pepsi Indian Premier League at Ranchi, May 2 2014",CSK,KKR,148/3,114/9,Super Kings won by 34 runs
+2014,733973,Mumbai Indians v Kings XI Punjab,"22nd match (D/N), Pepsi Indian Premier League at Mumbai, May 3 2014",MI,KXIP,168/5,170/5,Mum Indians won by 5 wickets (with 5 balls remaining)
+2014,733975,Delhi Daredevils v Rajasthan Royals,"23rd match (N), Pepsi Indian Premier League at Delhi, May 3 2014",DC,RR,152/5,156/3,Royals won by 7 wickets (with 9 balls remaining)
+2014,733977,Royal Challengers Bangalore v Sunrisers Hyderabad,"24th match (N), Pepsi Indian Premier League at Bengaluru, May 4 2014",RCB,SRH,155/6,158/6,RCB won by 4 wickets (with 1 ball remaining)
+2014,733979,Rajasthan Royals v Kolkata Knight Riders,"25th match (D/N), Pepsi Indian Premier League at Ahmedabad, May 5 2014",RR,KKR,170/6,160/6,Royals won by 10 runs
+2014,733981,Delhi Daredevils v Chennai Super Kings,"26th match (N), Pepsi Indian Premier League at Delhi, May 5 2014",DC,CSK,178/5,181/2,Super Kings won by 8 wickets (with 2 balls remaining)
+2014,733983,Mumbai Indians v Royal Challengers Bangalore,"27th match (N), Pepsi Indian Premier League at Mumbai, May 6 2014",MI,RCB,187/5,168/8,Mum Indians won by 19 runs
+2014,733985,Delhi Daredevils v Kolkata Knight Riders,"28th match (D/N), Pepsi Indian Premier League at Delhi, May 7 2014",DC,KKR,160/5,161/2,KKR won by 8 wickets (with 10 balls remaining)
+2014,733987,Kings XI Punjab v Chennai Super Kings,"29th match (N), Pepsi Indian Premier League at Cuttack, May 7 2014",KXIP,CSK,231/4,187/6,Kings XI won by 44 runs
+2014,733989,Rajasthan Royals v Sunrisers Hyderabad,"30th match (N), Pepsi Indian Premier League at Ahmedabad, May 8 2014",RR,SRH,134/9,102,Sunrisers won by 32 runs
+2014,733991,Royal Challengers Bangalore v Kings XI Punjab,"31st match (N), Pepsi Indian Premier League at Bengaluru, May 9 2014",RCB,KXIP,198/8,166/9,Kings XI won by 32 runs
+2014,733993,Delhi Daredevils v Sunrisers Hyderabad,"32nd match (D/N), Pepsi Indian Premier League at Delhi, May 10 2014",DC,SRH,143/7,44/2,Sunrisers won by 8 wickets (with 4 balls remaining) (D/L method)
+2014,733995,Mumbai Indians v Chennai Super Kings,"33rd match (N), Pepsi Indian Premier League at Mumbai, May 10 2014",MI,CSK,157/6,160/6,Super Kings won by 4 wickets (with 3 balls remaining)
+2014,733997,Kings XI Punjab v Kolkata Knight Riders,"34th match (D/N), Pepsi Indian Premier League at Cuttack, May 11 2014",KXIP,KKR,149/8,150/1,KKR won by 9 wickets (with 12 balls remaining)
+2014,733999,Royal Challengers Bangalore v Rajasthan Royals,"35th match (N), Pepsi Indian Premier League at Bengaluru, May 11 2014",RCB,RR,190/5,191/5,Royals won by 5 wickets (with 7 balls remaining)
+2014,734001,Sunrisers Hyderabad v Mumbai Indians,"36th match (N), Pepsi Indian Premier League at Hyderabad (Deccan), May 12 2014",SRH,MI,157/3,160/3,Mum Indians won by 7 wickets (with 8 balls remaining)
+2014,734003,Chennai Super Kings v Rajasthan Royals,"37th match (D/N), Pepsi Indian Premier League at Ranchi, May 13 2014",CSK,RR,148/8,149/5,Super Kings won by 5 wickets (with 2 balls remaining)
+2014,734005,Royal Challengers Bangalore v Delhi Daredevils,"38th match (N), Pepsi Indian Premier League at Bengaluru, May 13 2014",RCB,DC,186/4,170/7,RCB won by 16 runs
+2014,734007,Sunrisers Hyderabad v Kings XI Punjab,"39th match (D/N), Pepsi Indian Premier League at Hyderabad (Deccan), May 14 2014",SRH,KXIP,205/5,211/4,Kings XI won by 6 wickets (with 8 balls remaining)
+2014,734009,Kolkata Knight Riders v Mumbai Indians,"40th match (N), Pepsi Indian Premier League at Cuttack, May 14 2014",KKR,MI,141/5,142/4,KKR won by 6 wickets (with 8 balls remaining)
+2014,734011,Rajasthan Royals v Delhi Daredevils,"41st match (N), Pepsi Indian Premier League at Ahmedabad, May 15 2014",RR,DC,201/6,139/9,Royals won by 62 runs
+2014,734013,Chennai Super Kings v Royal Challengers Bangalore,"42nd match (D/N), Pepsi Indian Premier League at Ranchi, May 18 2014",CSK,RCB,138/4,142/5,RCB won by 5 wickets (with 1 ball remaining)
+2014,734015,Sunrisers Hyderabad v Kolkata Knight Riders,"43rd match (N), Pepsi Indian Premier League at Hyderabad (Deccan), May 18 2014",SRH,KKR,142/8,146/3,KKR won by 7 wickets (with 2 balls remaining)
+2014,734017,Rajasthan Royals v Mumbai Indians,"44th match (D/N), Pepsi Indian Premier League at Ahmedabad, May 19 2014",RR,MI,178/3,153/8,Mum Indians won by 25 runs
+2014,734019,Delhi Daredevils v Kings XI Punjab,"45th match (N), Pepsi Indian Premier League at Delhi, May 19 2014",DC,KXIP,164/7,165/6,Kings XI won by 4 wickets (with 2 balls remaining)
+2014,734021,Sunrisers Hyderabad v Royal Challengers Bangalore,"46th match (D/N), Pepsi Indian Premier League at Hyderabad (Deccan), May 20 2014",SRH,RCB,160/6,161/3,Sunrisers won by 7 wickets (with 2 balls remaining)
+2014,734023,Kolkata Knight Riders v Chennai Super Kings,"47th match (N), Pepsi Indian Premier League at Kolkata, May 20 2014",KKR,CSK,154/4,156/2,KKR won by 8 wickets (with 12 balls remaining)
+2014,734025,Kings XI Punjab v Mumbai Indians,"48th match (N), Pepsi Indian Premier League at Mohali, May 21 2014",KXIP,MI,156/8,159/3,Mum Indians won by 7 wickets (with 6 balls remaining)
+2014,734027,Kolkata Knight Riders v Royal Challengers Bangalore,"49th match (D/N), Pepsi Indian Premier League at Kolkata, May 22 2014",KKR,RCB,195/4,165/5,KKR won by 30 runs
+2014,734029,Chennai Super Kings v Sunrisers Hyderabad,"50th match (N), Pepsi Indian Premier League at Ranchi, May 22 2014",CSK,SRH,185/3,189/4,Sunrisers won by 6 wickets (with 2 balls remaining)
+2014,734031,Mumbai Indians v Delhi Daredevils,"51st match (D/N), Pepsi Indian Premier League at Mumbai, May 23 2014",MI,DC,173,158/4,Mum Indians won by 15 runs
+2014,734033,Kings XI Punjab v Rajasthan Royals,"52nd match (N), Pepsi Indian Premier League at Mohali, May 23 2014",KXIP,RR,179/4,163/8,Kings XI won by 16 runs
+2014,734035,Royal Challengers Bangalore v Chennai Super Kings,"53rd match (D/N), Pepsi Indian Premier League at Bengaluru, May 24 2014",RCB,CSK,154/6,160/2,Super Kings won by 8 wickets (with 14 balls remaining)
+2014,734037,Kolkata Knight Riders v Sunrisers Hyderabad,"54th match (N), Pepsi Indian Premier League at Kolkata, May 24 2014",KKR,SRH,160/7,161/6,KKR won by 4 wickets (with 34 balls remaining)
+2014,734039,Kings XI Punjab v Delhi Daredevils,"55th match (D/N), Pepsi Indian Premier League at Mohali, May 25 2014",KXIP,DC,115,119/3,Kings XI won by 7 wickets (with 37 balls remaining)
+2014,734041,Mumbai Indians v Rajasthan Royals,"56th match (N), Pepsi Indian Premier League at Mumbai, May 25 2014",MI,RR,189/4,195/5,Mum Indians won by 5 wickets (with 32 balls remaining)
+2014,734043,Kolkata Knight Riders v Kings XI Punjab,"Qualifier 1 (D/N), Pepsi Indian Premier League at Kolkata, May 27-28 2014",KKR,KXIP,163/8,135/8,KKR won by 28 runs
+2014,734045,Mumbai Indians v Chennai Super Kings,"Eliminator (N), Pepsi Indian Premier League at Mumbai (BS), May 28 2014",MI,CSK,173/8,176/3,Super Kings won by 7 wickets
+2014,734047,Chennai Super Kings v Kings XI Punjab,"Qualifier 2 (N), Pepsi Indian Premier League at Mumbai, May 30 2014",CSK,KXIP,226/6,202/7,Kings XI won by 24 runs
+2014,734049,Kings XI Punjab v Kolkata Knight Riders,"Final (N), Pepsi Indian Premier League at Bengaluru, Jun 1 2014",KXIP,KKR,199/4,200/7,KKR won by 3 wickets
+2013,597998,Kolkata Knight Riders v Delhi Daredevils,"1st match (N), Indian Premier League at Kolkata, Apr 3 2013",KKR,DC,128,129/4,KKR won by 6 wickets (with 8 balls remaining)
+2013,597999,Royal Challengers Bangalore v Mumbai Indians,"2nd match (N), Indian Premier League at Bengaluru, Apr 4 2013",RCB,MI,156/5,154/5,RCB won by 2 runs
+2013,598000,Sunrisers Hyderabad v Pune Warriors,"3rd match (N), Indian Premier League at Hyderabad (Deccan), Apr 5 2013",SRH,PWI,126/6,104,Sunrisers won by 22 runs
+2013,598001,Delhi Daredevils v Rajasthan Royals,"4th match (D/N), Indian Premier League at Delhi, Apr 6 2013",DC,RR,165/7,160/6,Royals won by 5 runs
+2013,598002,Chennai Super Kings v Mumbai Indians,"5th match (N), Indian Premier League at Chennai, Apr 6 2013",CSK,MI,148/6,139/9,Mum Indians won by 9 runs
+2013,598003,Pune Warriors v Kings XI Punjab,"6th match (D/N), Indian Premier League at Pune, Apr 7 2013",PWI,KXIP,99/9,100/2,Kings XI won by 8 wickets (with 46 balls remaining)
+2013,598004,Sunrisers Hyderabad v Royal Challengers Bangalore,"7th match (N), Indian Premier League at Hyderabad (Deccan), Apr 7 2013",SRH,RCB,130/8,130/7,Match tied (Sunrisers Hyderabad won the one-over eliminator)
+2013,598005,Rajasthan Royals v Kolkata Knight Riders,"8th match (N), Indian Premier League at Jaipur, Apr 8 2013",RR,KKR,144/6,125,Royals won by 19 runs
+2013,598048,Royal Challengers Bangalore v Sunrisers Hyderabad,"9th match (D/N), Indian Premier League at Bengaluru, Apr 9 2013",RCB,SRH,161/6,162/3,RCB won by 7 wickets (with 14 balls remaining)
+2013,598006,Mumbai Indians v Delhi Daredevils,"10th match (N), Indian Premier League at Mumbai, Apr 9 2013",MI,DC,209/5,165/9,Mum Indians won by 44 runs
+2013,598007,Kings XI Punjab v Chennai Super Kings,"11th match (N), Indian Premier League at Mohali, Apr 10 2013",KXIP,CSK,138,139/0,Super Kings won by 10 wickets (with 16 balls remaining)
+2013,598008,Royal Challengers Bangalore v Kolkata Knight Riders,"12th match (D/N), Indian Premier League at Bengaluru, Apr 11 2013",RCB,KKR,154/8,158/2,RCB won by 8 wickets (with 15 balls remaining)
+2013,598009,Pune Warriors v Rajasthan Royals,"13th match (N), Indian Premier League at Pune, Apr 11 2013",PWI,RR,145/5,148/3,Warriors won by 7 wickets (with 8 balls remaining)
+2013,598010,Delhi Daredevils v Sunrisers Hyderabad,"14th match (N), Indian Premier League at Delhi, Apr 12 2013",DC,SRH,114/8,115/7,Sunrisers won by 3 wickets (with 4 balls remaining)
+2013,598011,Mumbai Indians v Pune Warriors,"15th match (D/N), Indian Premier League at Mumbai, Apr 13 2013",MI,PWI,183/3,142/8,Mum Indians won by 41 runs
+2013,598012,Chennai Super Kings v Royal Challengers Bangalore,"16th match (N), Indian Premier League at Chennai, Apr 13 2013",CSK,RCB,165/6,166/6,Super Kings won by 4 wickets (with 1 ball remaining)
+2013,598013,Kolkata Knight Riders v Sunrisers Hyderabad,"17th match (D/N), Indian Premier League at Kolkata, Apr 14 2013",KKR,SRH,180/4,132/7,KKR won by 48 runs
+2013,598014,Rajasthan Royals v Kings XI Punjab,"18th match (N), Indian Premier League at Jaipur, Apr 14 2013",RR,KXIP,124,126/4,Royals won by 6 wickets (with 4 balls remaining)
+2013,598015,Chennai Super Kings v Pune Warriors,"19th match (N), Indian Premier League at Chennai, Apr 15 2013",CSK,PWI,159/5,135/8,Warriors won by 24 runs
+2013,598016,Kings XI Punjab v Kolkata Knight Riders,"20th match (D/N), Indian Premier League at Mohali, Apr 16 2013",KXIP,KKR,157/9,153/9,Kings XI won by 4 runs
+2013,598017,Royal Challengers Bangalore v Delhi Daredevils,"21st match (N), Indian Premier League at Bengaluru, Apr 16 2013",RCB,DC,152/5,152/7,Match tied (Royal Challengers Bangalore won the one-over eliminator)
+2013,598018,Pune Warriors v Sunrisers Hyderabad,"22nd match (D/N), Indian Premier League at Pune, Apr 17 2013",PWI,SRH,119/8,108,Sunrisers won by 11 runs
+2013,598019,Rajasthan Royals v Mumbai Indians,"23rd match (N), Indian Premier League at Jaipur, Apr 17 2013",RR,MI,179/3,92,Royals won by 87 runs
+2013,598020,Delhi Daredevils v Chennai Super Kings,"24th match (N), Indian Premier League at Delhi, Apr 18 2013",DC,CSK,169/4,83,Super Kings won by 86 runs
+2013,598021,Sunrisers Hyderabad v Kings XI Punjab,"25th match (N), Indian Premier League at Hyderabad (Deccan), Apr 19 2013",SRH,KXIP,123/9,127/5,Sunrisers won by 5 wickets (with 7 balls remaining)
+2013,598022,Kolkata Knight Riders v Chennai Super Kings,"26th match (D/N), Indian Premier League at Kolkata, Apr 20 2013",KKR,CSK,119/9,124/6,Super Kings won by 4 wickets (with 5 balls remaining)
+2013,598023,Royal Challengers Bangalore v Rajasthan Royals,"27th match (N), Indian Premier League at Bengaluru, Apr 20 2013",RCB,RR,117,123/3,RCB won by 7 wickets (with 13 balls remaining)
+2013,598024,Delhi Daredevils v Mumbai Indians,"28th match (D/N), Indian Premier League at Delhi, Apr 21 2013",DC,MI,161/4,165/1,Daredevils won by 9 wickets (with 18 balls remaining)
+2013,598025,Kings XI Punjab v Pune Warriors,"29th match (N), Indian Premier League at Mohali, Apr 21 2013",KXIP,PWI,185/4,186/3,Kings XI won by 7 wickets (with 1 ball remaining)
+2013,598026,Chennai Super Kings v Rajasthan Royals,"30th match (N), Indian Premier League at Chennai, Apr 22 2013",CSK,RR,185/4,186/5,Super Kings won by 5 wickets (with 1 ball remaining)
+2013,598027,Royal Challengers Bangalore v Pune Warriors,"31st match (D/N), Indian Premier League at Bengaluru, Apr 23 2013",RCB,PWI,263/5,133/9,RCB won by 130 runs
+2013,598059,Delhi Daredevils v Kings XI Punjab,"32nd match (N), Indian Premier League at Delhi, Apr 23 2013",DC,KXIP,120/7,121/5,Kings XI won by 5 wickets (with 18 balls remaining)
+2013,598029,Kolkata Knight Riders v Mumbai Indians,"33rd match (N), Indian Premier League at Kolkata, Apr 24 2013",KKR,MI,159/6,162/5,Mum Indians won by 5 wickets (with 1 ball remaining)
+2013,598030,Chennai Super Kings v Sunrisers Hyderabad,"34th match (N), Indian Premier League at Chennai, Apr 25 2013",CSK,SRH,159/6,160/5,Super Kings won by 5 wickets (with 2 balls remaining)
+2013,598031,Kolkata Knight Riders v Kings XI Punjab,"35th match (N), Indian Premier League at Kolkata, Apr 26 2013",KKR,KXIP,149/6,150/4,KKR won by 6 wickets (with 10 balls remaining)
+2013,598032,Rajasthan Royals v Sunrisers Hyderabad,"36th match (D/N), Indian Premier League at Jaipur, Apr 27 2013",RR,SRH,144/9,146/2,Royals won by 8 wickets (with 13 balls remaining)
+2013,598033,Mumbai Indians v Royal Challengers Bangalore,"37th match (N), Indian Premier League at Mumbai, Apr 27 2013",MI,RCB,194/7,136/7,Mum Indians won by 58 runs
+2013,598034,Chennai Super Kings v Kolkata Knight Riders,"38th match (D/N), Indian Premier League at Chennai, Apr 28 2013",CSK,KKR,200/3,186/4,Super Kings won by 14 runs
+2013,598035,Delhi Daredevils v Pune Warriors,"39th match (N), Indian Premier League at Raipur, Apr 28 2013",DC,PWI,164/5,149/4,Daredevils won by 15 runs
+2013,598036,Rajasthan Royals v Royal Challengers Bangalore,"40th match (D/N), Indian Premier League at Jaipur, Apr 29 2013",RR,RCB,171/6,173/6,Royals won by 4 wickets (with 1 ball remaining)
+2013,598037,Mumbai Indians v Kings XI Punjab,"41st match (N), Indian Premier League at Mumbai, Apr 29 2013",MI,KXIP,174/3,170,Mum Indians won by 4 runs
+2013,598038,Pune Warriors v Chennai Super Kings,"42nd match (N), Indian Premier League at Pune, Apr 30 2013",PWI,CSK,164/3,127/9,Super Kings won by 37 runs
+2013,598039,Sunrisers Hyderabad v Mumbai Indians,"43rd match (D/N), Indian Premier League at Hyderabad (Deccan), May 1 2013",SRH,MI,129/4,130/3,Sunrisers won by 7 wickets (with 12 balls remaining)
+2013,598040,Delhi Daredevils v Kolkata Knight Riders,"44th match (N), Indian Premier League at Raipur, May 1 2013",DC,KKR,136/7,137/3,Daredevils won by 7 wickets (with 13 balls remaining)
+2013,598041,Chennai Super Kings v Kings XI Punjab,"45th match (D/N), Indian Premier League at Chennai, May 2 2013",CSK,KXIP,186/4,171/6,Super Kings won by 15 runs
+2013,598042,Pune Warriors v Royal Challengers Bangalore,"46th match (N), Indian Premier League at Pune, May 2 2013",PWI,RCB,187/3,170/9,RCB won by 17 runs
+2013,598043,Kolkata Knight Riders v Rajasthan Royals,"47th match (N), Indian Premier League at Kolkata, May 3 2013",KKR,RR,132/6,133/2,KKR won by 8 wickets (with 16 balls remaining)
+2013,598044,Sunrisers Hyderabad v Delhi Daredevils,"48th match (N), Indian Premier League at Hyderabad (Deccan), May 4 2013",SRH,DC,80,81/4,Sunrisers won by 6 wickets (with 37 balls remaining)
+2013,598046,Mumbai Indians v Chennai Super Kings,"49th match (D/N), Indian Premier League at Mumbai, May 5 2013",MI,CSK,139/5,79,Mum Indians won by 60 runs
+2013,598047,Rajasthan Royals v Pune Warriors,"50th match (N), Indian Premier League at Jaipur, May 5 2013",RR,PWI,178/4,182/5,Royals won by 5 wickets (with 1 ball remaining)
+2013,598064,Kings XI Punjab v Royal Challengers Bangalore,"51st match (N), Indian Premier League at Mohali, May 6 2013",KXIP,RCB,190/3,194/4,Kings XI won by 6 wickets (with 12 balls remaining)
+2013,598049,Rajasthan Royals v Delhi Daredevils,"52nd match (D/N), Indian Premier League at Jaipur, May 7 2013",RR,DC,154/4,155/1,Royals won by 9 wickets (with 13 balls remaining)
+2013,598050,Mumbai Indians v Kolkata Knight Riders,"53rd match (N), Indian Premier League at Mumbai, May 7 2013",MI,KKR,170/6,105,Mum Indians won by 65 runs
+2013,598051,Sunrisers Hyderabad v Chennai Super Kings,"54th match (N), Indian Premier League at Hyderabad (Deccan), May 8 2013",SRH,CSK,223/3,146/8,Super Kings won by 77 runs
+2013,598052,Kings XI Punjab v Rajasthan Royals,"55th match (D/N), Indian Premier League at Mohali, May 9 2013",KXIP,RR,145/6,147/2,Royals won by 8 wickets (with 6 balls remaining)
+2013,598053,Pune Warriors v Kolkata Knight Riders,"56th match (N), Indian Premier League at Pune, May 9 2013",PWI,KKR,152/6,106,KKR won by 46 runs
+2013,598054,Delhi Daredevils v Royal Challengers Bangalore,"57th match (N), Indian Premier League at Delhi, May 10 2013",DC,RCB,183/4,179/7,RCB won by 4 runs
+2013,598055,Pune Warriors v Mumbai Indians,"58th match (D/N), Indian Premier League at Pune, May 11 2013",PWI,MI,112/8,116/5,Mum Indians won by 5 wickets (with 7 balls remaining)
+2013,598056,Kings XI Punjab v Sunrisers Hyderabad,"59th match (N), Indian Premier League at Mohali, May 11 2013",KXIP,SRH,150/7,120/9,Sunrisers won by 30 runs
+2013,598057,Kolkata Knight Riders v Royal Challengers Bangalore,"60th match (D/N), Indian Premier League at Ranchi, May 12 2013",KKR,RCB,115/9,116/5,KKR won by 5 wickets (with 4 balls remaining)
+2013,598058,Rajasthan Royals v Chennai Super Kings,"61st match (N), Indian Premier League at Jaipur, May 12 2013",RR,CSK,141/4,144/5,Royals won by 5 wickets (with 17 balls remaining)
+2013,598060,Mumbai Indians v Sunrisers Hyderabad,"62nd match (N), Indian Premier League at Mumbai, May 13 2013",MI,SRH,178/3,184/3,Mum Indians won by 7 wickets (with 3 balls remaining)
+2013,598045,Royal Challengers Bangalore v Kings XI Punjab,"63rd match (D/N), Indian Premier League at Bengaluru, May 14 2013",RCB,KXIP,174/5,176/3,Kings XI won by 7 wickets (with 11 balls remaining)
+2013,598062,Chennai Super Kings v Delhi Daredevils,"64th match (N), Indian Premier League at Chennai, May 14 2013",CSK,DC,168/4,135/9,Super Kings won by 33 runs
+2013,598061,Kolkata Knight Riders v Pune Warriors,"65th match (D/N), Indian Premier League at Ranchi, May 15 2013",KKR,PWI,170/4,163/7,Warriors won by 7 runs
+2013,598063,Mumbai Indians v Rajasthan Royals,"66th match (N), Indian Premier League at Mumbai, May 15 2013",MI,RR,166/8,152/7,Mum Indians won by 14 runs
+2013,598028,Kings XI Punjab v Delhi Daredevils,"67th match (N), Indian Premier League at Dharamsala, May 16 2013",KXIP,DC,171/4,164/7,Kings XI won by 7 runs
+2013,598065,Sunrisers Hyderabad v Rajasthan Royals,"68th match (N), Indian Premier League at Hyderabad (Deccan), May 17 2013",SRH,RR,136/9,113/9,Sunrisers won by 23 runs
+2013,598066,Kings XI Punjab v Mumbai Indians,"69th match (D/N), Indian Premier League at Dharamsala, May 18 2013",KXIP,MI,183/8,133,Kings XI won by 50 runs
+2013,598068,Royal Challengers Bangalore v Chennai Super Kings,"70th match (N), Indian Premier League at Bengaluru, May 18 2013",RCB,CSK,106/2,82/6,RCB won by 24 runs
+2013,598067,Pune Warriors v Delhi Daredevils,"71st match (D/N), Indian Premier League at Pune, May 19 2013",PWI,DC,172/5,134/9,Warriors won by 38 runs
+2013,598069,Sunrisers Hyderabad v Kolkata Knight Riders,"72nd match (N), Indian Premier League at Hyderabad (Deccan), May 19 2013",SRH,KKR,130/7,132/5,Sunrisers won by 5 wickets (with 7 balls remaining)
+2013,598070,Chennai Super Kings v Mumbai Indians,"Qualifier 1 (N), Indian Premier League at Delhi, May 21 2013",CSK,MI,192/1,144,Super Kings won by 48 runs
+2013,598071,Rajasthan Royals v Sunrisers Hyderabad,"Eliminator (N), Indian Premier League at Delhi, May 22 2013",RR,SRH,132/7,135/6,Royals won by 4 wickets (with 4 balls remaining)
+2013,598072,Mumbai Indians v Rajasthan Royals,"Qualifier 2 (N), Indian Premier League at Kolkata, May 24 2013",MI,RR,165/6,169/6,Mum Indians won by 4 wickets (with 1 ball remaining)
+2013,598073,Chennai Super Kings v Mumbai Indians,"Final (N), Indian Premier League at Kolkata, May 26 2013",CSK,MI,148/9,125/9,Mum Indians won by 23 runs
+2012,548306,Chennai Super Kings v Mumbai Indians,"1st match (N), Indian Premier League at Chennai, Apr 4 2012",CSK,MI,112,115/2,Mum Indians won by 8 wickets (with 19 balls remaining)
+2012,548307,Kolkata Knight Riders v Delhi Daredevils,"2nd match (N), Indian Premier League at Kolkata, Apr 5 2012",KKR,DC,97/9,100/2,Daredevils won by 8 wickets (with 5 balls remaining)
+2012,548308,Mumbai Indians v Pune Warriors,"3rd match (D/N), Indian Premier League at Mumbai, Apr 6 2012",MI,PWI,129/9,101/9,Warriors won by 28 runs
+2012,548309,Rajasthan Royals v Kings XI Punjab,"4th match (N), Indian Premier League at Jaipur, Apr 6 2012",RR,KXIP,191/4,160/9,Royals won by 31 runs
+2012,548310,Royal Challengers Bangalore v Delhi Daredevils,"5th match (D/N), Indian Premier League at Bengaluru, Apr 7 2012",RCB,DC,157/8,137/7,RCB won by 20 runs
+2012,548311,Deccan Chargers v Chennai Super Kings,"6th match (N), Indian Premier League at Visakhapatnam, Apr 7 2012",SRH,CSK,193/6,119,Super Kings won by 74 runs
+2012,548312,Rajasthan Royals v Kolkata Knight Riders,"7th match (D/N), Indian Premier League at Jaipur, Apr 8 2012",RR,KKR,164/5,142,Royals won by 22 runs
+2012,548313,Pune Warriors v Kings XI Punjab,"8th match (N), Indian Premier League at Pune, Apr 8 2012",PWI,KXIP,166/6,144/8,Warriors won by 22 runs
+2012,548314,Deccan Chargers v Mumbai Indians,"9th match (N), Indian Premier League at Visakhapatnam, Apr 9 2012",SRH,MI,138/9,142/5,Mum Indians won by 5 wickets (with 0 balls remaining)
+2012,548315,Royal Challengers Bangalore v Kolkata Knight Riders,"10th match (D/N), Indian Premier League at Bengaluru, Apr 10 2012",RCB,KKR,165/8,123/9,KKR won by 42 runs
+2012,548316,Delhi Daredevils v Chennai Super Kings,"11th match (N), Indian Premier League at Delhi, Apr 10 2012",DC,CSK,110/8,111/2,Daredevils won by 8 wickets (with 40 balls remaining)
+2012,548317,Mumbai Indians v Rajasthan Royals,"12th match (N), Indian Premier League at Mumbai, Apr 11 2012",MI,RR,197/6,170,Mum Indians won by 27 runs
+2012,548318,Chennai Super Kings v Royal Challengers Bangalore,"13th match (D/N), Indian Premier League at Chennai, Apr 12 2012",CSK,RCB,205/8,208/5,Super Kings won by 5 wickets (with 0 balls remaining)
+2012,548319,Kings XI Punjab v Pune Warriors,"14th match (N), Indian Premier League at Mohali, Apr 12 2012",KXIP,PWI,115,116/3,Kings XI won by 7 wickets (with 14 balls remaining)
+2012,548320,Kolkata Knight Riders v Rajasthan Royals,"15th match (N), Indian Premier League at Kolkata, Apr 13 2012",KKR,RR,131/5,137/5,KKR won by 5 wickets (with 4 balls remaining)
+2012,548322,Pune Warriors v Chennai Super Kings,"16th match (N), Indian Premier League at Pune, Apr 14 2012",PWI,CSK,155/5,156/3,Warriors won by 7 wickets (with 4 balls remaining)
+2012,548323,Kolkata Knight Riders v Kings XI Punjab,"17th match (D/N), Indian Premier League at Kolkata, Apr 15 2012",KKR,KXIP,134/9,132/7,Kings XI won by 2 runs
+2012,548324,Royal Challengers Bangalore v Rajasthan Royals,"18th match (N), Indian Premier League at Bengaluru, Apr 15 2012",RCB,RR,195/2,136,Royals won by 59 runs
+2012,548325,Mumbai Indians v Delhi Daredevils,"19th match (N), Indian Premier League at Mumbai, Apr 16 2012",MI,DC,92,93/3,Daredevils won by 7 wickets (with 31 balls remaining)
+2012,548326,Rajasthan Royals v Deccan Chargers,"20th match (D/N), Indian Premier League at Jaipur, Apr 17 2012",RR,SRH,196/2,197/5,Royals won by 5 wickets (with 2 balls remaining)
+2012,548327,Royal Challengers Bangalore v Pune Warriors,"21st match (N), Indian Premier League at Bengaluru, Apr 17 2012",RCB,PWI,182/6,186/4,RCB won by 6 wickets (with 0 balls remaining)
+2012,548328,Kings XI Punjab v Kolkata Knight Riders,"22nd match (N), Indian Premier League at Mohali, Apr 18 2012",KXIP,KKR,124/7,127/2,KKR won by 8 wickets (with 21 balls remaining)
+2012,548321,Delhi Daredevils v Deccan Chargers,"23rd match (D/N), Indian Premier League at Delhi, Apr 19 2012",DC,SRH,157/8,162/5,Daredevils won by 5 wickets (with 5 balls remaining)
+2012,548330,Chennai Super Kings v Pune Warriors,"24th match (N), Indian Premier League at Chennai, Apr 19 2012",CSK,PWI,164/5,151/7,Super Kings won by 13 runs
+2012,548331,Kings XI Punjab v Royal Challengers Bangalore,"25th match (N), Indian Premier League at Mohali, Apr 20 2012",KXIP,RCB,163/6,166/5,RCB won by 5 wickets (with 3 balls remaining)
+2012,548332,Chennai Super Kings v Rajasthan Royals,"26th match (D/N), Indian Premier League at Chennai, Apr 21 2012",CSK,RR,146/4,147/3,Super Kings won by 7 wickets (with 0 balls remaining)
+2012,548333,Delhi Daredevils v Pune Warriors,"27th match (N), Indian Premier League at Delhi, Apr 21 2012",DC,PWI,192/3,172/7,Warriors won by 20 runs
+2012,548334,Mumbai Indians v Kings XI Punjab,"28th match (D/N), Indian Premier League at Mumbai, Apr 22 2012",MI,KXIP,163/6,164/4,Kings XI won by 6 wickets (with 3 balls remaining)
+2012,548335,Deccan Chargers v Kolkata Knight Riders,"29th match (N), Indian Premier League at Cuttack, Apr 22 2012",SRH,KKR,126/7,127/5,KKR won by 5 wickets (with 6 balls remaining)
+2012,548336,Rajasthan Royals v Royal Challengers Bangalore,"30th match (N), Indian Premier League at Jaipur, Apr 23 2012",RR,RCB,189/3,143/7,RCB won by 46 runs
+2012,548337,Pune Warriors v Delhi Daredevils,"31st match (D/N), Indian Premier League at Pune, Apr 24 2012",PWI,DC,146/2,148/2,Daredevils won by 8 wickets (with 24 balls remaining)
+,,,,,,,,
+2012,548339,Kings XI Punjab v Mumbai Indians,"33rd match (D/N), Indian Premier League at Mohali, Apr 25 2012",KXIP,MI,168/3,171/6,Mum Indians won by 4 wickets (with 1 ball remaining)
+,,,,,,,,
+2012,548341,Pune Warriors v Deccan Chargers,"35th match (N), Indian Premier League at Pune, Apr 26 2012",PWI,SRH,177/4,159/7,Chargers won by 18 runs
+2012,548342,Delhi Daredevils v Mumbai Indians,"36th match (N), Indian Premier League at Delhi, Apr 27 2012",DC,MI,207/5,170/9,Daredevils won by 37 runs
+2012,548343,Chennai Super Kings v Kings XI Punjab,"37th match (D/N), Indian Premier League at Chennai, Apr 28 2012",CSK,KXIP,156/8,149/8,Kings XI won by 7 runs
+2012,548344,Kolkata Knight Riders v Royal Challengers Bangalore,"38th match (N), Indian Premier League at Kolkata, Apr 28 2012",KKR,RCB,190/4,143/6,KKR won by 47 runs
+2012,548345,Delhi Daredevils v Rajasthan Royals,"39th match (D/N), Indian Premier League at Delhi, Apr 29 2012",DC,RR,152/6,151/3,Daredevils won by 1 run
+2012,548346,Mumbai Indians v Deccan Chargers,"40th match (N), Indian Premier League at Mumbai, Apr 29 2012",MI,SRH,100,101/5,Mum Indians won by 5 wickets (with 11 balls remaining)
+2012,548347,Chennai Super Kings v Kolkata Knight Riders,"41st match (N), Indian Premier League at Chennai, Apr 30 2012",CSK,KKR,139/5,140/5,KKR won by 5 wickets (with 2 balls remaining)
+2012,548348,Deccan Chargers v Pune Warriors,"42nd match (D/N), Indian Premier League at Cuttack, May 1 2012",SRH,PWI,186/4,173/5,Chargers won by 13 runs
+2012,548349,Rajasthan Royals v Delhi Daredevils,"43rd match (N), Indian Premier League at Jaipur, May 1 2012",RR,DC,141/6,144/4,Daredevils won by 6 wickets (with 28 balls remaining)
+2012,548350,Royal Challengers Bangalore v Kings XI Punjab,"44th match (N), Indian Premier League at Bengaluru, May 2 2012",RCB,KXIP,158/5,163/6,Kings XI won by 4 wickets (with 1 ball remaining)
+2012,548351,Pune Warriors v Mumbai Indians,"45th match (N), Indian Premier League at Pune, May 3 2012",PWI,MI,120/9,119/6,Mum Indians won by 1 run
+2012,548352,Chennai Super Kings v Deccan Chargers,"46th match (N), Indian Premier League at Chennai, May 4 2012",CSK,SRH,160/6,150/5,Super Kings won by 10 runs
+2012,548353,Kolkata Knight Riders v Pune Warriors,"47th match (D/N), Indian Premier League at Kolkata, May 5 2012",KKR,PWI,150/5,143/8,KKR won by 7 runs
+2012,548354,Kings XI Punjab v Rajasthan Royals,"48th match (N), Indian Premier League at Mohali, May 5 2012",KXIP,RR,177/6,134/8,Royals won by 43 runs
+2012,548355,Mumbai Indians v Chennai Super Kings,"49th match (D/N), Indian Premier League at Mumbai, May 6 2012",MI,CSK,173/8,174/8,Mum Indians won by 2 wickets (with 0 balls remaining)
+2012,548356,Royal Challengers Bangalore v Deccan Chargers,"50th match (N), Indian Premier League at Bengaluru, May 6 2012",RCB,SRH,181/2,185/5,RCB won by 5 wickets (with 7 balls remaining)
+2012,548357,Delhi Daredevils v Kolkata Knight Riders,"51st match (N), Indian Premier League at Delhi, May 7 2012",DC,KKR,153/9,154/4,KKR won by 6 wickets (with 8 balls remaining)
+2012,548358,Pune Warriors v Rajasthan Royals,"52nd match (D/N), Indian Premier League at Pune, May 8 2012",PWI,RR,125/6,126/3,Royals won by 7 wickets (with 22 balls remaining)
+2012,548359,Deccan Chargers v Kings XI Punjab,"53rd match (N), Indian Premier League at Hyderabad (Deccan), May 8 2012",SRH,KXIP,170/5,145/8,Kings XI won by 25 runs
+2012,548360,Mumbai Indians v Royal Challengers Bangalore,"54th match (N), Indian Premier League at Mumbai, May 9 2012",MI,RCB,141/6,142/1,RCB won by 9 wickets (with 12 balls remaining)
+2012,548329,Deccan Chargers v Delhi Daredevils,"55th match (D/N), Indian Premier League at Hyderabad (Deccan), May 10 2012",SRH,DC,187/4,193/1,Daredevils won by 9 wickets (with 20 balls remaining)
+2012,548361,Rajasthan Royals v Chennai Super Kings,"56th match (N), Indian Premier League at Jaipur, May 10 2012",RR,CSK,126/6,127/6,Super Kings won by 4 wickets (with 11 balls remaining)
+2012,548362,Pune Warriors v Royal Challengers Bangalore,"57th match (N), Indian Premier League at Pune, May 11 2012",PWI,RCB,173/3,138/9,RCB won by 35 runs
+2012,548363,Kolkata Knight Riders v Mumbai Indians,"58th match (D/N), Indian Premier League at Kolkata, May 12 2012",KKR,MI,182/1,155/4,Mum Indians won by 27 runs
+2012,548364,Chennai Super Kings v Delhi Daredevils,"59th match (N), Indian Premier League at Chennai, May 12 2012",CSK,DC,114/5,115/1,Super Kings won by 9 wickets (with 28 balls remaining)
+2012,548365,Rajasthan Royals v Pune Warriors,"60th match (D/N), Indian Premier League at Jaipur, May 13 2012",RR,PWI,170/4,125/9,Royals won by 45 runs
+2012,548366,Kings XI Punjab v Deccan Chargers,"61st match (N), Indian Premier League at Mohali, May 13 2012",KXIP,SRH,190/4,194/6,Kings XI won by 4 wickets (with 0 balls remaining)
+2012,548367,Royal Challengers Bangalore v Mumbai Indians,"62nd match (D/N), Indian Premier League at Bengaluru, May 14 2012",RCB,MI,171/6,173/5,Mum Indians won by 5 wickets (with 2 balls remaining)
+2012,548368,Kolkata Knight Riders v Chennai Super Kings,"63rd match (N), Indian Premier League at Kolkata, May 14 2012",KKR,CSK,158/6,160/5,Super Kings won by 5 wickets (with 0 balls remaining)
+2012,548369,Delhi Daredevils v Kings XI Punjab,"64th match (N), Indian Premier League at Delhi, May 15 2012",DC,KXIP,136/8,140/5,Daredevils won by 5 wickets (with 6 balls remaining)
+2012,548370,Mumbai Indians v Kolkata Knight Riders,"65th match (N), Indian Premier League at Mumbai, May 16 2012",MI,KKR,140/7,108,KKR won by 32 runs
+2012,548371,Kings XI Punjab v Chennai Super Kings,"66th match (D/N), Indian Premier League at Dharamsala, May 17 2012",KXIP,CSK,120/7,123/4,Kings XI won by 6 wickets (with 21 balls remaining)
+2012,548372,Delhi Daredevils v Royal Challengers Bangalore,"67th match (N), Indian Premier League at Delhi, May 17 2012",DC,RCB,215/1,194/9,RCB won by 21 runs
+2012,548373,Deccan Chargers v Rajasthan Royals,"68th match (N), Indian Premier League at Hyderabad (Deccan), May 18 2012",SRH,RR,126/8,128/5,Chargers won by 5 wickets (with 8 balls remaining)
+2012,548374,Kings XI Punjab v Delhi Daredevils,"69th match (D/N), Indian Premier League at Dharamsala, May 19 2012",KXIP,DC,141/8,145/4,Daredevils won by 6 wickets (with 10 balls remaining)
+2012,548375,Pune Warriors v Kolkata Knight Riders,"70th match (N), Indian Premier League at Pune, May 19 2012",PWI,KKR,136/4,102/8,KKR won by 34 runs
+2012,548376,Deccan Chargers v Royal Challengers Bangalore,"71st match (D/N), Indian Premier League at Hyderabad (Deccan), May 20 2012",SRH,RCB,132/7,123/9,Chargers won by 9 runs
+2012,548377,Rajasthan Royals v Mumbai Indians,"72nd match (N), Indian Premier League at Jaipur, May 20 2012",RR,MI,162/6,163/0,Mum Indians won by 10 wickets (with 12 balls remaining)
+2012,548378,Delhi Daredevils v Kolkata Knight Riders,"1st Qualifying Match (N), Indian Premier League at Pune, May 22 2012",DC,KKR,162/4,144/8,KKR won by 18 runs
+2012,548379,Chennai Super Kings v Mumbai Indians,"Elimination Final (N), Indian Premier League at Bengaluru, May 23 2012",CSK,MI,187/5,149/9,Super Kings won by 38 runs
+2012,548380,Chennai Super Kings v Delhi Daredevils,"2nd Qualifying Match (N), Indian Premier League at Chennai, May 25 2012",CSK,DC,222/5,136,Super Kings won by 86 runs
+2012,548381,Chennai Super Kings v Kolkata Knight Riders,"Final (N), Indian Premier League at Chennai, May 27 2012",CSK,KKR,190/3,192/5,KKR won by 5 wickets
+2011,501198,Chennai Super Kings v Kolkata Knight Riders,"1st match (N), Indian Premier League at Chennai, Apr 8 2011",CSK,KKR,153/4,151/7,Super Kings won by 2 runs
+2011,501199,Deccan Chargers v Rajasthan Royals,"2nd match (D/N), Indian Premier League at Hyderabad (Deccan), Apr 9 2011",SRH,RR,137/8,141/2,Royals won by 8 wickets (with 7 balls remaining)
+2011,501200,Kochi Tuskers Kerala v Royal Challengers Bangalore,"3rd match (N), Indian Premier League at Kochi, Apr 9 2011",Kochi,RCB,161/5,162/4,RCB won by 6 wickets (with 8 balls remaining)
+2011,501201,Delhi Daredevils v Mumbai Indians,"4th match (D/N), Indian Premier League at Delhi, Apr 10 2011",DC,MI,95,99/2,Mum Indians won by 8 wickets (with 19 balls remaining)
+2011,501202,Pune Warriors v Kings XI Punjab,"5th match (N), Indian Premier League at Mumbai, Apr 10 2011",PWI,KXIP,112/8,113/3,Warriors won by 7 wickets (with 41 balls remaining)
+2011,501203,Kolkata Knight Riders v Deccan Chargers,"6th match (N), Indian Premier League at Kolkata, Apr 11 2011",KKR,SRH,163/4,154/8,KKR won by 9 runs
+2011,501204,Rajasthan Royals v Delhi Daredevils,"7th match (D/N), Indian Premier League at Jaipur, Apr 12 2011",RR,DC,151/6,152/4,Royals won by 6 wickets (with 9 balls remaining)
+2011,501205,Royal Challengers Bangalore v Mumbai Indians,"8th match (N), Indian Premier League at Bengaluru, Apr 12 2011",RCB,MI,140/4,143/1,Mum Indians won by 9 wickets (with 9 balls remaining)
+2011,501206,Kings XI Punjab v Chennai Super Kings,"9th match (D/N), Indian Premier League at Mohali, Apr 13 2011",KXIP,CSK,188/4,193/4,Kings XI won by 6 wickets (with 5 balls remaining)
+2011,501207,Pune Warriors v Kochi Tuskers Kerala,"10th match (N), Indian Premier League at Mumbai, Apr 13 2011",PWI,Kochi,148/8,151/6,Warriors won by 4 wickets (with 7 balls remaining)
+2011,501208,Deccan Chargers v Royal Challengers Bangalore,"11th match (N), Indian Premier League at Hyderabad (Deccan), Apr 14 2011",SRH,RCB,175/5,142/9,Chargers won by 33 runs
+2011,501209,Rajasthan Royals v Kolkata Knight Riders,"12th match (D/N), Indian Premier League at Jaipur, Apr 15 2011",RR,KKR,159/4,160/1,KKR won by 9 wickets (with 9 balls remaining)
+2011,501210,Mumbai Indians v Kochi Tuskers Kerala,"13th match (N), Indian Premier League at Mumbai, Apr 15 2011",MI,Kochi,182/2,184/2,Kochi won by 8 wickets (with 6 balls remaining)
+2011,501211,Chennai Super Kings v Royal Challengers Bangalore,"14th match (D/N), Indian Premier League at Chennai, Apr 16 2011",CSK,RCB,183/5,162/7,Super Kings won by 21 runs
+2011,501212,Deccan Chargers v Kings XI Punjab,"15th match (N), Indian Premier League at Hyderabad (Deccan), Apr 16 2011",SRH,KXIP,165/8,166/2,Kings XI won by 8 wickets (with 14 balls remaining)
+2011,501213,Pune Warriors v Delhi Daredevils,"16th match (D/N), Indian Premier League at Mumbai, Apr 17 2011",PWI,DC,187/5,190/7,Daredevils won by 3 wickets (with 4 balls remaining)
+2011,501214,Kolkata Knight Riders v Rajasthan Royals,"17th match (N), Indian Premier League at Kolkata, Apr 17 2011",KKR,RR,81,85/2,KKR won by 8 wickets (with 37 balls remaining)
+2011,501215,Kochi Tuskers Kerala v Chennai Super Kings,"18th match (N), Indian Premier League at Kochi, Apr 18 2011",Kochi,CSK,131/4,135/3,Kochi won by 7 wickets (with 12 balls remaining) (D/L method)
+2011,501216,Delhi Daredevils v Deccan Chargers,"19th match (D/N), Indian Premier League at Delhi, Apr 19 2011",DC,SRH,168/4,152/7,Chargers won by 16 runs
+,,,,,,,,
+2011,501218,Mumbai Indians v Pune Warriors,"21st match (D/N), Indian Premier League at Mumbai, Apr 20 2011",MI,PWI,118,124/3,Mum Indians won by 7 wickets (with 0 balls remaining)
+2011,501219,Kolkata Knight Riders v Kochi Tuskers Kerala,"22nd match (N), Indian Premier League at Kolkata, Apr 20 2011",KKR,Kochi,132/7,126/9,Kochi won by 6 runs
+2011,501220,Kings XI Punjab v Rajasthan Royals,"23rd match (N), Indian Premier League at Mohali, Apr 21 2011",KXIP,RR,195/7,147/7,Kings XI won by 48 runs
+2011,501222,Kolkata Knight Riders v Royal Challengers Bangalore,"24th match (D/N), Indian Premier League at Kolkata, Apr 22 2011",KKR,RCB,171/5,175/1,RCB won by 9 wickets (with 11 balls remaining)
+2011,501221,Mumbai Indians v Chennai Super Kings,"25th match (N), Indian Premier League at Mumbai, Apr 22 2011",MI,CSK,164/4,156/9,Mum Indians won by 8 runs
+2011,501223,Delhi Daredevils v Kings XI Punjab,"26th match (N), Indian Premier League at Delhi, Apr 23 2011",DC,KXIP,231/4,202/6,Daredevils won by 29 runs
+2011,501224,Deccan Chargers v Mumbai Indians,"27th match (D/N), Indian Premier League at Hyderabad (Deccan), Apr 24 2011",SRH,MI,172/4,135/8,Mum Indians won by 37 runs
+2011,501225,Rajasthan Royals v Kochi Tuskers Kerala,"28th match (N), Indian Premier League at Jaipur, Apr 24 2011",RR,Kochi,109,111/2,Royals won by 8 wickets (with 35 balls remaining)
+2011,501226,Chennai Super Kings v Pune Warriors,"29th match (N), Indian Premier League at Chennai, Apr 25 2011",CSK,PWI,142/6,117/9,Super Kings won by 25 runs
+2011,501227,Delhi Daredevils v Royal Challengers Bangalore,"30th match (N), Indian Premier League at Delhi, Apr 26 2011",DC,RCB,160/6,161/7,RCB won by 3 wickets (with 3 balls remaining)
+2011,501228,Pune Warriors v Chennai Super Kings,"31st match (D/N), Indian Premier League at Mumbai, Apr 27 2011",PWI,CSK,141/6,145/2,Super Kings won by 8 wickets (with 3 balls remaining)
+2011,501229,Kochi Tuskers Kerala v Deccan Chargers,"32nd match (N), Indian Premier League at Kochi, Apr 27 2011",Kochi,SRH,129/7,74,Chargers won by 55 runs
+2011,501230,Delhi Daredevils v Kolkata Knight Riders,"33rd match (N), Indian Premier League at Delhi, Apr 28 2011",DC,KKR,148/7,131/9,KKR won by 17 runs
+2011,501231,Rajasthan Royals v Mumbai Indians,"34th match (D/N), Indian Premier League at Jaipur, Apr 29 2011",RR,MI,94/8,95/3,Royals won by 7 wickets (with 11 balls remaining)
+2011,501232,Royal Challengers Bangalore v Pune Warriors,"35th match (N), Indian Premier League at Bengaluru, Apr 29 2011",RCB,PWI,181/5,155/5,RCB won by 26 runs
+2011,501233,Kochi Tuskers Kerala v Delhi Daredevils,"36th match (D/N), Indian Premier League at Kochi, Apr 30 2011",Kochi,DC,157/7,119,Daredevils won by 38 runs
+2011,501234,Kolkata Knight Riders v Kings XI Punjab,"37th match (N), Indian Premier League at Kolkata, Apr 30 2011",KKR,KXIP,119/6,120/2,KKR won by 8 wickets (with 16 balls remaining)
+2011,501235,Rajasthan Royals v Pune Warriors,"38th match (D/N), Indian Premier League at Jaipur, May 1 2011",RR,PWI,143/7,144/4,Royals won by 6 wickets (with 3 balls remaining)
+2011,501236,Chennai Super Kings v Deccan Chargers,"39th match (N), Indian Premier League at Chennai, May 1 2011",CSK,SRH,165/5,146/8,Super Kings won by 19 runs
+2011,501237,Mumbai Indians v Kings XI Punjab,"40th match (D/N), Indian Premier League at Mumbai, May 2 2011",MI,KXIP,159/5,136/8,Mum Indians won by 23 runs
+2011,501238,Delhi Daredevils v Kochi Tuskers Kerala,"41st match (N), Indian Premier League at Delhi, May 2 2011",DC,Kochi,140/6,141/3,Kochi won by 7 wickets (with 30 balls remaining)
+2011,501239,Deccan Chargers v Kolkata Knight Riders,"42nd match (N), Indian Premier League at Hyderabad (Deccan), May 3 2011",SRH,KKR,169/4,149/6,KKR won by 20 runs
+2011,501240,Chennai Super Kings v Rajasthan Royals,"43rd match (D/N), Indian Premier League at Chennai, May 4 2011",CSK,RR,147/6,149/2,Super Kings won by 8 wickets (with 8 balls remaining)
+2011,501241,Pune Warriors v Mumbai Indians,"44th match (N), Indian Premier League at Mumbai, May 4 2011",PWI,MI,160/7,139/7,Mum Indians won by 21 runs
+2011,501242,Kochi Tuskers Kerala v Kolkata Knight Riders,"45th match (D/N), Indian Premier League at Kochi, May 5 2011",Kochi,KKR,156/5,139/7,Kochi won by 17 runs
+2011,501243,Deccan Chargers v Delhi Daredevils,"46th match (N), Indian Premier League at Hyderabad (Deccan), May 5 2011",SRH,DC,175/5,179/6,Daredevils won by 4 wickets (with 6 balls remaining)
+2011,501244,Royal Challengers Bangalore v Kings XI Punjab,"47th match (N), Indian Premier League at Bengaluru, May 6 2011",RCB,KXIP,205/6,120/9,RCB won by 85 runs
+2011,501245,Kolkata Knight Riders v Chennai Super Kings,"48th match (D/N), Indian Premier League at Kolkata, May 7 2011",KKR,CSK,114/4,61/2,KKR won by 10 runs (D/L method)
+2011,501246,Mumbai Indians v Delhi Daredevils,"49th match (N), Indian Premier League at Mumbai, May 7 2011",MI,DC,178/4,146,Mum Indians won by 32 runs
+2011,501247,Royal Challengers Bangalore v Kochi Tuskers Kerala,"50th match (D/N), Indian Premier League at Bengaluru, May 8 2011",RCB,Kochi,125/9,128/1,RCB won by 9 wickets (with 41 balls remaining)
+2011,501248,Kings XI Punjab v Pune Warriors,"51st match (N), Indian Premier League at Mohali, May 8 2011",KXIP,PWI,119/8,120/5,Warriors won by 5 wickets (with 17 balls remaining)
+2011,501249,Rajasthan Royals v Chennai Super Kings,"52nd match (N), Indian Premier League at Jaipur, May 9 2011",RR,CSK,196/3,133,Super Kings won by 63 runs
+2011,501250,Deccan Chargers v Pune Warriors,"53rd match (D/N), Indian Premier League at Hyderabad (Deccan), May 10 2011",SRH,PWI,136/8,137/4,Warriors won by 6 wickets (with 10 balls remaining)
+2011,501251,Kings XI Punjab v Mumbai Indians,"54th match (N), Indian Premier League at Mohali, May 10 2011",KXIP,MI,163/8,87,Kings XI won by 76 runs
+2011,501252,Rajasthan Royals v Royal Challengers Bangalore,"55th match (N), Indian Premier League at Jaipur, May 11 2011",RR,RCB,146/6,151/1,RCB won by 9 wickets (with 18 balls remaining)
+2011,501253,Chennai Super Kings v Delhi Daredevils,"56th match (N), Indian Premier League at Chennai, May 12 2011",CSK,DC,176/4,158/6,Super Kings won by 18 runs
+2011,501254,Kochi Tuskers Kerala v Kings XI Punjab,"57th match (N), Indian Premier League at Indore, May 13 2011",Kochi,KXIP,178/7,181/4,Kings XI won by 6 wickets (with 7 balls remaining)
+2011,501255,Royal Challengers Bangalore v Kolkata Knight Riders,"58th match (D/N), Indian Premier League at Bengaluru, May 14 2011",RCB,KKR,89/4,105/6,RCB won by 4 wickets (with 3 balls remaining) (D/L method)
+2011,501256,Mumbai Indians v Deccan Chargers,"59th match (N), Indian Premier League at Mumbai, May 14 2011",MI,SRH,135/6,125/8,Chargers won by 10 runs
+2011,501257,Kings XI Punjab v Delhi Daredevils,"60th match (D/N), Indian Premier League at Dharamsala, May 15 2011",KXIP,DC,170/6,141/8,Kings XI won by 29 runs
+2011,501258,Kochi Tuskers Kerala v Rajasthan Royals,"61st match (N), Indian Premier League at Indore, May 15 2011",Kochi,RR,97,98/2,Kochi won by 8 wickets (with 76 balls remaining)
+2011,501259,Pune Warriors v Deccan Chargers,"62nd match (N), Indian Premier League at Mumbai, May 16 2011",PWI,SRH,136/9,138/4,Chargers won by 6 wickets (with 4 balls remaining)
+2011,501260,Kings XI Punjab v Royal Challengers Bangalore,"63rd match (N), Indian Premier League at Dharamsala, May 17 2011",KXIP,RCB,232/2,121,Kings XI won by 111 runs
+2011,501261,Chennai Super Kings v Kochi Tuskers Kerala,"64th match (N), Indian Premier League at Chennai, May 18 2011",CSK,Kochi,152/5,141/5,Super Kings won by 11 runs
+2011,501262,Pune Warriors v Kolkata Knight Riders,"65th match (N), Indian Premier League at Mumbai, May 19 2011",PWI,KKR,118/7,119/3,KKR won by 7 wickets (with 20 balls remaining)
+2011,501263,Mumbai Indians v Rajasthan Royals,"66th match (N), Indian Premier League at Mumbai, May 20 2011",MI,RR,133/5,134/0,Royals won by 10 wickets (with 41 balls remaining)
+2011,501264,Kings XI Punjab v Deccan Chargers,"67th match (D/N), Indian Premier League at Dharamsala, May 21 2011",KXIP,SRH,198/2,116,Chargers won by 82 runs
+,,,,,,,,
+2011,501266,Royal Challengers Bangalore v Chennai Super Kings,"69th match (D/N), Indian Premier League at Bengaluru, May 22 2011",RCB,CSK,128/8,129/2,RCB won by 8 wickets (with 12 balls remaining)
+2011,501267,Kolkata Knight Riders v Mumbai Indians,"70th match (N), Indian Premier League at Kolkata, May 22 2011",KKR,MI,175/7,178/5,Mum Indians won by 5 wickets (with 0 balls remaining)
+2011,501268,Chennai Super Kings v Royal Challengers Bangalore,"1st Qualifying Final (N), Indian Premier League at Mumbai, May 24 2011",CSK,RCB,175/4,177/4,Super Kings won by 6 wickets
+2011,501269,Mumbai Indians v Kolkata Knight Riders,"Elimination Final (N), Indian Premier League at Mumbai, May 25 2011",MI,KKR,147/7,148/6,Mum Indians won by 4 wickets
+2011,501270,Mumbai Indians v Royal Challengers Bangalore,"2nd Qualifying Final (N), Indian Premier League at Chennai, May 27 2011",MI,RCB,185/4,142/8,RCB won by 43 runs
+2011,501271,Chennai Super Kings v Royal Challengers Bangalore,"Final (N), Indian Premier League at Chennai, May 28 2011",CSK,RCB,205/5,147/8,Super Kings won by 58 runs
+2010,419106,Deccan Chargers v Kolkata Knight Riders,"1st match (N), Indian Premier League at Mumbai, Mar 12 2010",SRH,KKR,161/4,150/7,KKR won by 11 runs
+2010,419107,Mumbai Indians v Rajasthan Royals,"2nd match (D/N), Indian Premier League at Mumbai (BS), Mar 13 2010",MI,RR,212/6,208/7,Mum Indians won by 4 runs
+2010,419108,Kings XI Punjab v Delhi Daredevils,"3rd match (N), Indian Premier League at Mohali, Mar 13 2010",KXIP,DC,142/9,146/5,Daredevils won by 5 wickets (with 1 ball remaining)
+2010,419109,Kolkata Knight Riders v Royal Challengers Bangalore,"4th match (D/N), Indian Premier League at Kolkata, Mar 14 2010",KKR,RCB,135/7,136/3,KKR won by 7 wickets (with 4 balls remaining)
+2010,419110,Chennai Super Kings v Deccan Chargers,"5th match (N), Indian Premier League at Chennai, Mar 14 2010",CSK,SRH,190/4,159/9,Chargers won by 31 runs
+2010,419111,Rajasthan Royals v Delhi Daredevils,"6th match (N), Indian Premier League at Ahmedabad, Mar 15 2010",RR,DC,141/6,142/4,Daredevils won by 6 wickets (with 17 balls remaining)
+2010,419112,Royal Challengers Bangalore v Kings XI Punjab,"7th match (D/N), Indian Premier League at Bengaluru, Mar 16 2010",RCB,KXIP,203/3,204/2,RCB won by 8 wickets (with 7 balls remaining)
+2010,419113,Kolkata Knight Riders v Chennai Super Kings,"8th match (N), Indian Premier League at Kolkata, Mar 16 2010",KKR,CSK,164/3,109,Super Kings won by 55 runs
+2010,419114,Delhi Daredevils v Mumbai Indians,"9th match (N), Indian Premier League at Delhi, Mar 17 2010",DC,MI,218/7,120,Mum Indians won by 98 runs
+2010,419115,Royal Challengers Bangalore v Rajasthan Royals,"10th match (N), Indian Premier League at Bengaluru, Mar 18 2010",RCB,RR,92,93/0,RCB won by 10 wickets (with 56 balls remaining)
+2010,419116,Delhi Daredevils v Chennai Super Kings,"11th match (D/N), Indian Premier League at Delhi, Mar 19 2010",DC,CSK,185/6,190/5,Super Kings won by 5 wickets (with 5 balls remaining)
+2010,419117,Deccan Chargers v Kings XI Punjab,"12th match (N), Indian Premier League at Cuttack, Mar 19 2010",SRH,KXIP,170/7,164/8,Chargers won by 6 runs
+2010,419118,Rajasthan Royals v Kolkata Knight Riders,"13th match (D/N), Indian Premier League at Ahmedabad, Mar 20 2010",RR,KKR,168/7,134/5,Royals won by 34 runs
+2010,419119,Mumbai Indians v Royal Challengers Bangalore,"14th match (N), Indian Premier League at Mumbai (BS), Mar 20 2010",MI,RCB,151/9,155/3,RCB won by 7 wickets (with 5 balls remaining)
+2010,419120,Deccan Chargers v Delhi Daredevils,"15th match (D/N), Indian Premier League at Cuttack, Mar 21 2010",SRH,DC,171/6,161/9,Chargers won by 10 runs
+2010,419121,Chennai Super Kings v Kings XI Punjab,"16th match (N), Indian Premier League at Chennai, Mar 21 2010",CSK,KXIP,136/8,136/7,Match tied (Kings XI Punjab won the one-over eliminator)
+2010,419122,Mumbai Indians v Kolkata Knight Riders,"17th match (N), Indian Premier League at Mumbai (BS), Mar 22 2010",MI,KKR,155/3,156/3,Mum Indians won by 7 wickets (with 9 balls remaining)
+2010,419123,Royal Challengers Bangalore v Chennai Super Kings,"18th match (N), Indian Premier League at Bengaluru, Mar 23 2010",RCB,CSK,171/5,135/7,RCB won by 36 runs
+2010,419124,Kings XI Punjab v Rajasthan Royals,"19th match (N), Indian Premier League at Mohali, Mar 24 2010",KXIP,RR,183/5,152,Royals won by 31 runs
+2010,419128,Royal Challengers Bangalore v Delhi Daredevils,"20th match (D/N), Indian Premier League at Bengaluru, Mar 25 2010",RCB,DC,183/4,166/9,Daredevils won by 17 runs
+2010,419125,Mumbai Indians v Chennai Super Kings,"21st match (N), Indian Premier League at Mumbai (BS), Mar 25 2010",MI,CSK,180/2,181/5,Mum Indians won by 5 wickets (with 6 balls remaining)
+2010,419126,Rajasthan Royals v Deccan Chargers,"22nd match (N), Indian Premier League at Ahmedabad, Mar 26 2010",RR,SRH,148/9,151/2,Royals won by 8 wickets (with 26 balls remaining)
+2010,419127,Kings XI Punjab v Kolkata Knight Riders,"23rd match (N), Indian Premier League at Mohali, Mar 27 2010",KXIP,KKR,183/5,144/6,KKR won by 39 runs
+2010,419129,Rajasthan Royals v Chennai Super Kings,"24th match (D/N), Indian Premier League at Ahmedabad, Mar 28 2010",RR,CSK,177/8,160/6,Royals won by 17 runs
+2010,419130,Deccan Chargers v Mumbai Indians,"25th match (N), Indian Premier League at Mumbai, Mar 28 2010",SRH,MI,172/7,131,Mum Indians won by 41 runs
+2010,419131,Delhi Daredevils v Kolkata Knight Riders,"26th match (N), Indian Premier League at Delhi, Mar 29 2010",DC,KKR,177/4,137/9,Daredevils won by 40 runs
+2010,419132,Mumbai Indians v Kings XI Punjab,"27th match (N), Indian Premier League at Mumbai (BS), Mar 30 2010",MI,KXIP,163,164/6,Mum Indians won by 4 wickets (with 3 balls remaining)
+2010,419133,Chennai Super Kings v Royal Challengers Bangalore,"28th match (D/N), Indian Premier League at Chennai, Mar 31 2010",CSK,RCB,161/4,162/5,Super Kings won by 5 wickets
+2010,419134,Delhi Daredevils v Rajasthan Royals,"29th match (N), Indian Premier League at Delhi, Mar 31 2010",DC,RR,188/6,121,Daredevils won by 67 runs
+2010,419135,Kolkata Knight Riders v Deccan Chargers,"30th match (N), Indian Premier League at Kolkata, Apr 1 2010",KKR,SRH,181/6,157/5,KKR won by 24 runs
+2010,419136,Kings XI Punjab v Royal Challengers Bangalore,"31st match (N), Indian Premier League at Mohali, Apr 2 2010",KXIP,RCB,181/5,184/4,RCB won by 6 wickets (with 5 balls remaining)
+2010,419137,Chennai Super Kings v Rajasthan Royals,"32nd match (D/N), Indian Premier League at Chennai, Apr 3 2010",CSK,RR,246/5,223/5,Super Kings won by 23 runs
+2010,419138,Mumbai Indians v Deccan Chargers,"33rd match (N), Indian Premier League at Mumbai (BS), Apr 3 2010",MI,SRH,178/5,115,Mum Indians won by 63 runs
+2010,419139,Kolkata Knight Riders v Kings XI Punjab,"34th match (D/N), Indian Premier League at Kolkata, Apr 4 2010",KKR,KXIP,200/3,204/2,Kings XI won by 8 wickets (with 10 balls remaining)
+2010,419140,Delhi Daredevils v Royal Challengers Bangalore,"35th match (N), Indian Premier League at Delhi, Apr 4 2010",DC,RCB,184/5,147/9,Daredevils won by 37 runs
+2010,419141,Deccan Chargers v Rajasthan Royals,"36th match (N), Indian Premier League at Nagpur, Apr 5 2010",SRH,RR,159,157,Royals won by 2 runs
+2010,419142,Chennai Super Kings v Mumbai Indians,"37th match (N), Indian Premier League at Chennai, Apr 6 2010",CSK,MI,165/4,141/9,Super Kings won by 24 runs
+2010,419143,Rajasthan Royals v Kings XI Punjab,"38th match (D/N), Indian Premier League at Jaipur, Apr 7 2010",RR,KXIP,153/6,157/1,Royals won by 9 wickets (with 30 balls remaining)
+2010,419144,Kolkata Knight Riders v Delhi Daredevils,"39th match (N), Indian Premier League at Kolkata, Apr 7 2010",KKR,DC,181/3,167/8,KKR won by 14 runs
+2010,419145,Royal Challengers Bangalore v Deccan Chargers,"40th match (N), Indian Premier League at Bengaluru, Apr 8 2010",RCB,SRH,184/6,186/3,Chargers won by 7 wickets (with 4 balls remaining)
+2010,419146,Kings XI Punjab v Mumbai Indians,"41st match (N), Indian Premier League at Mohali, Apr 9 2010",KXIP,MI,154/9,158/4,Kings XI won by 6 wickets (with 4 balls remaining)
+2010,419147,Deccan Chargers v Chennai Super Kings,"42nd match (D/N), Indian Premier League at Nagpur, Apr 10 2010",SRH,CSK,138/8,139/4,Chargers won by 6 wickets (with 5 balls remaining)
+2010,419148,Royal Challengers Bangalore v Kolkata Knight Riders,"43rd match (N), Indian Premier League at Bengaluru, Apr 10 2010",RCB,KKR,160/9,162/3,RCB won by 7 wickets (with 17 balls remaining)
+2010,419149,Delhi Daredevils v Kings XI Punjab,"44th match (D/N), Indian Premier League at Delhi, Apr 11 2010",DC,KXIP,111,112/3,Kings XI won by 7 wickets (with 8 balls remaining)
+2010,419150,Rajasthan Royals v Mumbai Indians,"45th match (N), Indian Premier League at Jaipur, Apr 11 2010",RR,MI,174/5,137/8,Mum Indians won by 37 runs
+2010,419151,Deccan Chargers v Royal Challengers Bangalore,"46th match (N), Indian Premier League at Nagpur, Apr 12 2010",SRH,RCB,151/6,138,Chargers won by 13 runs
+2010,419152,Mumbai Indians v Delhi Daredevils,"47th match (D/N), Indian Premier League at Mumbai (BS), Apr 13 2010",MI,DC,183/4,144/7,Mum Indians won by 39 runs
+2010,419153,Chennai Super Kings v Kolkata Knight Riders,"48th match (N), Indian Premier League at Chennai, Apr 13 2010",CSK,KKR,139/8,143/1,Super Kings won by 9 wickets (with 39 balls remaining)
+2010,419154,Rajasthan Royals v Royal Challengers Bangalore,"49th match (N), Indian Premier League at Jaipur, Apr 14 2010",RR,RCB,130/6,132/5,RCB won by 5 wickets (with 26 balls remaining)
+2010,419155,Chennai Super Kings v Delhi Daredevils,"50th match (N), Indian Premier League at Chennai, Apr 15 2010",CSK,DC,112/9,113/4,Daredevils won by 6 wickets (with 8 balls remaining)
+2010,419156,Kings XI Punjab v Deccan Chargers,"51st match (N), Indian Premier League at Dharamsala, Apr 16 2010",KXIP,SRH,174/3,178/5,Chargers won by 5 wickets (with 5 balls remaining)
+2010,419157,Royal Challengers Bangalore v Mumbai Indians,"52nd match (D/N), Indian Premier League at Bengaluru, Apr 17 2010",RCB,MI,191/4,134/9,Mum Indians won by 57 runs
+2010,419158,Kolkata Knight Riders v Rajasthan Royals,"53rd match (N), Indian Premier League at Kolkata, Apr 17 2010",KKR,RR,132/9,133/2,KKR won by 8 wickets (with 23 balls remaining)
+2010,419159,Kings XI Punjab v Chennai Super Kings,"54th match (D/N), Indian Premier League at Dharamsala, Apr 18 2010",KXIP,CSK,192/3,195/4,Super Kings won by 6 wickets (with 2 balls remaining)
+2010,419160,Delhi Daredevils v Deccan Chargers,"55th match (N), Indian Premier League at Delhi, Apr 18 2010",DC,SRH,145/7,134/7,Chargers won by 11 runs
+2010,419161,Kolkata Knight Riders v Mumbai Indians,"56th match (N), Indian Premier League at Kolkata, Apr 19 2010",KKR,MI,133/8,135/1,KKR won by 9 wickets (with 15 balls remaining)
+2010,419162,Mumbai Indians v Royal Challengers Bangalore,"1st Semi-Final (N), Indian Premier League at Mumbai, Apr 21 2010",MI,RCB,184/5,149/9,Mum Indians won by 35 runs
+2010,419163,Chennai Super Kings v Deccan Chargers,"2nd Semi-Final (N), Indian Premier League at Mumbai, Apr 22 2010",CSK,SRH,142/7,104,Super Kings won by 38 runs
+2010,419164,Deccan Chargers v Royal Challengers Bangalore,"3rd Place Play-off (N), Indian Premier League at Mumbai, Apr 24 2010",SRH,RCB,82,86/1,RCB won by 9 wickets
+2010,419165,Mumbai Indians v Chennai Super Kings,"Final (N), Indian Premier League at Mumbai, Apr 25 2010",MI,CSK,168/5,146/9,Super Kings won by 22 runs
+2009,392181,Chennai Super Kings v Mumbai Indians,"1st match, Indian Premier League at Cape Town, Apr 18 2009",CSK,MI,165/7,146/7,Mum Indians won by 19 runs
+2009,392182,Royal Challengers Bangalore v Rajasthan Royals,"2nd match (D/N), Indian Premier League at Cape Town, Apr 18 2009",RCB,RR,133/8,58,RCB won by 75 runs
+2009,392183,Delhi Daredevils v Kings XI Punjab,"3rd match, Indian Premier League at Cape Town, Apr 19 2009",DC,KXIP,104/7,58/0,Daredevils won by 10 wickets (with 7 balls remaining) (D/L method)
+2009,392184,Deccan Chargers v Kolkata Knight Riders,"4th match (D/N), Indian Premier League at Cape Town, Apr 19 2009",SRH,KKR,101,104/2,Chargers won by 8 wickets (with 41 balls remaining)
+2009,392185,Royal Challengers Bangalore v Chennai Super Kings,"5th match (D/N), Indian Premier League at Port Elizabeth, Apr 20 2009",RCB,CSK,179/5,87,Super Kings won by 92 runs
+2009,392186,Kings XI Punjab v Kolkata Knight Riders,"6th match, Indian Premier League at Durban, Apr 21 2009",KXIP,KKR,158/6,79/1,KKR won by 11 runs (D/L method)
+,,,,,,,,
+2009,392188,Royal Challengers Bangalore v Deccan Chargers,"8th match (D/N), Indian Premier League at Cape Town, Apr 22 2009",RCB,SRH,184/6,160/8,Chargers won by 24 runs
+2009,392189,Chennai Super Kings v Delhi Daredevils,"9th match, Indian Premier League at Durban, Apr 23 2009",CSK,DC,189/5,180/9,Daredevils won by 9 runs
+2009,392190,Kolkata Knight Riders v Rajasthan Royals,"10th match (D/N), Indian Premier League at Cape Town, Apr 23 2009",KKR,RR,150/6,150/8,Match tied (Rajasthan Royals won the one-over eliminator)
+2009,392191,Royal Challengers Bangalore v Kings XI Punjab,"11th match (D/N), Indian Premier League at Durban, Apr 24 2009",RCB,KXIP,168/9,173/3,Kings XI won by 7 wickets (with 6 balls remaining)
+2009,392192,Deccan Chargers v Mumbai Indians,"12th match, Indian Premier League at Durban, Apr 25 2009",SRH,MI,168/9,156/7,Chargers won by 12 runs
+,,,,,,,,
+2009,392194,Royal Challengers Bangalore v Delhi Daredevils,"14th match, Indian Premier League at Port Elizabeth, Apr 26 2009",RCB,DC,149/7,150/4,Daredevils won by 6 wickets (with 4 balls remaining)
+2009,392195,Kings XI Punjab v Rajasthan Royals,"15th match (D/N), Indian Premier League at Cape Town, Apr 26 2009",KXIP,RR,139/6,112/7,Kings XI won by 27 runs
+2009,392196,Chennai Super Kings v Deccan Chargers,"16th match, Indian Premier League at Durban, Apr 27 2009",CSK,SRH,165/6,169/4,Chargers won by 6 wickets (with 3 balls remaining)
+2009,392197,Kolkata Knight Riders v Mumbai Indians,"17th match (D/N), Indian Premier League at Port Elizabeth, Apr 27 2009",KKR,MI,187/6,95,Mum Indians won by 92 runs
+2009,392198,Delhi Daredevils v Rajasthan Royals,"18th match (D/N), Indian Premier League at Centurion, Apr 28 2009",DC,RR,143/7,147/5,Royals won by 5 wickets (with 9 balls remaining)
+2009,392199,Royal Challengers Bangalore v Kolkata Knight Riders,"19th match, Indian Premier League at Durban, Apr 29 2009",RCB,KKR,139/6,143/5,RCB won by 5 wickets (with 1 ball remaining)
+2009,392200,Kings XI Punjab v Mumbai Indians,"20th match (D/N), Indian Premier League at Durban, Apr 29 2009",KXIP,MI,119/8,116/7,Kings XI won by 3 runs
+2009,392201,Deccan Chargers v Delhi Daredevils,"21st match, Indian Premier League at Centurion, Apr 30 2009",SRH,DC,148/9,150/4,Daredevils won by 6 wickets (with 8 balls remaining)
+2009,392202,Chennai Super Kings v Rajasthan Royals,"22nd match (D/N), Indian Premier League at Centurion, Apr 30 2009",CSK,RR,164/5,126,Super Kings won by 38 runs
+2009,392203,Kolkata Knight Riders v Mumbai Indians,"23rd match, Indian Premier League at East London, May 1 2009",KKR,MI,148/6,139/6,Mum Indians won by 9 runs
+2009,392204,Royal Challengers Bangalore v Kings XI Punjab,"24th match (D/N), Indian Premier League at Durban, May 1 2009",RCB,KXIP,145/9,137/7,RCB won by 8 runs
+2009,392205,Deccan Chargers v Rajasthan Royals,"25th match, Indian Premier League at Port Elizabeth, May 2 2009",SRH,RR,141/5,142/7,Royals won by 3 wickets (with 2 balls remaining)
+2009,392206,Chennai Super Kings v Delhi Daredevils,"26th match (D/N), Indian Premier League at Johannesburg, May 2 2009",CSK,DC,163,145/8,Super Kings won by 18 runs
+2009,392207,Kings XI Punjab v Kolkata Knight Riders,"27th match, Indian Premier League at Port Elizabeth, May 3 2009",KXIP,KKR,153/3,154/4,Kings XI won by 6 wickets (with 0 balls remaining)
+2009,392208,Royal Challengers Bangalore v Mumbai Indians,"28th match (D/N), Indian Premier League at Johannesburg, May 3 2009",RCB,MI,149/4,150/1,RCB won by 9 wickets (with 11 balls remaining)
+2009,392209,Chennai Super Kings v Deccan Chargers,"29th match (D/N), Indian Premier League at East London, May 4 2009",CSK,SRH,178/3,100,Super Kings won by 78 runs
+2009,392210,Kings XI Punjab v Rajasthan Royals,"30th match, Indian Premier League at Durban, May 5 2009",KXIP,RR,211/4,133/8,Royals won by 78 runs
+2009,392211,Delhi Daredevils v Kolkata Knight Riders,"31st match (D/N), Indian Premier League at Durban, May 5 2009",DC,KKR,154/3,157/1,Daredevils won by 9 wickets (with 6 balls remaining)
+2009,392212,Deccan Chargers v Mumbai Indians,"32nd match (D/N), Indian Premier League at Centurion, May 6 2009",SRH,MI,145/6,126/8,Chargers won by 19 runs
+2009,392213,Royal Challengers Bangalore v Rajasthan Royals,"33rd match, Indian Premier League at Centurion, May 7 2009",RCB,RR,105,107/3,Royals won by 7 wickets (with 30 balls remaining)
+2009,392214,Chennai Super Kings v Kings XI Punjab,"34th match (D/N), Indian Premier League at Centurion, May 7 2009",CSK,KXIP,185/3,174/3,Super Kings won by 12 runs (D/L method)
+2009,392215,Delhi Daredevils v Mumbai Indians,"35th match (D/N), Indian Premier League at East London, May 8 2009",DC,MI,116,118/3,Daredevils won by 7 wickets (with 7 balls remaining)
+2009,392216,Deccan Chargers v Kings XI Punjab,"36th match, Indian Premier League at Kimberley, May 9 2009",SRH,KXIP,168/5,169/7,Kings XI won by 3 wickets (with 1 ball remaining)
+2009,392217,Chennai Super Kings v Rajasthan Royals,"37th match (D/N), Indian Premier League at Kimberley, May 9 2009",CSK,RR,140/7,141/3,Super Kings won by 7 wickets (with 10 balls remaining)
+2009,392218,Royal Challengers Bangalore v Mumbai Indians,"38th match, Indian Premier League at Port Elizabeth, May 10 2009",RCB,MI,157/2,141/7,Mum Indians won by 16 runs
+2009,392219,Delhi Daredevils v Kolkata Knight Riders,"39th match (D/N), Indian Premier League at Johannesburg, May 10 2009",DC,KKR,123/8,125/3,Daredevils won by 7 wickets (with 17 balls remaining)
+2009,392220,Deccan Chargers v Rajasthan Royals,"40th match (D/N), Indian Premier League at Kimberley, May 11 2009",SRH,RR,166/7,113,Chargers won by 53 runs
+2009,392221,Royal Challengers Bangalore v Kolkata Knight Riders,"41st match, Indian Premier League at Centurion, May 12 2009",RCB,KKR,173/4,176/4,RCB won by 6 wickets (with 4 balls remaining)
+2009,392222,Kings XI Punjab v Mumbai Indians,"42nd match (D/N), Indian Premier League at Centurion, May 12 2009",KXIP,MI,119/9,122/2,Mum Indians won by 8 wickets (with 22 balls remaining)
+2009,392223,Deccan Chargers v Delhi Daredevils,"43rd match (D/N), Indian Premier League at Durban, May 13 2009",SRH,DC,173/7,161,Daredevils won by 12 runs
+2009,392224,Royal Challengers Bangalore v Chennai Super Kings,"44th match, Indian Premier League at Durban, May 14 2009",RCB,CSK,129,132/8,RCB won by 2 wickets (with 2 balls remaining)
+2009,392225,Mumbai Indians v Rajasthan Royals,"45th match (D/N), Indian Premier League at Durban, May 14 2009",MI,RR,145/7,143,Royals won by 2 runs
+2009,392226,Delhi Daredevils v Kings XI Punjab,"46th match (D/N), Indian Premier League at Bloemfontein, May 15 2009",DC,KXIP,120/9,123/4,Kings XI won by 6 wickets (with 5 balls remaining)
+2009,392227,Chennai Super Kings v Mumbai Indians,"47th match, Indian Premier League at Port Elizabeth, May 16 2009",CSK,MI,147/5,151/3,Super Kings won by 7 wickets (with 5 balls remaining)
+2009,392228,Deccan Chargers v Kolkata Knight Riders,"48th match (D/N), Indian Premier League at Johannesburg, May 16 2009",SRH,KKR,160/5,166/4,Chargers won by 6 wickets (with 0 balls remaining)
+2009,392229,Deccan Chargers v Kings XI Punjab,"49th match, Indian Premier League at Johannesburg, May 17 2009",SRH,KXIP,134/7,133/8,Kings XI won by 1 run
+2009,392230,Delhi Daredevils v Rajasthan Royals,"50th match (D/N), Indian Premier League at Bloemfontein, May 17 2009",DC,RR,150/3,136/9,Daredevils won by 14 runs
+2009,392231,Chennai Super Kings v Kolkata Knight Riders,"51st match (D/N), Indian Premier League at Centurion, May 18 2009",CSK,KKR,188/3,189/3,KKR won by 7 wickets (with 0 balls remaining)
+2009,392232,Royal Challengers Bangalore v Delhi Daredevils,"52nd match (D/N), Indian Premier League at Johannesburg, May 19 2009",RCB,DC,134/7,135/3,RCB won by 7 wickets (with 6 balls remaining)
+2009,392233,Kolkata Knight Riders v Rajasthan Royals,"53rd match, Indian Premier League at Durban, May 20 2009",KKR,RR,101/9,102/6,KKR won by 4 wickets (with 3 balls remaining)
+2009,392234,Chennai Super Kings v Kings XI Punjab,"54th match (D/N), Indian Premier League at Durban, May 20 2009",CSK,KXIP,116/9,92/8,Super Kings won by 24 runs
+2009,392235,Delhi Daredevils v Mumbai Indians,"55th match, Indian Premier League at Centurion, May 21 2009",DC,MI,165/8,166/6,Daredevils won by 4 wickets (with 15 balls remaining)
+2009,392236,Royal Challengers Bangalore v Deccan Chargers,"56th match (D/N), Indian Premier League at Centurion, May 21 2009",RCB,SRH,170/4,158/6,RCB won by 12 runs
+2009,392237,Deccan Chargers v Delhi Daredevils,"1st Semi-Final (D/N), Indian Premier League at Centurion, May 22 2009",SRH,DC,153/8,154/4,Chargers won by 6 wickets
+2009,392238,Chennai Super Kings v Royal Challengers Bangalore,"2nd Semi-Final (D/N), Indian Premier League at Johannesburg, May 23 2009",CSK,RCB,146/5,149/4,RCB won by 6 wickets
+2009,392239,Deccan Chargers v Royal Challengers Bangalore,"Final (D/N), Indian Premier League at Johannesburg, May 24 2009",SRH,RCB,143/6,137/9,Chargers won by 6 runs
+2008,335982,Royal Challengers Bangalore v Kolkata Knight Riders,"1st match (N), Indian Premier League at Bengaluru, Apr 18 2008",RCB,KKR,222/3,82,KKR won by 140 runs
+2008,335983,Kings XI Punjab v Chennai Super Kings,"2nd match (D/N), Indian Premier League at Mohali, Apr 19 2008",KXIP,CSK,240/5,207/4,Super Kings won by 33 runs
+2008,335984,Delhi Daredevils v Rajasthan Royals,"3rd match (N), Indian Premier League at Delhi, Apr 19 2008",DC,RR,129/8,132/1,Daredevils won by 9 wickets (with 29 balls remaining)
+2008,335986,Kolkata Knight Riders v Deccan Chargers,"4th match (D/N), Indian Premier League at Kolkata, Apr 20 2008",KKR,SRH,110,112/5,KKR won by 5 wickets (with 6 balls remaining)
+2008,335985,Mumbai Indians v Royal Challengers Bangalore,"5th match (N), Indian Premier League at Mumbai, Apr 20 2008",MI,RCB,165/6,166/5,RCB won by 5 wickets (with 2 balls remaining)
+2008,335987,Rajasthan Royals v Kings XI Punjab,"6th match (N), Indian Premier League at Jaipur, Apr 21 2008",RR,KXIP,166/8,168/4,Royals won by 6 wickets (with 11 balls remaining)
+2008,335988,Deccan Chargers v Delhi Daredevils,"7th match (N), Indian Premier League at Hyderabad (Deccan), Apr 22 2008",SRH,DC,142/8,143/1,Daredevils won by 9 wickets (with 42 balls remaining)
+2008,335989,Chennai Super Kings v Mumbai Indians,"8th match (N), Indian Premier League at Chennai, Apr 23 2008",CSK,MI,208/5,202/7,Super Kings won by 6 runs
+2008,335990,Deccan Chargers v Rajasthan Royals,"9th match (N), Indian Premier League at Hyderabad (Deccan), Apr 24 2008",SRH,RR,214/5,217/7,Royals won by 3 wickets (with 1 ball remaining)
+2008,335991,Kings XI Punjab v Mumbai Indians,"10th match (N), Indian Premier League at Mohali, Apr 25 2008",KXIP,MI,182,116/9,Kings XI won by 66 runs
+2008,335993,Chennai Super Kings v Kolkata Knight Riders,"11th match (D/N), Indian Premier League at Chennai, Apr 26 2008",CSK,KKR,147/9,152/1,Super Kings won by 9 wickets (with 18 balls remaining)
+2008,335992,Royal Challengers Bangalore v Rajasthan Royals,"12th match (N), Indian Premier League at Bengaluru, Apr 26 2008",RCB,RR,135/8,138/3,Royals won by 7 wickets (with 17 balls remaining)
+2008,335995,Kings XI Punjab v Delhi Daredevils,"13th match (D/N), Indian Premier League at Mohali, Apr 27 2008",KXIP,DC,158/8,162/6,Kings XI won by 4 wickets (with 3 balls remaining)
+2008,335994,Mumbai Indians v Deccan Chargers,"14th match (N), Indian Premier League at Mumbai, Apr 27 2008",MI,SRH,154/7,155/0,Chargers won by 10 wickets (with 48 balls remaining)
+2008,335996,Royal Challengers Bangalore v Chennai Super Kings,"15th match (N), Indian Premier League at Bengaluru, Apr 28 2008",RCB,CSK,178/5,165,Super Kings won by 13 runs
+2008,335997,Kolkata Knight Riders v Mumbai Indians,"16th match (N), Indian Premier League at Kolkata, Apr 29 2008",KKR,MI,137/8,138/3,Mum Indians won by 7 wickets (with 8 balls remaining)
+2008,335998,Delhi Daredevils v Royal Challengers Bangalore,"17th match (N), Indian Premier League at Delhi, Apr 30 2008",DC,RCB,191/5,181/5,Daredevils won by 10 runs
+2008,336000,Rajasthan Royals v Kolkata Knight Riders,"18th match (D/N), Indian Premier League at Jaipur, May 1 2008",RR,KKR,196/7,151,Royals won by 45 runs
+2008,335999,Deccan Chargers v Kings XI Punjab,"19th match (N), Indian Premier League at Hyderabad (Deccan), May 1 2008",SRH,KXIP,164/8,167/3,Kings XI won by 7 wickets (with 7 balls remaining)
+2008,336001,Chennai Super Kings v Delhi Daredevils,"20th match (N), Indian Premier League at Chennai, May 2 2008",CSK,DC,169/6,172/2,Daredevils won by 8 wickets (with 6 balls remaining)
+2008,336034,Royal Challengers Bangalore v Deccan Chargers,"21st match (D/N), Indian Premier League at Bengaluru, May 3 2008",RCB,SRH,156/8,153/6,RCB won by 3 runs
+2008,336003,Kings XI Punjab v Kolkata Knight Riders,"22nd match (N), Indian Premier League at Mohali, May 3 2008",KXIP,KKR,178/6,169/6,Kings XI won by 9 runs
+2008,336004,Mumbai Indians v Delhi Daredevils,"23rd match (D/N), Indian Premier League at Mumbai, May 4 2008",MI,DC,162/8,133,Mum Indians won by 29 runs
+2008,336005,Rajasthan Royals v Chennai Super Kings,"24th match (N), Indian Premier League at Jaipur, May 4 2008",RR,CSK,109,110/2,Royals won by 8 wickets (with 34 balls remaining)
+2008,336006,Royal Challengers Bangalore v Kings XI Punjab,"25th match (N), Indian Premier League at Bengaluru, May 5 2008",RCB,KXIP,126,127/4,Kings XI won by 6 wickets (with 10 balls remaining)
+2008,336007,Chennai Super Kings v Deccan Chargers,"26th match (N), Indian Premier League at Chennai, May 6 2008",CSK,SRH,144/7,148/3,Chargers won by 7 wickets (with 12 balls remaining)
+2008,336008,Mumbai Indians v Rajasthan Royals,"27th match (N), Indian Premier League at Mumbai, May 7 2008",MI,RR,103,104/3,Mum Indians won by 7 wickets (with 29 balls remaining)
+2008,336009,Delhi Daredevils v Chennai Super Kings,"28th match (D/N), Indian Premier League at Delhi, May 8 2008",DC,CSK,187/5,188/6,Super Kings won by 4 wickets (with 0 balls remaining)
+2008,336010,Kolkata Knight Riders v Royal Challengers Bangalore,"29th match (N), Indian Premier League at Kolkata, May 8 2008",KKR,RCB,129/7,124/4,KKR won by 5 runs
+2008,336011,Rajasthan Royals v Deccan Chargers,"30th match (N), Indian Premier League at Jaipur, May 9 2008",RR,SRH,140/8,141/2,Royals won by 8 wickets (with 24 balls remaining)
+2008,336013,Chennai Super Kings v Kings XI Punjab,"31st match (N), Indian Premier League at Chennai, May 10 2008",CSK,KXIP,181/4,163/9,Super Kings won by 18 runs
+2008,336014,Deccan Chargers v Kolkata Knight Riders,"32nd match (D/N), Indian Premier League at Hyderabad (Deccan), May 11 2008",SRH,KKR,204/4,181/7,KKR won by 23 runs
+2008,336015,Rajasthan Royals v Delhi Daredevils,"33rd match (N), Indian Premier League at Jaipur, May 11 2008",RR,DC,156/7,159/7,Royals won by 3 wickets (with 5 balls remaining)
+2008,336016,Kings XI Punjab v Royal Challengers Bangalore,"34th match (N), Indian Premier League at Mohali, May 12 2008",KXIP,RCB,143/8,144/1,Kings XI won by 9 wickets (with 26 balls remaining)
+2008,336017,Kolkata Knight Riders v Delhi Daredevils,"35th match (N), Indian Premier League at Kolkata, May 13 2008",KKR,DC,133/6,110,KKR won by 23 runs
+2008,336018,Mumbai Indians v Chennai Super Kings,"36th match (N), Indian Premier League at Mumbai, May 14 2008",MI,CSK,156/6,158/1,Mum Indians won by 9 wickets (with 37 balls remaining)
+2008,336020,Delhi Daredevils v Deccan Chargers,"37th match (N), Indian Premier League at Delhi, May 15 2008",DC,SRH,194/4,182/9,Daredevils won by 12 runs
+2008,336021,Mumbai Indians v Kolkata Knight Riders,"38th match (N), Indian Premier League at Mumbai, May 16 2008",MI,KKR,67,68/2,Mum Indians won by 8 wickets (with 87 balls remaining)
+2008,336023,Rajasthan Royals v Royal Challengers Bangalore,"39th match (D/N), Indian Premier League at Jaipur, May 17 2008",RR,RCB,197/1,132/9,Royals won by 65 runs
+2008,336022,Delhi Daredevils v Kings XI Punjab,"40th match (N), Indian Premier League at Delhi, May 17 2008",DC,KXIP,118/4,94/3,Kings XI won by 6 runs (D/L method)
+2008,336025,Kolkata Knight Riders v Chennai Super Kings,"41st match (D/N), Indian Premier League at Kolkata, May 18 2008",KKR,CSK,149/5,55/0,Super Kings won by 3 runs (D/L method)
+2008,336024,Deccan Chargers v Mumbai Indians,"42nd match (N), Indian Premier League at Hyderabad (Deccan), May 18 2008",SRH,MI,178/7,153/7,Mum Indians won by 25 runs
+2008,336026,Royal Challengers Bangalore v Delhi Daredevils,"43rd match (N), Indian Premier League at Bengaluru, May 19 2008",RCB,DC,154/7,158/5,Daredevils won by 5 wickets (with 10 balls remaining)
+2008,336027,Kolkata Knight Riders v Rajasthan Royals,"44th match (N), Indian Premier League at Kolkata, May 20 2008",KKR,RR,147/8,150/4,Royals won by 6 wickets (with 21 balls remaining)
+2008,336028,Mumbai Indians v Kings XI Punjab,"45th match (D/N), Indian Premier League at Mumbai, May 21 2008",MI,KXIP,189/4,188,Kings XI won by 1 run
+2008,336029,Chennai Super Kings v Royal Challengers Bangalore,"46th match (N), Indian Premier League at Chennai, May 21 2008",CSK,RCB,126/8,112/8,RCB won by 14 runs
+,,,,,,,,
+2008,336031,Kings XI Punjab v Deccan Chargers,"48th match (N), Indian Premier League at Mohali, May 23 2008",KXIP,SRH,175/4,178/4,Kings XI won by 6 wickets (with 3 balls remaining)
+2008,336033,Chennai Super Kings v Rajasthan Royals,"49th match (D/N), Indian Premier League at Chennai, May 24 2008",CSK,RR,211/5,201/7,Royals won by 10 runs
+2008,336032,Delhi Daredevils v Mumbai Indians,"50th match (N), Indian Premier League at Delhi, May 24 2008",DC,MI,176/8,179/5,Daredevils won by 5 wickets (with 1 ball remaining)
+2008,336002,Deccan Chargers v Royal Challengers Bangalore,"51st match (D/N), Indian Premier League at Hyderabad (Deccan), May 25 2008",SRH,RCB,165,171/5,RCB won by 5 wickets (with 6 balls remaining)
+2008,336035,Kolkata Knight Riders v Kings XI Punjab,"52nd match (N), Indian Premier League at Kolkata, May 25 2008",KKR,KXIP,174/6,175/7,KKR won by 3 wickets (with 2 balls remaining)
+2008,336036,Rajasthan Royals v Mumbai Indians,"53rd match (N), Indian Premier League at Jaipur, May 26 2008",RR,MI,145/7,146/5,Royals won by 5 wickets (with 0 balls remaining)
+2008,336037,Deccan Chargers v Chennai Super Kings,"54th match (N), Indian Premier League at Hyderabad (Deccan), May 27 2008",SRH,CSK,147/8,148/3,Super Kings won by 7 wickets (with 4 balls remaining)
+2008,336012,Royal Challengers Bangalore v Mumbai Indians,"55th match (D/N), Indian Premier League at Bengaluru, May 28 2008",RCB,MI,122/9,126/1,Mum Indians won by 9 wickets (with 12 balls remaining)
+2008,336019,Kings XI Punjab v Rajasthan Royals,"56th match (N), Indian Premier League at Mohali, May 28 2008",KXIP,RR,221/3,180/7,Kings XI won by 41 runs
+2008,336038,Delhi Daredevils v Rajasthan Royals,"1st Semi-Final (N), Indian Premier League at Mumbai, May 30 2008",DC,RR,192/9,87,Royals won by 105 runs
+2008,336039,Chennai Super Kings v Kings XI Punjab,"2nd Semi-Final (N), Indian Premier League at Mumbai, May 31 2008",CSK,KXIP,112/8,116/1,Super Kings won by 9 wickets (with 31 balls remaining)
+2008,336040,Chennai Super Kings v Rajasthan Royals,"Final (N), Indian Premier League at Mumbai, Jun 1 2008",CSK,RR,163/5,164/7,Royals won by 3 wickets (with 0 balls remaining)
