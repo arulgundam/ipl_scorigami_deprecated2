@@ -12,6 +12,7 @@ fetch('/data')
 
         const seasonFilter = document.getElementById('seasonFilter');
         const teamFilter = document.getElementById('teamFilter');
+        const resetFiltersBtn = document.getElementById('resetFilters');
 
         seasons.forEach(season => {
             seasonFilter.innerHTML += `<option value="${season}">${season}</option>`;
@@ -62,6 +63,13 @@ fetch('/data')
             Plotly.react('plot', [updatedTrace], layout);
         };
 
+        // Reset Filters Function
+        const resetFilters = () => {
+            seasonFilter.value = '';
+            teamFilter.value = '';
+
+            applyFilters();
+        };
 
         // Initial plot
         const firstInningsScores = data.map(d => parseInt(d.first_innings_score));
@@ -109,7 +117,8 @@ fetch('/data')
 
         Plotly.newPlot('plot', [trace], layout);
 
-        // Attach event listeners to filters
+        // Attach event listeners to filters and reset button
         seasonFilter.addEventListener('change', applyFilters);
         teamFilter.addEventListener('change', applyFilters);
+        resetFiltersBtn.addEventListener('click', resetFilters);
     });

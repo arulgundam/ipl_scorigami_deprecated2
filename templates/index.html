@@ -22,23 +22,25 @@
             <div class="col-md-10 offset-md-1">
                 <div class="card main-card">
                     <div class="card-body">
-                        <p class="card-text">This plot shows the first and second innings scores of all completed IPL games, including ones decided by the Duckworth–Lewis–Stern (DLS) method. This is the entire history of the IPL, in one graph.</p>
+                        <p class="card-text">This plot shows the first and second innings scores of all completed IPL games, including ones decided by the Duckworth–Lewis–Stern (DLS) method.</p>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Filters Container -->
         <div class="row mt-2 mb-2 filters-container">
-            <div class="col-md-10 offset-md-1 d-flex justify-content-between">
-                <div class="form-group">
-                    <label for="seasonFilter">Season:</label>
+            <div class="col-md-10 offset-md-1 d-flex justify-content-center align-items-center">
+                <!-- Season Filter -->
+                <div class="form-group mb-0 mr-3">
                     <select id="seasonFilter" class="form-control">
                         <option value="">All Seasons</option>
                         <!-- Options will be populated dynamically -->
                     </select>
                 </div>
-                <div class="form-group">
-                    <label for="teamFilter">Team:</label>
+                <!-- Reset Button -->
+                <button type="button" class="btn btn-danger mr-3" id="resetFilters">Reset</button>
+                <!-- Team Filter -->
+                <div class="form-group mb-0">
                     <select id="teamFilter" class="form-control">
                         <option value="">All Teams</option>
                         <!-- Options will be populated dynamically -->
