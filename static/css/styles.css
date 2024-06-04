@@ -1,6 +1,9 @@
 /* Body Styles */
 body {
     background-color: #f8f9fa; /* Light grey background */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* Banner Styles */
@@ -16,6 +19,7 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: #f8f9fa; /* Light grey background for main container */
+    flex: 1;
 }
 
 .plot-container {
@@ -55,4 +59,19 @@ body {
 /* Filters Container Styles */
 .filters-container {
     background-color: #f8f9fa;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #6c757d;
+    padding: 10px;
+    color: white;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
 }
