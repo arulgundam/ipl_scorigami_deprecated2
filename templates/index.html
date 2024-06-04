@@ -22,21 +22,27 @@
             <div class="col-md-10 offset-md-1">
                 <div class="card main-card">
                     <div class="card-body">
-                        <p class="card-text">This plot shows the first and second innings scores of all completed IPL games, including ones decided by the Duckworth–Lewis–Stern (DLS) method. This is the entire history of the IPL, in one graph.</p>
-                        <!-- Filters -->
-                        <div class="filters mb-3">
-                            <label for="seasonFilter">Season:</label>
-                            <select id="seasonFilter" class="form-control">
-                                <option value="">All Seasons</option>
-                                <!-- Options will be populated dynamically -->
-                            </select>
-                            <label for="teamFilter" class="mt-2">Team:</label>
-                            <select id="teamFilter" class="form-control">
-                                <option value="">All Teams</option>
-                                <!-- Options will be populated dynamically -->
-                            </select>
-                        </div>
+                        <p class="card-text">This plot shows the first and second innings scores of all completed IPL games, including ones decided by the Duckworth–Lewis–Stern (DLS) method.</p>
                     </div>
+                </div>
+            </div>
+        </div>
+        <!-- Filters Container -->
+        <div class="row mt-2 mb-2 filters-container">
+            <div class="col-md-10 offset-md-1 d-flex justify-content-between">
+                <div class="form-group">
+                    <label for="seasonFilter">Season:</label>
+                    <select id="seasonFilter" class="form-control">
+                        <option value="">All Seasons</option>
+                        <!-- Options will be populated dynamically -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="teamFilter">Team:</label>
+                    <select id="teamFilter" class="form-control">
+                        <option value="">All Teams</option>
+                        <!-- Options will be populated dynamically -->
+                    </select>
                 </div>
             </div>
         </div>
@@ -72,12 +78,12 @@
                 </div>
             </div>
         </div>
-        <div class="grey-footer">
-            <p class="text-center">
-                <a href="https://github.com/arulgundam/ipl_scorigami" target="_blank">Source Code</a> | 
-                <a href="https://www.linkedin.com/in/arul-gundam/" target="_blank">LinkedIn</a>
-            </p>
-        </div>
+        <!-- Footer -->
+        <footer class="footer bg-dark text-white text-center">
+            <div class="container">
+                <p class="mb-0">Source Code: <a href="https://github.com/arulgundam/ipl_scorigami" class="text-white" target="_blank">arulgundam/ipl_scorigami</a> | LinkedIn: <a href="https://www.linkedin.com/in/arul-gundam/" class="text-white" target="_blank">Arul Gundam</a></p>
+            </div>
+        </footer>
     </div>
     <!-- Plotly JS and Fetch Data -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

@@ -80,8 +80,7 @@ fetch('/data')
                 opacity: 0.8
             },
             type: 'scatter',
-            text: data.map(d => `<i>${d.description}</i><br><span>${d.name} | <b>${d.result}</b></span>`), // Updated hover text format
-            hoverinfo: 'text',
+            text: data.map(d => `<i>${d.description}</i><br><span>${d.name} | <b>${d.result}</b> | 1st: ${d.first_innings_score}, 2nd: ${d.second_innings_score}<span>`),
             hoverlabel: {
                 bgcolor: 'white',
                 bordercolor: 'black',

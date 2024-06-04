@@ -52,25 +52,7 @@ body {
     flex-direction: row; /* Set flex direction to row */
 }
 
-/* Footer Styles */
-.grey-footer {
-    background-color: #343a40; /* Dark grey background */
-    color: #fff; /* White text */
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-.grey-footer p {
-    margin: 0;
-}
-
-.grey-footer a {
-    color: #fff; /* White text for links */
-    text-decoration: none;
-}
-
-.grey-footer a:hover {
-    text-decoration: underline;
+/* Filters Container Styles */
+.filters-container {
+    background-color: #f8f9fa;
 }
